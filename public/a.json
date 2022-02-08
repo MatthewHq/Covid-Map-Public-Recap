@@ -1,0 +1,11909 @@
+[
+	{
+		"county": "Abbeville",
+		"deaths": 0,
+		"cases": 1632,
+		"latitude": 34.3766,
+		"longitude": -82.3467
+	},
+	{
+		"county": "Acadia",
+		"deaths": 634,
+		"cases": 11230,
+		"latitude": 30.4037,
+		"longitude": -92.2145
+	},
+	{
+		"county": "Accomack",
+		"deaths": 327,
+		"cases": 22873,
+		"latitude": 37.9299,
+		"longitude": -75.662
+	},
+	{
+		"county": "Ada",
+		"deaths": 974,
+		"cases": 42237,
+		"latitude": 43.7223,
+		"longitude": -116.3861
+	},
+	{
+		"county": "Adair",
+		"deaths": 774,
+		"cases": 9316,
+		"latitude": 41.29,
+		"longitude": -94.5601
+	},
+	{
+		"county": "Adams",
+		"deaths": 5397,
+		"cases": 142004,
+		"latitude": 46.7735,
+		"longitude": -118.8277
+	},
+	{
+		"county": "Addison",
+		"deaths": 98,
+		"cases": 3749,
+		"latitude": 44.1664,
+		"longitude": -73.2555
+	},
+	{
+		"county": "Aiken",
+		"deaths": 314,
+		"cases": 6745,
+		"latitude": 33.8497,
+		"longitude": -81.6097
+	},
+	{
+		"county": "Aitkin",
+		"deaths": 0,
+		"cases": 144,
+		"latitude": 46.5303,
+		"longitude": -93.7051
+	},
+	{
+		"county": "Alachua",
+		"deaths": 220,
+		"cases": 17397,
+		"latitude": 29.506,
+		"longitude": -82.2806
+	},
+	{
+		"county": "Alamance",
+		"deaths": 369,
+		"cases": 8659,
+		"latitude": 36.0876,
+		"longitude": -79.2756
+	},
+	{
+		"county": "Alameda",
+		"deaths": 3788,
+		"cases": 115424,
+		"latitude": 37.6861,
+		"longitude": -121.7608
+	},
+	{
+		"county": "Alamosa",
+		"deaths": 110,
+		"cases": 1609,
+		"latitude": 37.4767,
+		"longitude": -105.8396
+	},
+	{
+		"county": "Albany",
+		"deaths": 4639,
+		"cases": 72863,
+		"latitude": 41.3099,
+		"longitude": -105.6085
+	},
+	{
+		"county": "Albemarle",
+		"deaths": 206,
+		"cases": 6344,
+		"latitude": 38.1266,
+		"longitude": -78.4386
+	},
+	{
+		"county": "Alcona",
+		"deaths": 34,
+		"cases": 313,
+		"latitude": 44.6575,
+		"longitude": -83.2946
+	},
+	{
+		"county": "Alcorn",
+		"deaths": 35,
+		"cases": 630,
+		"latitude": 34.9224,
+		"longitude": -88.4432
+	},
+	{
+		"county": "Alexander",
+		"deaths": 0,
+		"cases": 972,
+		"latitude": 35.8162,
+		"longitude": -81.2962
+	},
+	{
+		"county": "Alfalfa",
+		"deaths": 0,
+		"cases": 51,
+		"latitude": 36.5791,
+		"longitude": -98.4578
+	},
+	{
+		"county": "Allamakee",
+		"deaths": 194,
+		"cases": 4849,
+		"latitude": 43.2084,
+		"longitude": -91.296
+	},
+	{
+		"county": "Allegan",
+		"deaths": 132,
+		"cases": 6902,
+		"latitude": 42.4575,
+		"longitude": -85.6979
+	},
+	{
+		"county": "Allegany",
+		"deaths": 492,
+		"cases": 8579,
+		"latitude": 42.3193,
+		"longitude": -77.7386
+	},
+	{
+		"county": "Alleghany",
+		"deaths": 24,
+		"cases": 875,
+		"latitude": 36.5035,
+		"longitude": -81.1218
+	},
+	{
+		"county": "Allegheny",
+		"deaths": 5767,
+		"cases": 82690,
+		"latitude": 40.417,
+		"longitude": -80.0544
+	},
+	{
+		"county": "Allen",
+		"deaths": 4649,
+		"cases": 57991,
+		"latitude": 30.867,
+		"longitude": -92.7986
+	},
+	{
+		"county": "Allendale",
+		"deaths": 96,
+		"cases": 1083,
+		"latitude": 32.9593,
+		"longitude": -81.2363
+	},
+	{
+		"county": "Alpena",
+		"deaths": 301,
+		"cases": 3608,
+		"latitude": 45.074,
+		"longitude": -83.4399
+	},
+	{
+		"county": "Alpine",
+		"deaths": 0,
+		"cases": 108,
+		"latitude": 38.8103,
+		"longitude": -119.8033
+	},
+	{
+		"county": "Amador",
+		"deaths": 0,
+		"cases": 444,
+		"latitude": 38.419,
+		"longitude": -120.8232
+	},
+	{
+		"county": "Amelia",
+		"deaths": 43,
+		"cases": 984,
+		"latitude": 37.3366,
+		"longitude": -77.9882
+	},
+	{
+		"county": "Amherst",
+		"deaths": 4,
+		"cases": 988,
+		"latitude": 37.4487,
+		"longitude": -79.1057
+	},
+	{
+		"county": "Amite",
+		"deaths": 37,
+		"cases": 1935,
+		"latitude": 31.1611,
+		"longitude": -90.8006
+	},
+	{
+		"county": "Anchorage",
+		"deaths": 249,
+		"cases": 11123,
+		"latitude": 61.1508,
+		"longitude": -149.1091
+	},
+	{
+		"county": "Anderson",
+		"deaths": 545,
+		"cases": 14661,
+		"latitude": 32.0561,
+		"longitude": -95.5043
+	},
+	{
+		"county": "Andrew",
+		"deaths": 0,
+		"cases": 557,
+		"latitude": 39.8388,
+		"longitude": -94.8205
+	},
+	{
+		"county": "Andrews",
+		"deaths": 0,
+		"cases": 1160,
+		"latitude": 32.2963,
+		"longitude": -102.5297
+	},
+	{
+		"county": "Androscoggin",
+		"deaths": 88,
+		"cases": 6248,
+		"latitude": 44.0086,
+		"longitude": -70.057
+	},
+	{
+		"county": "Angelina",
+		"deaths": 51,
+		"cases": 5252,
+		"latitude": 31.2345,
+		"longitude": -94.7665
+	},
+	{
+		"county": "Anne Arundel",
+		"deaths": 5661,
+		"cases": 121939,
+		"latitude": 39.1457,
+		"longitude": -76.7745
+	},
+	{
+		"county": "Anoka",
+		"deaths": 1437,
+		"cases": 30432,
+		"latitude": 45.0484,
+		"longitude": -93.2472
+	},
+	{
+		"county": "Anson",
+		"deaths": 6,
+		"cases": 1924,
+		"latitude": 34.9645,
+		"longitude": -80.0746
+	},
+	{
+		"county": "Antelope",
+		"deaths": 0,
+		"cases": 245,
+		"latitude": 42.3377,
+		"longitude": -97.9718
+	},
+	{
+		"county": "Antrim",
+		"deaths": 1,
+		"cases": 588,
+		"latitude": 44.9024,
+		"longitude": -85.0613
+	},
+	{
+		"county": "Apache",
+		"deaths": 720,
+		"cases": 37037,
+		"latitude": 36.9221,
+		"longitude": -109.0753
+	},
+	{
+		"county": "Appanoose",
+		"deaths": 135,
+		"cases": 329,
+		"latitude": 40.8017,
+		"longitude": -92.8871
+	},
+	{
+		"county": "Appling",
+		"deaths": 395,
+		"cases": 4469,
+		"latitude": 31.7642,
+		"longitude": -82.3508
+	},
+	{
+		"county": "Appomattox",
+		"deaths": 0,
+		"cases": 1041,
+		"latitude": 37.3591,
+		"longitude": -78.8269
+	},
+	{
+		"county": "Aransas",
+		"deaths": 0,
+		"cases": 161,
+		"latitude": 28.167,
+		"longitude": -97.006
+	},
+	{
+		"county": "Arapahoe",
+		"deaths": 9628,
+		"cases": 161935,
+		"latitude": 39.5993,
+		"longitude": -105.035
+	},
+	{
+		"county": "Archer",
+		"deaths": 0,
+		"cases": 19,
+		"latitude": 33.5937,
+		"longitude": -98.6257
+	},
+	{
+		"county": "Archuleta",
+		"deaths": 0,
+		"cases": 449,
+		"latitude": 37.2675,
+		"longitude": -107.0301
+	},
+	{
+		"county": "Arenac",
+		"deaths": 44,
+		"cases": 1263,
+		"latitude": 43.9794,
+		"longitude": -83.9637
+	},
+	{
+		"county": "Arkansas",
+		"deaths": 0,
+		"cases": 150,
+		"latitude": 34.1192,
+		"longitude": -91.3789
+	},
+	{
+		"county": "Arlington",
+		"deaths": 3025,
+		"cases": 68148,
+		"latitude": 38.8786,
+		"longitude": -77.1011
+	},
+	{
+		"county": "Armstrong",
+		"deaths": 147,
+		"cases": 2893,
+		"latitude": 35.1075,
+		"longitude": -101.3628
+	},
+	{
+		"county": "Aroostook",
+		"deaths": 12,
+		"cases": 310,
+		"latitude": 46.8662,
+		"longitude": -67.9919
+	},
+	{
+		"county": "Ascension",
+		"deaths": 2385,
+		"cases": 38548,
+		"latitude": 30.1828,
+		"longitude": -90.8674
+	},
+	{
+		"county": "Ashe",
+		"deaths": 0,
+		"cases": 814,
+		"latitude": 36.3944,
+		"longitude": -81.4898
+	},
+	{
+		"county": "Ashland",
+		"deaths": 0,
+		"cases": 777,
+		"latitude": 46.5986,
+		"longitude": -90.6618
+	},
+	{
+		"county": "Ashley",
+		"deaths": 0,
+		"cases": 891,
+		"latitude": 33.1212,
+		"longitude": -91.5464
+	},
+	{
+		"county": "Ashtabula",
+		"deaths": 974,
+		"cases": 9481,
+		"latitude": 41.5364,
+		"longitude": -80.8597
+	},
+	{
+		"county": "Asotin",
+		"deaths": 80,
+		"cases": 879,
+		"latitude": 46.4152,
+		"longitude": -117.0502
+	},
+	{
+		"county": "Assumption",
+		"deaths": 393,
+		"cases": 11253,
+		"latitude": 29.9886,
+		"longitude": -91.0555
+	},
+	{
+		"county": "Atascosa",
+		"deaths": 56,
+		"cases": 1255,
+		"latitude": 28.9643,
+		"longitude": -98.4957
+	},
+	{
+		"county": "Atchison",
+		"deaths": 0,
+		"cases": 782,
+		"latitude": 40.3392,
+		"longitude": -95.392
+	},
+	{
+		"county": "Athens",
+		"deaths": 65,
+		"cases": 441,
+		"latitude": 39.4016,
+		"longitude": -81.9549
+	},
+	{
+		"county": "Atkinson",
+		"deaths": 56,
+		"cases": 975,
+		"latitude": 31.3358,
+		"longitude": -83.0446
+	},
+	{
+		"county": "Atlantic",
+		"deaths": 4012,
+		"cases": 67914,
+		"latitude": 39.564,
+		"longitude": -74.5961
+	},
+	{
+		"county": "Atoka",
+		"deaths": 0,
+		"cases": 77,
+		"latitude": 34.2356,
+		"longitude": -96.217
+	},
+	{
+		"county": "Attala",
+		"deaths": 279,
+		"cases": 8691,
+		"latitude": 33.122,
+		"longitude": -89.465
+	},
+	{
+		"county": "Audrain",
+		"deaths": 1,
+		"cases": 870,
+		"latitude": 39.2747,
+		"longitude": -91.5763
+	},
+	{
+		"county": "Audubon",
+		"deaths": 22,
+		"cases": 358,
+		"latitude": 41.592,
+		"longitude": -94.8811
+	},
+	{
+		"county": "Auglaize",
+		"deaths": 144,
+		"cases": 2285,
+		"latitude": 40.5558,
+		"longitude": -84.0796
+	},
+	{
+		"county": "Augusta",
+		"deaths": 42,
+		"cases": 3208,
+		"latitude": 38.1618,
+		"longitude": -78.8413
+	},
+	{
+		"county": "Aurora",
+		"deaths": 0,
+		"cases": 362,
+		"latitude": 43.5272,
+		"longitude": -98.5894
+	},
+	{
+		"county": "Austin",
+		"deaths": 0,
+		"cases": 915,
+		"latitude": 29.7965,
+		"longitude": -96.1051
+	},
+	{
+		"county": "Autauga",
+		"deaths": 162,
+		"cases": 4908,
+		"latitude": 32.6793,
+		"longitude": -86.4607
+	},
+	{
+		"county": "Avery",
+		"deaths": 0,
+		"cases": 27,
+		"latitude": 36.0987,
+		"longitude": -81.8482
+	},
+	{
+		"county": "Avoyelles",
+		"deaths": 378,
+		"cases": 4962,
+		"latitude": 30.954,
+		"longitude": -92.1884
+	},
+	{
+		"county": "Baca",
+		"deaths": 0,
+		"cases": 682,
+		"latitude": 37.3861,
+		"longitude": -102.2801
+	},
+	{
+		"county": "Bacon",
+		"deaths": 76,
+		"cases": 2562,
+		"latitude": 31.5441,
+		"longitude": -82.4145
+	},
+	{
+		"county": "Bailey",
+		"deaths": 0,
+		"cases": 239,
+		"latitude": 34.2292,
+		"longitude": -102.7284
+	},
+	{
+		"county": "Baker",
+		"deaths": 286,
+		"cases": 2919,
+		"latitude": 30.2752,
+		"longitude": -82.1603
+	},
+	{
+		"county": "Baldwin",
+		"deaths": 930,
+		"cases": 23720,
+		"latitude": 30.2758,
+		"longitude": -87.7014
+	},
+	{
+		"county": "Ballard",
+		"deaths": 0,
+		"cases": 413,
+		"latitude": 37.0513,
+		"longitude": -89.0446
+	},
+	{
+		"county": "Baltimore",
+		"deaths": 9493,
+		"cases": 200450,
+		"latitude": 39.424,
+		"longitude": -76.6177
+	},
+	{
+		"county": "Bamberg",
+		"deaths": 0,
+		"cases": 777,
+		"latitude": 33.0985,
+		"longitude": -81.0138
+	},
+	{
+		"county": "Bandera",
+		"deaths": 0,
+		"cases": 279,
+		"latitude": 29.6383,
+		"longitude": -98.9869
+	},
+	{
+		"county": "Banks",
+		"deaths": 5,
+		"cases": 2135,
+		"latitude": 34.3095,
+		"longitude": -83.6381
+	},
+	{
+		"county": "Bannock",
+		"deaths": 2,
+		"cases": 798,
+		"latitude": 42.6504,
+		"longitude": -112.1901
+	},
+	{
+		"county": "Baraga",
+		"deaths": 0,
+		"cases": 48,
+		"latitude": 46.7766,
+		"longitude": -88.4965
+	},
+	{
+		"county": "Barber",
+		"deaths": 0,
+		"cases": 57,
+		"latitude": 37.0144,
+		"longitude": -98.6492
+	},
+	{
+		"county": "Barbour",
+		"deaths": 76,
+		"cases": 3862,
+		"latitude": 39.1487,
+		"longitude": -80.0417
+	},
+	{
+		"county": "Barnes",
+		"deaths": 0,
+		"cases": 221,
+		"latitude": 46.9428,
+		"longitude": -98.2238
+	},
+	{
+		"county": "Barnstable",
+		"deaths": 3468,
+		"cases": 55986,
+		"latitude": 41.6012,
+		"longitude": -70.6364
+	},
+	{
+		"county": "Barnwell",
+		"deaths": 19,
+		"cases": 1444,
+		"latitude": 33.2419,
+		"longitude": -81.3659
+	},
+	{
+		"county": "Barren",
+		"deaths": 12,
+		"cases": 1324,
+		"latitude": 37.0047,
+		"longitude": -85.9263
+	},
+	{
+		"county": "Barron",
+		"deaths": 0,
+		"cases": 531,
+		"latitude": 45.5353,
+		"longitude": -92.0269
+	},
+	{
+		"county": "Barrow",
+		"deaths": 388,
+		"cases": 10535,
+		"latitude": 33.9917,
+		"longitude": -83.7218
+	},
+	{
+		"county": "Barry",
+		"deaths": 63,
+		"cases": 2620,
+		"latitude": 36.6707,
+		"longitude": -93.9399
+	},
+	{
+		"county": "Bartholomew",
+		"deaths": 1238,
+		"cases": 17324,
+		"latitude": 39.2094,
+		"longitude": -85.9183
+	},
+	{
+		"county": "Barton",
+		"deaths": 28,
+		"cases": 1132,
+		"latitude": 37.5568,
+		"longitude": -94.6153
+	},
+	{
+		"county": "Bartow",
+		"deaths": 1730,
+		"cases": 21422,
+		"latitude": 34.3702,
+		"longitude": -84.9214
+	},
+	{
+		"county": "Bastrop",
+		"deaths": 111,
+		"cases": 5861,
+		"latitude": 30.2819,
+		"longitude": -97.2448
+	},
+	{
+		"county": "Bates",
+		"deaths": 51,
+		"cases": 386,
+		"latitude": 38.071,
+		"longitude": -94.08
+	},
+	{
+		"county": "Bath",
+		"deaths": 34,
+		"cases": 294,
+		"latitude": 38.0013,
+		"longitude": -79.8239
+	},
+	{
+		"county": "Baxter",
+		"deaths": 0,
+		"cases": 355,
+		"latitude": 36.2721,
+		"longitude": -92.2824
+	},
+	{
+		"county": "Bay",
+		"deaths": 669,
+		"cases": 14163,
+		"latitude": 30.2549,
+		"longitude": -85.9511
+	},
+	{
+		"county": "Bayfield",
+		"deaths": 46,
+		"cases": 207,
+		"latitude": 46.4354,
+		"longitude": -91.06
+	},
+	{
+		"county": "Beadle",
+		"deaths": 130,
+		"cases": 3670,
+		"latitude": 44.4338,
+		"longitude": -97.9885
+	},
+	{
+		"county": "Beaufort",
+		"deaths": 605,
+		"cases": 18076,
+		"latitude": 35.303,
+		"longitude": -76.7889
+	},
+	{
+		"county": "Beauregard",
+		"deaths": 171,
+		"cases": 2621,
+		"latitude": 30.5289,
+		"longitude": -93.4391
+	},
+	{
+		"county": "Beaver",
+		"deaths": 3224,
+		"cases": 24604,
+		"latitude": 40.7355,
+		"longitude": -80.3091
+	},
+	{
+		"county": "Beaverhead",
+		"deaths": 0,
+		"cases": 60,
+		"latitude": 44.6384,
+		"longitude": -112.5919
+	},
+	{
+		"county": "Becker",
+		"deaths": 0,
+		"cases": 965,
+		"latitude": 46.8066,
+		"longitude": -95.3526
+	},
+	{
+		"county": "Beckham",
+		"deaths": 0,
+		"cases": 270,
+		"latitude": 35.2974,
+		"longitude": -99.6284
+	},
+	{
+		"county": "Bedford",
+		"deaths": 262,
+		"cases": 13399,
+		"latitude": 35.4523,
+		"longitude": -86.2582
+	},
+	{
+		"county": "Bee",
+		"deaths": 0,
+		"cases": 332,
+		"latitude": 28.5277,
+		"longitude": -97.7831
+	},
+	{
+		"county": "Belknap",
+		"deaths": 0,
+		"cases": 2478,
+		"latitude": 43.443,
+		"longitude": -71.5937
+	},
+	{
+		"county": "Bell",
+		"deaths": 186,
+		"cases": 12374,
+		"latitude": 31.0525,
+		"longitude": -97.479
+	},
+	{
+		"county": "Belmont",
+		"deaths": 405,
+		"cases": 12221,
+		"latitude": 40.0105,
+		"longitude": -80.8814
+	},
+	{
+		"county": "Beltrami",
+		"deaths": 0,
+		"cases": 480,
+		"latitude": 47.5065,
+		"longitude": -94.997
+	},
+	{
+		"county": "Ben Hill",
+		"deaths": 20,
+		"cases": 2043,
+		"latitude": 31.7135,
+		"longitude": -83.2515
+	},
+	{
+		"county": "Benewah",
+		"deaths": 0,
+		"cases": 68,
+		"latitude": 47.3301,
+		"longitude": -116.8849
+	},
+	{
+		"county": "Bennington",
+		"deaths": 56,
+		"cases": 3058,
+		"latitude": 42.8848,
+		"longitude": -73.2143
+	},
+	{
+		"county": "Benson",
+		"deaths": 0,
+		"cases": 34,
+		"latitude": 48.2875,
+		"longitude": -99.4344
+	},
+	{
+		"county": "Bent",
+		"deaths": 0,
+		"cases": 36,
+		"latitude": 38.1063,
+		"longitude": -102.956
+	},
+	{
+		"county": "Benton",
+		"deaths": 3195,
+		"cases": 54330,
+		"latitude": 46.2826,
+		"longitude": -119.2937
+	},
+	{
+		"county": "Benzie",
+		"deaths": 0,
+		"cases": 186,
+		"latitude": 44.5203,
+		"longitude": -85.8728
+	},
+	{
+		"county": "Bergen",
+		"deaths": 65508,
+		"cases": 909260,
+		"latitude": 40.8247,
+		"longitude": -74.0613
+	},
+	{
+		"county": "Berkeley",
+		"deaths": 761,
+		"cases": 20612,
+		"latitude": 39.3538,
+		"longitude": -78.0552
+	},
+	{
+		"county": "Berks",
+		"deaths": 8827,
+		"cases": 159899,
+		"latitude": 40.3711,
+		"longitude": -75.6306
+	},
+	{
+		"county": "Berkshire",
+		"deaths": 1975,
+		"cases": 28114,
+		"latitude": 42.6844,
+		"longitude": -73.1166
+	},
+	{
+		"county": "Bernalillo",
+		"deaths": 2474,
+		"cases": 54851,
+		"latitude": 35.0609,
+		"longitude": -106.4587
+	},
+	{
+		"county": "Berrien",
+		"deaths": 1294,
+		"cases": 21738,
+		"latitude": 31.0729,
+		"longitude": -83.196
+	},
+	{
+		"county": "Bertie",
+		"deaths": 128,
+		"cases": 3451,
+		"latitude": 36.2015,
+		"longitude": -76.7663
+	},
+	{
+		"county": "Bexar",
+		"deaths": 2986,
+		"cases": 99225,
+		"latitude": 29.5545,
+		"longitude": -98.3404
+	},
+	{
+		"county": "Bibb",
+		"deaths": 723,
+		"cases": 20061,
+		"latitude": 32.9597,
+		"longitude": -87.1334
+	},
+	{
+		"county": "Bienville",
+		"deaths": 836,
+		"cases": 4746,
+		"latitude": 32.3261,
+		"longitude": -93.2837
+	},
+	{
+		"county": "Big Horn",
+		"deaths": 0,
+		"cases": 512,
+		"latitude": 44.4471,
+		"longitude": -108.432
+	},
+	{
+		"county": "Big Stone",
+		"deaths": 0,
+		"cases": 140,
+		"latitude": 45.5723,
+		"longitude": -96.294
+	},
+	{
+		"county": "Bingham",
+		"deaths": 0,
+		"cases": 269,
+		"latitude": 43.2235,
+		"longitude": -112.3755
+	},
+	{
+		"county": "Black Hawk",
+		"deaths": 1096,
+		"cases": 60148,
+		"latitude": 42.492,
+		"longitude": -92.3522
+	},
+	{
+		"county": "Blackford",
+		"deaths": 56,
+		"cases": 704,
+		"latitude": 40.4537,
+		"longitude": -85.3736
+	},
+	{
+		"county": "Bladen",
+		"deaths": 48,
+		"cases": 2426,
+		"latitude": 34.7332,
+		"longitude": -78.7903
+	},
+	{
+		"county": "Blaine",
+		"deaths": 308,
+		"cases": 31376,
+		"latitude": 41.8272,
+		"longitude": -100.1046
+	},
+	{
+		"county": "Blair",
+		"deaths": 16,
+		"cases": 1620,
+		"latitude": 40.5082,
+		"longitude": -78.4007
+	},
+	{
+		"county": "Blanco",
+		"deaths": 4,
+		"cases": 365,
+		"latitude": 30.4298,
+		"longitude": -98.3609
+	},
+	{
+		"county": "Bleckley",
+		"deaths": 0,
+		"cases": 1235,
+		"latitude": 32.3875,
+		"longitude": -83.3523
+	},
+	{
+		"county": "Bledsoe",
+		"deaths": 22,
+		"cases": 24706,
+		"latitude": 35.6026,
+		"longitude": -85.1984
+	},
+	{
+		"county": "Blount",
+		"deaths": 188,
+		"cases": 6176,
+		"latitude": 35.8328,
+		"longitude": -83.9357
+	},
+	{
+		"county": "Blue Earth",
+		"deaths": 10,
+		"cases": 3681,
+		"latitude": 43.9626,
+		"longitude": -94.1666
+	},
+	{
+		"county": "Bolivar",
+		"deaths": 444,
+		"cases": 6533,
+		"latitude": 34.09,
+		"longitude": -90.7206
+	},
+	{
+		"county": "Bollinger",
+		"deaths": 0,
+		"cases": 246,
+		"latitude": 37.3171,
+		"longitude": -90.0282
+	},
+	{
+		"county": "Bon Homme",
+		"deaths": 0,
+		"cases": 294,
+		"latitude": 42.7822,
+		"longitude": -97.9816
+	},
+	{
+		"county": "Bond",
+		"deaths": 48,
+		"cases": 445,
+		"latitude": 39.029,
+		"longitude": -89.5247
+	},
+	{
+		"county": "Bonner",
+		"deaths": 0,
+		"cases": 248,
+		"latitude": 48.3091,
+		"longitude": -116.539
+	},
+	{
+		"county": "Bonneville",
+		"deaths": 0,
+		"cases": 1668,
+		"latitude": 43.5258,
+		"longitude": -111.9308
+	},
+	{
+		"county": "Boone",
+		"deaths": 2418,
+		"cases": 44871,
+		"latitude": 37.9963,
+		"longitude": -81.8202
+	},
+	{
+		"county": "Bosque",
+		"deaths": 0,
+		"cases": 228,
+		"latitude": 32.0562,
+		"longitude": -97.7507
+	},
+	{
+		"county": "Bossier",
+		"deaths": 1010,
+		"cases": 17991,
+		"latitude": 32.5606,
+		"longitude": -93.5625
+	},
+	{
+		"county": "Botetourt",
+		"deaths": 141,
+		"cases": 1666,
+		"latitude": 37.3783,
+		"longitude": -79.8206
+	},
+	{
+		"county": "Bottineau",
+		"deaths": 0,
+		"cases": 28,
+		"latitude": 48.6046,
+		"longitude": -100.2934
+	},
+	{
+		"county": "Boulder",
+		"deaths": 2349,
+		"cases": 38112,
+		"latitude": 40.0726,
+		"longitude": -105.5136
+	},
+	{
+		"county": "Bourbon",
+		"deaths": 136,
+		"cases": 918,
+		"latitude": 37.8365,
+		"longitude": -94.882
+	},
+	{
+		"county": "Bowie",
+		"deaths": 508,
+		"cases": 6627,
+		"latitude": 33.5076,
+		"longitude": -94.6167
+	},
+	{
+		"county": "Bowman",
+		"deaths": 0,
+		"cases": 57,
+		"latitude": 46.184,
+		"longitude": -103.3991
+	},
+	{
+		"county": "Box Butte",
+		"deaths": 0,
+		"cases": 63,
+		"latitude": 42.3213,
+		"longitude": -103.0753
+	},
+	{
+		"county": "Box Elder",
+		"deaths": 44,
+		"cases": 1220,
+		"latitude": 41.6124,
+		"longitude": -112.125
+	},
+	{
+		"county": "Boyd",
+		"deaths": 161,
+		"cases": 1946,
+		"latitude": 42.8313,
+		"longitude": -98.4668
+	},
+	{
+		"county": "Boyle",
+		"deaths": 0,
+		"cases": 1031,
+		"latitude": 37.642,
+		"longitude": -84.7769
+	},
+	{
+		"county": "Bracken",
+		"deaths": 0,
+		"cases": 481,
+		"latitude": 38.6818,
+		"longitude": -84.0666
+	},
+	{
+		"county": "Bradford",
+		"deaths": 288,
+		"cases": 4506,
+		"latitude": 29.9474,
+		"longitude": -82.1129
+	},
+	{
+		"county": "Bradley",
+		"deaths": 95,
+		"cases": 4570,
+		"latitude": 35.1097,
+		"longitude": -84.9097
+	},
+	{
+		"county": "Branch",
+		"deaths": 114,
+		"cases": 3979,
+		"latitude": 41.9466,
+		"longitude": -84.9989
+	},
+	{
+		"county": "Brantley",
+		"deaths": 104,
+		"cases": 1634,
+		"latitude": 31.2065,
+		"longitude": -81.9814
+	},
+	{
+		"county": "Braxton",
+		"deaths": 0,
+		"cases": 95,
+		"latitude": 38.8579,
+		"longitude": -80.6539
+	},
+	{
+		"county": "Brazoria",
+		"deaths": 409,
+		"cases": 33727,
+		"latitude": 29.0455,
+		"longitude": -95.5673
+	},
+	{
+		"county": "Brazos",
+		"deaths": 955,
+		"cases": 15879,
+		"latitude": 30.5852,
+		"longitude": -96.296
+	},
+	{
+		"county": "Breathitt",
+		"deaths": 0,
+		"cases": 193,
+		"latitude": 37.5589,
+		"longitude": -83.3782
+	},
+	{
+		"county": "Breckinridge",
+		"deaths": 29,
+		"cases": 611,
+		"latitude": 37.8312,
+		"longitude": -86.6304
+	},
+	{
+		"county": "Bremer",
+		"deaths": 192,
+		"cases": 2619,
+		"latitude": 42.669,
+		"longitude": -92.3342
+	},
+	{
+		"county": "Brevard",
+		"deaths": 480,
+		"cases": 17294,
+		"latitude": 28.6928,
+		"longitude": -80.8468
+	},
+	{
+		"county": "Brewster",
+		"deaths": 0,
+		"cases": 33,
+		"latitude": 30.364,
+		"longitude": -103.6651
+	},
+	{
+		"county": "Briscoe",
+		"deaths": 0,
+		"cases": 32,
+		"latitude": 34.3674,
+		"longitude": -101.0555
+	},
+	{
+		"county": "Bristol",
+		"deaths": 12540,
+		"cases": 247685,
+		"latitude": 36.6179,
+		"longitude": -82.1607
+	},
+	{
+		"county": "Broadwater",
+		"deaths": 0,
+		"cases": 274,
+		"latitude": 46.4684,
+		"longitude": -111.6652
+	},
+	{
+		"county": "Brooke",
+		"deaths": 0,
+		"cases": 178,
+		"latitude": 40.2811,
+		"longitude": -80.6102
+	},
+	{
+		"county": "Brookings",
+		"deaths": 0,
+		"cases": 716,
+		"latitude": 44.2834,
+		"longitude": -96.6854
+	},
+	{
+		"county": "Brooks",
+		"deaths": 353,
+		"cases": 2925,
+		"latitude": 27.22,
+		"longitude": -98.0645
+	},
+	{
+		"county": "Broome",
+		"deaths": 1387,
+		"cases": 19306,
+		"latitude": 42.1716,
+		"longitude": -75.8586
+	},
+	{
+		"county": "Broomfield",
+		"deaths": 791,
+		"cases": 9627,
+		"latitude": 39.9541,
+		"longitude": -105.0527
+	},
+	{
+		"county": "Broward",
+		"deaths": 12007,
+		"cases": 314067,
+		"latitude": 26.1593,
+		"longitude": -80.1395
+	},
+	{
+		"county": "Brown",
+		"deaths": 1261,
+		"cases": 86123,
+		"latitude": 44.317,
+		"longitude": -88.0972
+	},
+	{
+		"county": "Brunswick",
+		"deaths": 199,
+		"cases": 4213,
+		"latitude": 34.283,
+		"longitude": -78.029
+	},
+	{
+		"county": "Bryan",
+		"deaths": 240,
+		"cases": 3824,
+		"latitude": 31.9012,
+		"longitude": -81.3126
+	},
+	{
+		"county": "Buchanan",
+		"deaths": 87,
+		"cases": 19750,
+		"latitude": 37.2754,
+		"longitude": -82.0988
+	},
+	{
+		"county": "Buckingham",
+		"deaths": 57,
+		"cases": 11977,
+		"latitude": 37.5541,
+		"longitude": -78.5514
+	},
+	{
+		"county": "Bucks",
+		"deaths": 15481,
+		"cases": 192317,
+		"latitude": 40.5965,
+		"longitude": -75.1987
+	},
+	{
+		"county": "Buena Vista",
+		"deaths": 2,
+		"cases": 7773,
+		"latitude": 37.7319,
+		"longitude": -79.3569
+	},
+	{
+		"county": "Buffalo",
+		"deaths": 123,
+		"cases": 6341,
+		"latitude": 44.4214,
+		"longitude": -92.0044
+	},
+	{
+		"county": "Bullitt",
+		"deaths": 173,
+		"cases": 3934,
+		"latitude": 38.0562,
+		"longitude": -85.6847
+	},
+	{
+		"county": "Bulloch",
+		"deaths": 97,
+		"cases": 2259,
+		"latitude": 32.5383,
+		"longitude": -81.9297
+	},
+	{
+		"county": "Bullock",
+		"deaths": 56,
+		"cases": 2852,
+		"latitude": 32.0764,
+		"longitude": -85.5244
+	},
+	{
+		"county": "Buncombe",
+		"deaths": 372,
+		"cases": 7337,
+		"latitude": 35.6142,
+		"longitude": -82.3275
+	},
+	{
+		"county": "Bureau",
+		"deaths": 29,
+		"cases": 660,
+		"latitude": 41.3573,
+		"longitude": -89.7372
+	},
+	{
+		"county": "Burke",
+		"deaths": 724,
+		"cases": 14062,
+		"latitude": 35.7181,
+		"longitude": -81.4211
+	},
+	{
+		"county": "Burleigh",
+		"deaths": 0,
+		"cases": 5608,
+		"latitude": 46.814,
+		"longitude": -100.7695
+	},
+	{
+		"county": "Burleson",
+		"deaths": 0,
+		"cases": 829,
+		"latitude": 30.346,
+		"longitude": -96.5311
+	},
+	{
+		"county": "Burlington",
+		"deaths": 9101,
+		"cases": 170801,
+		"latitude": 39.9016,
+		"longitude": -74.9297
+	},
+	{
+		"county": "Burnet",
+		"deaths": 0,
+		"cases": 1200,
+		"latitude": 30.5677,
+		"longitude": -98.2751
+	},
+	{
+		"county": "Burnett",
+		"deaths": 20,
+		"cases": 21,
+		"latitude": 45.7813,
+		"longitude": -92.6836
+	},
+	{
+		"county": "Burt",
+		"deaths": 0,
+		"cases": 246,
+		"latitude": 41.936,
+		"longitude": -96.4717
+	},
+	{
+		"county": "Butler",
+		"deaths": 1695,
+		"cases": 57426,
+		"latitude": 41.1983,
+		"longitude": -97.2974
+	},
+	{
+		"county": "Butte",
+		"deaths": 2,
+		"cases": 1409,
+		"latitude": 39.4261,
+		"longitude": -121.3542
+	},
+	{
+		"county": "Butts",
+		"deaths": 649,
+		"cases": 8268,
+		"latitude": 33.2524,
+		"longitude": -83.903
+	},
+	{
+		"county": "Cabarrus",
+		"deaths": 746,
+		"cases": 18072,
+		"latitude": 35.4764,
+		"longitude": -80.6403
+	},
+	{
+		"county": "Cabell",
+		"deaths": 0,
+		"cases": 2561,
+		"latitude": 38.3243,
+		"longitude": -82.2172
+	},
+	{
+		"county": "Cache",
+		"deaths": 9,
+		"cases": 3826,
+		"latitude": 41.9116,
+		"longitude": -111.9356
+	},
+	{
+		"county": "Caddo",
+		"deaths": 7080,
+		"cases": 104980,
+		"latitude": 32.6091,
+		"longitude": -93.8841
+	},
+	{
+		"county": "Calaveras",
+		"deaths": 0,
+		"cases": 746,
+		"latitude": 38.1939,
+		"longitude": -120.379
+	},
+	{
+		"county": "Calcasieu",
+		"deaths": 1772,
+		"cases": 25699,
+		"latitude": 30.2393,
+		"longitude": -93.0128
+	},
+	{
+		"county": "Caldwell",
+		"deaths": 43,
+		"cases": 7658,
+		"latitude": 29.8785,
+		"longitude": -97.6831
+	},
+	{
+		"county": "Caledonia",
+		"deaths": 0,
+		"cases": 767,
+		"latitude": 44.6431,
+		"longitude": -71.9791
+	},
+	{
+		"county": "Calhoun",
+		"deaths": 1538,
+		"cases": 32051,
+		"latitude": 38.9204,
+		"longitude": -81.0934
+	},
+	{
+		"county": "Callahan",
+		"deaths": 27,
+		"cases": 249,
+		"latitude": 32.4056,
+		"longitude": -99.5039
+	},
+	{
+		"county": "Callaway",
+		"deaths": 58,
+		"cases": 1456,
+		"latitude": 38.6452,
+		"longitude": -92.1151
+	},
+	{
+		"county": "Calloway",
+		"deaths": 57,
+		"cases": 1995,
+		"latitude": 36.6145,
+		"longitude": -88.3206
+	},
+	{
+		"county": "Calumet",
+		"deaths": 24,
+		"cases": 1876,
+		"latitude": 43.9491,
+		"longitude": -88.0942
+	},
+	{
+		"county": "Calvert",
+		"deaths": 546,
+		"cases": 11110,
+		"latitude": 38.4728,
+		"longitude": -76.4895
+	},
+	{
+		"county": "Camas",
+		"deaths": 0,
+		"cases": 64,
+		"latitude": 43.3489,
+		"longitude": -114.8006
+	},
+	{
+		"county": "Cambria",
+		"deaths": 100,
+		"cases": 2046,
+		"latitude": 40.6048,
+		"longitude": -78.7072
+	},
+	{
+		"county": "Camden",
+		"deaths": 10525,
+		"cases": 235166,
+		"latitude": 39.8969,
+		"longitude": -75.089
+	},
+	{
+		"county": "Cameron",
+		"deaths": 1076,
+		"cases": 27083,
+		"latitude": 26.0566,
+		"longitude": -97.4235
+	},
+	{
+		"county": "Camp",
+		"deaths": 0,
+		"cases": 1159,
+		"latitude": 32.9997,
+		"longitude": -94.9668
+	},
+	{
+		"county": "Campbell",
+		"deaths": 540,
+		"cases": 8937,
+		"latitude": 44.2752,
+		"longitude": -105.4984
+	},
+	{
+		"county": "Canadian",
+		"deaths": 166,
+		"cases": 5871,
+		"latitude": 35.6014,
+		"longitude": -98.1247
+	},
+	{
+		"county": "Candler",
+		"deaths": 0,
+		"cases": 488,
+		"latitude": 32.3958,
+		"longitude": -82.0621
+	},
+	{
+		"county": "Cannon",
+		"deaths": 0,
+		"cases": 749,
+		"latitude": 35.8247,
+		"longitude": -86.0724
+	},
+	{
+		"county": "Canyon",
+		"deaths": 344,
+		"cases": 14632,
+		"latitude": 43.7864,
+		"longitude": -116.9429
+	},
+	{
+		"county": "Cape Girardeau",
+		"deaths": 75,
+		"cases": 2895,
+		"latitude": 37.2368,
+		"longitude": -89.7978
+	},
+	{
+		"county": "Cape May",
+		"deaths": 1597,
+		"cases": 21668,
+		"latitude": 38.9765,
+		"longitude": -74.9516
+	},
+	{
+		"county": "Carbon",
+		"deaths": 845,
+		"cases": 11579,
+		"latitude": 41.8995,
+		"longitude": -106.2017
+	},
+	{
+		"county": "Caribou",
+		"deaths": 0,
+		"cases": 60,
+		"latitude": 42.659,
+		"longitude": -111.5877
+	},
+	{
+		"county": "Carlisle",
+		"deaths": 33,
+		"cases": 130,
+		"latitude": 36.9081,
+		"longitude": -88.8867
+	},
+	{
+		"county": "Carlton",
+		"deaths": 0,
+		"cases": 3084,
+		"latitude": 46.5616,
+		"longitude": -92.6279
+	},
+	{
+		"county": "Caroline",
+		"deaths": 62,
+		"cases": 8815,
+		"latitude": 37.9856,
+		"longitude": -77.5244
+	},
+	{
+		"county": "Carroll",
+		"deaths": 4572,
+		"cases": 68067,
+		"latitude": 44.0524,
+		"longitude": -71.1247
+	},
+	{
+		"county": "Carson",
+		"deaths": 0,
+		"cases": 158,
+		"latitude": 35.5707,
+		"longitude": -101.1731
+	},
+	{
+		"county": "Carson City",
+		"deaths": 93,
+		"cases": 3095,
+		"latitude": 39.1511,
+		"longitude": -119.7474
+	},
+	{
+		"county": "Carter",
+		"deaths": 146,
+		"cases": 1937,
+		"latitude": 36.3688,
+		"longitude": -82.2919
+	},
+	{
+		"county": "Carteret",
+		"deaths": 160,
+		"cases": 1777,
+		"latitude": 34.6973,
+		"longitude": -77.0572
+	},
+	{
+		"county": "Carver",
+		"deaths": 44,
+		"cases": 4466,
+		"latitude": 44.8634,
+		"longitude": -93.6586
+	},
+	{
+		"county": "Cascade",
+		"deaths": 90,
+		"cases": 983,
+		"latitude": 47.3533,
+		"longitude": -111.1698
+	},
+	{
+		"county": "Casey",
+		"deaths": 0,
+		"cases": 75,
+		"latitude": 37.3206,
+		"longitude": -84.9285
+	},
+	{
+		"county": "Cass",
+		"deaths": 2080,
+		"cases": 111776,
+		"latitude": 33.1378,
+		"longitude": -94.0591
+	},
+	{
+		"county": "Cassia",
+		"deaths": 64,
+		"cases": 1224,
+		"latitude": 42.4097,
+		"longitude": -113.5805
+	},
+	{
+		"county": "Castro",
+		"deaths": 60,
+		"cases": 1246,
+		"latitude": 34.5324,
+		"longitude": -102.3111
+	},
+	{
+		"county": "Caswell",
+		"deaths": 26,
+		"cases": 1768,
+		"latitude": 36.5372,
+		"longitude": -79.2081
+	},
+	{
+		"county": "Catahoula",
+		"deaths": 138,
+		"cases": 3623,
+		"latitude": 31.8492,
+		"longitude": -91.6599
+	},
+	{
+		"county": "Catawba",
+		"deaths": 114,
+		"cases": 4985,
+		"latitude": 35.5853,
+		"longitude": -81.2201
+	},
+	{
+		"county": "Catoosa",
+		"deaths": 0,
+		"cases": 3396,
+		"latitude": 34.9318,
+		"longitude": -85.246
+	},
+	{
+		"county": "Catron",
+		"deaths": 39,
+		"cases": 91,
+		"latitude": 33.6757,
+		"longitude": -108.7768
+	},
+	{
+		"county": "Cattaraugus",
+		"deaths": 51,
+		"cases": 3131,
+		"latitude": 42.0368,
+		"longitude": -78.3373
+	},
+	{
+		"county": "Cayuga",
+		"deaths": 58,
+		"cases": 3125,
+		"latitude": 42.7511,
+		"longitude": -76.6994
+	},
+	{
+		"county": "Cecil",
+		"deaths": 644,
+		"cases": 12600,
+		"latitude": 39.7003,
+		"longitude": -76.0586
+	},
+	{
+		"county": "Cedar",
+		"deaths": 27,
+		"cases": 2709,
+		"latitude": 42.4555,
+		"longitude": -97.4698
+	},
+	{
+		"county": "Centre",
+		"deaths": 171,
+		"cases": 6418,
+		"latitude": 40.8266,
+		"longitude": -77.8226
+	},
+	{
+		"county": "Cerro Gordo",
+		"deaths": 13,
+		"cases": 1044,
+		"latitude": 42.9442,
+		"longitude": -93.3871
+	},
+	{
+		"county": "Chaffee",
+		"deaths": 753,
+		"cases": 3531,
+		"latitude": 38.5524,
+		"longitude": -106.0085
+	},
+	{
+		"county": "Chambers",
+		"deaths": 1100,
+		"cases": 19802,
+		"latitude": 29.7269,
+		"longitude": -94.8549
+	},
+	{
+		"county": "Champaign",
+		"deaths": 357,
+		"cases": 16975,
+		"latitude": 40.3031,
+		"longitude": -88.1549
+	},
+	{
+		"county": "Chariton",
+		"deaths": 0,
+		"cases": 320,
+		"latitude": 39.4233,
+		"longitude": -92.8025
+	},
+	{
+		"county": "Charles",
+		"deaths": 2522,
+		"cases": 37981,
+		"latitude": 38.2646,
+		"longitude": -76.8496
+	},
+	{
+		"county": "Charles City",
+		"deaths": 43,
+		"cases": 1016,
+		"latitude": 37.3441,
+		"longitude": -77.0687
+	},
+	{
+		"county": "Charles Mix",
+		"deaths": 0,
+		"cases": 435,
+		"latitude": 43.1559,
+		"longitude": -98.5362
+	},
+	{
+		"county": "Charleston",
+		"deaths": 444,
+		"cases": 28740,
+		"latitude": 32.7768,
+		"longitude": -80.2272
+	},
+	{
+		"county": "Charlevoix",
+		"deaths": 51,
+		"cases": 825,
+		"latitude": 45.2719,
+		"longitude": -84.9413
+	},
+	{
+		"county": "Charlotte",
+		"deaths": 1673,
+		"cases": 16743,
+		"latitude": 26.9226,
+		"longitude": -82.3537
+	},
+	{
+		"county": "Charlton",
+		"deaths": 23,
+		"cases": 933,
+		"latitude": 30.8392,
+		"longitude": -82.0073
+	},
+	{
+		"county": "Chase",
+		"deaths": 0,
+		"cases": 122,
+		"latitude": 40.455,
+		"longitude": -101.5355
+	},
+	{
+		"county": "Chatham",
+		"deaths": 1392,
+		"cases": 37244,
+		"latitude": 35.6239,
+		"longitude": -79.0768
+	},
+	{
+		"county": "Chattahoochee",
+		"deaths": 0,
+		"cases": 1079,
+		"latitude": 32.347,
+		"longitude": -84.787
+	},
+	{
+		"county": "Chattooga",
+		"deaths": 93,
+		"cases": 889,
+		"latitude": 34.4835,
+		"longitude": -85.4776
+	},
+	{
+		"county": "Chautauqua",
+		"deaths": 112,
+		"cases": 2743,
+		"latitude": 42.0747,
+		"longitude": -79.485
+	},
+	{
+		"county": "Chaves",
+		"deaths": 69,
+		"cases": 1710,
+		"latitude": 33.1146,
+		"longitude": -104.3285
+	},
+	{
+		"county": "Cheatham",
+		"deaths": 0,
+		"cases": 3633,
+		"latitude": 36.2607,
+		"longitude": -87.0412
+	},
+	{
+		"county": "Cheboygan",
+		"deaths": 60,
+		"cases": 1026,
+		"latitude": 45.7752,
+		"longitude": -84.7477
+	},
+	{
+		"county": "Chelan",
+		"deaths": 398,
+		"cases": 8194,
+		"latitude": 47.5175,
+		"longitude": -120.4671
+	},
+	{
+		"county": "Chemung",
+		"deaths": 206,
+		"cases": 6511,
+		"latitude": 42.0127,
+		"longitude": -76.7298
+	},
+	{
+		"county": "Chenango",
+		"deaths": 56,
+		"cases": 5914,
+		"latitude": 42.624,
+		"longitude": -75.3353
+	},
+	{
+		"county": "Cherokee",
+		"deaths": 1274,
+		"cases": 38688,
+		"latitude": 31.8968,
+		"longitude": -95.152
+	},
+	{
+		"county": "Cherry",
+		"deaths": 0,
+		"cases": 60,
+		"latitude": 42.923,
+		"longitude": -101.6997
+	},
+	{
+		"county": "Cheshire",
+		"deaths": 112,
+		"cases": 2327,
+		"latitude": 42.9494,
+		"longitude": -72.2997
+	},
+	{
+		"county": "Chester",
+		"deaths": 8160,
+		"cases": 96619,
+		"latitude": 35.4445,
+		"longitude": -88.6531
+	},
+	{
+		"county": "Chesterfield",
+		"deaths": 1209,
+		"cases": 46228,
+		"latitude": 37.3273,
+		"longitude": -77.3194
+	},
+	{
+		"county": "Cheyenne",
+		"deaths": 0,
+		"cases": 564,
+		"latitude": 41.4082,
+		"longitude": -102.9708
+	},
+	{
+		"county": "Chickasaw",
+		"deaths": 447,
+		"cases": 5080,
+		"latitude": 43.1173,
+		"longitude": -92.4155
+	},
+	{
+		"county": "Chicot",
+		"deaths": 0,
+		"cases": 566,
+		"latitude": 33.3299,
+		"longitude": -91.2847
+	},
+	{
+		"county": "Childress",
+		"deaths": 0,
+		"cases": 69,
+		"latitude": 34.4293,
+		"longitude": -100.2516
+	},
+	{
+		"county": "Chilton",
+		"deaths": 42,
+		"cases": 3668,
+		"latitude": 32.917,
+		"longitude": -86.7203
+	},
+	{
+		"county": "Chippewa",
+		"deaths": 16,
+		"cases": 2916,
+		"latitude": 45.1988,
+		"longitude": -91.5666
+	},
+	{
+		"county": "Chisago",
+		"deaths": 61,
+		"cases": 1338,
+		"latitude": 45.6875,
+		"longitude": -92.9654
+	},
+	{
+		"county": "Chittenden",
+		"deaths": 1862,
+		"cases": 25737,
+		"latitude": 44.4877,
+		"longitude": -73.2314
+	},
+	{
+		"county": "Choctaw",
+		"deaths": 202,
+		"cases": 5521,
+		"latitude": 31.7131,
+		"longitude": -88.2917
+	},
+	{
+		"county": "Chowan",
+		"deaths": 0,
+		"cases": 524,
+		"latitude": 36.058,
+		"longitude": -76.6008
+	},
+	{
+		"county": "Christian",
+		"deaths": 452,
+		"cases": 8313,
+		"latitude": 39.5919,
+		"longitude": -89.4258
+	},
+	{
+		"county": "Churchill",
+		"deaths": 44,
+		"cases": 252,
+		"latitude": 39.4151,
+		"longitude": -118.7165
+	},
+	{
+		"county": "Cibola",
+		"deaths": 167,
+		"cases": 4370,
+		"latitude": 35.0659,
+		"longitude": -107.5676
+	},
+	{
+		"county": "Cimarron",
+		"deaths": 0,
+		"cases": 43,
+		"latitude": 36.5633,
+		"longitude": -102.795
+	},
+	{
+		"county": "Citrus",
+		"deaths": 592,
+		"cases": 5970,
+		"latitude": 28.8006,
+		"longitude": -82.3372
+	},
+	{
+		"county": "Clackamas",
+		"deaths": 444,
+		"cases": 13667,
+		"latitude": 45.4239,
+		"longitude": -122.447
+	},
+	{
+		"county": "Claiborne",
+		"deaths": 445,
+		"cases": 5662,
+		"latitude": 32.793,
+		"longitude": -93.0582
+	},
+	{
+		"county": "Clallam",
+		"deaths": 0,
+		"cases": 1139,
+		"latitude": 48.1229,
+		"longitude": -123.0911
+	},
+	{
+		"county": "Clare",
+		"deaths": 84,
+		"cases": 679,
+		"latitude": 44.0168,
+		"longitude": -84.808
+	},
+	{
+		"county": "Clarendon",
+		"deaths": 1243,
+		"cases": 12363,
+		"latitude": 33.6013,
+		"longitude": -80.3527
+	},
+	{
+		"county": "Clarion",
+		"deaths": 62,
+		"cases": 1267,
+		"latitude": 41.021,
+		"longitude": -79.2782
+	},
+	{
+		"county": "Clark",
+		"deaths": 16168,
+		"cases": 314224,
+		"latitude": 45.9122,
+		"longitude": -122.4795
+	},
+	{
+		"county": "Clarke",
+		"deaths": 1282,
+		"cases": 19268,
+		"latitude": 39.0933,
+		"longitude": -78.0601
+	},
+	{
+		"county": "Clatsop",
+		"deaths": 0,
+		"cases": 1295,
+		"latitude": 46.1303,
+		"longitude": -123.3715
+	},
+	{
+		"county": "Clay",
+		"deaths": 2303,
+		"cases": 44593,
+		"latitude": 38.4662,
+		"longitude": -81.0814
+	},
+	{
+		"county": "Clayton",
+		"deaths": 1865,
+		"cases": 48326,
+		"latitude": 33.4773,
+		"longitude": -84.36
+	},
+	{
+		"county": "Clear Creek",
+		"deaths": 43,
+		"cases": 849,
+		"latitude": 39.7241,
+		"longitude": -105.4306
+	},
+	{
+		"county": "Clearfield",
+		"deaths": 0,
+		"cases": 1299,
+		"latitude": 40.8745,
+		"longitude": -78.7274
+	},
+	{
+		"county": "Clearwater",
+		"deaths": 0,
+		"cases": 149,
+		"latitude": 46.4866,
+		"longitude": -116.2568
+	},
+	{
+		"county": "Cleburne",
+		"deaths": 307,
+		"cases": 5745,
+		"latitude": 33.7297,
+		"longitude": -85.4312
+	},
+	{
+		"county": "Clermont",
+		"deaths": 177,
+		"cases": 6672,
+		"latitude": 39.2123,
+		"longitude": -84.3001
+	},
+	{
+		"county": "Cleveland",
+		"deaths": 1817,
+		"cases": 28346,
+		"latitude": 35.5127,
+		"longitude": -81.6168
+	},
+	{
+		"county": "Clinch",
+		"deaths": 27,
+		"cases": 1401,
+		"latitude": 30.6881,
+		"longitude": -82.5721
+	},
+	{
+		"county": "Clinton",
+		"deaths": 1274,
+		"cases": 30657,
+		"latitude": 44.6951,
+		"longitude": -73.4563
+	},
+	{
+		"county": "Cloud",
+		"deaths": 0,
+		"cases": 214,
+		"latitude": 39.4519,
+		"longitude": -97.5297
+	},
+	{
+		"county": "Coahoma",
+		"deaths": 147,
+		"cases": 4329,
+		"latitude": 34.3222,
+		"longitude": -90.4542
+	},
+	{
+		"county": "Coal",
+		"deaths": 0,
+		"cases": 19,
+		"latitude": 34.4708,
+		"longitude": -96.2209
+	},
+	{
+		"county": "Cobb",
+		"deaths": 5954,
+		"cases": 111177,
+		"latitude": 33.866,
+		"longitude": -84.6839
+	},
+	{
+		"county": "Cochise",
+		"deaths": 38,
+		"cases": 2333,
+		"latitude": 31.6858,
+		"longitude": -109.6896
+	},
+	{
+		"county": "Cochran",
+		"deaths": 0,
+		"cases": 41,
+		"latitude": 33.5997,
+		"longitude": -102.6133
+	},
+	{
+		"county": "Cocke",
+		"deaths": 0,
+		"cases": 877,
+		"latitude": 35.9617,
+		"longitude": -83.1977
+	},
+	{
+		"county": "Coconino",
+		"deaths": 2847,
+		"cases": 37073,
+		"latitude": 36.592,
+		"longitude": -111.1071
+	},
+	{
+		"county": "Codington",
+		"deaths": 0,
+		"cases": 1110,
+		"latitude": 44.9987,
+		"longitude": -96.9742
+	},
+	{
+		"county": "Coffee",
+		"deaths": 482,
+		"cases": 18563,
+		"latitude": 35.4085,
+		"longitude": -85.9639
+	},
+	{
+		"county": "Coffey",
+		"deaths": 382,
+		"cases": 2860,
+		"latitude": 38.2622,
+		"longitude": -95.7423
+	},
+	{
+		"county": "Coke",
+		"deaths": 0,
+		"cases": 29,
+		"latitude": 31.8857,
+		"longitude": -100.2954
+	},
+	{
+		"county": "Colbert",
+		"deaths": 98,
+		"cases": 3787,
+		"latitude": 34.7559,
+		"longitude": -87.7007
+	},
+	{
+		"county": "Cole",
+		"deaths": 61,
+		"cases": 3184,
+		"latitude": 38.5157,
+		"longitude": -92.0647
+	},
+	{
+		"county": "Coleman",
+		"deaths": 0,
+		"cases": 65,
+		"latitude": 31.8317,
+		"longitude": -99.4222
+	},
+	{
+		"county": "Coles",
+		"deaths": 204,
+		"cases": 2744,
+		"latitude": 39.4774,
+		"longitude": -88.3627
+	},
+	{
+		"county": "Colfax",
+		"deaths": 59,
+		"cases": 16020,
+		"latitude": 36.8849,
+		"longitude": -104.4396
+	},
+	{
+		"county": "Colleton",
+		"deaths": 253,
+		"cases": 2462,
+		"latitude": 32.7718,
+		"longitude": -80.477
+	},
+	{
+		"county": "Collier",
+		"deaths": 1442,
+		"cases": 46578,
+		"latitude": 26.0889,
+		"longitude": -81.7031
+	},
+	{
+		"county": "Collin",
+		"deaths": 1296,
+		"cases": 49965,
+		"latitude": 33.2016,
+		"longitude": -96.6669
+	},
+	{
+		"county": "Collingsworth",
+		"deaths": 0,
+		"cases": 109,
+		"latitude": 34.8538,
+		"longitude": -100.2141
+	},
+	{
+		"county": "Colorado",
+		"deaths": 0,
+		"cases": 774,
+		"latitude": 29.7055,
+		"longitude": -96.5563
+	},
+	{
+		"county": "Colquitt",
+		"deaths": 538,
+		"cases": 12826,
+		"latitude": 31.0683,
+		"longitude": -83.6236
+	},
+	{
+		"county": "Columbia",
+		"deaths": 2698,
+		"cases": 47160,
+		"latitude": 46.3168,
+		"longitude": -117.9769
+	},
+	{
+		"county": "Columbiana",
+		"deaths": 1708,
+		"cases": 19634,
+		"latitude": 40.8871,
+		"longitude": -80.6749
+	},
+	{
+		"county": "Columbus",
+		"deaths": 677,
+		"cases": 9454,
+		"latitude": 34.3189,
+		"longitude": -78.5934
+	},
+	{
+		"county": "Colusa",
+		"deaths": 0,
+		"cases": 217,
+		"latitude": 39.0742,
+		"longitude": -121.8988
+	},
+	{
+		"county": "Comal",
+		"deaths": 353,
+		"cases": 3653,
+		"latitude": 29.6997,
+		"longitude": -98.1148
+	},
+	{
+		"county": "Comanche",
+		"deaths": 130,
+		"cases": 8615,
+		"latitude": 31.9005,
+		"longitude": -98.6044
+	},
+	{
+		"county": "Concho",
+		"deaths": 0,
+		"cases": 54,
+		"latitude": 31.2162,
+		"longitude": -99.844
+	},
+	{
+		"county": "Concordia",
+		"deaths": 203,
+		"cases": 2588,
+		"latitude": 31.713,
+		"longitude": -91.4453
+	},
+	{
+		"county": "Conecuh",
+		"deaths": 13,
+		"cases": 886,
+		"latitude": 31.3001,
+		"longitude": -87.027
+	},
+	{
+		"county": "Conejos",
+		"deaths": 0,
+		"cases": 30,
+		"latitude": 37.2574,
+		"longitude": -105.9007
+	},
+	{
+		"county": "Contra Costa",
+		"deaths": 1577,
+		"cases": 58751,
+		"latitude": 37.9722,
+		"longitude": -122.0016
+	},
+	{
+		"county": "Converse",
+		"deaths": 0,
+		"cases": 1137,
+		"latitude": 42.8565,
+		"longitude": -105.8624
+	},
+	{
+		"county": "Conway",
+		"deaths": 67,
+		"cases": 648,
+		"latitude": 35.1003,
+		"longitude": -92.7733
+	},
+	{
+		"county": "Cook",
+		"deaths": 114267,
+		"cases": 2614024,
+		"latitude": 42.1347,
+		"longitude": -87.7641
+	},
+	{
+		"county": "Cooke",
+		"deaths": 0,
+		"cases": 469,
+		"latitude": 33.5703,
+		"longitude": -97.0129
+	},
+	{
+		"county": "Cooper",
+		"deaths": 0,
+		"cases": 431,
+		"latitude": 38.9341,
+		"longitude": -92.7025
+	},
+	{
+		"county": "Coos",
+		"deaths": 0,
+		"cases": 1239,
+		"latitude": 44.4869,
+		"longitude": -71.2599
+	},
+	{
+		"county": "Coosa",
+		"deaths": 51,
+		"cases": 1673,
+		"latitude": 32.9791,
+		"longitude": -86.0358
+	},
+	{
+		"county": "Copiah",
+		"deaths": 96,
+		"cases": 8294,
+		"latitude": 31.9903,
+		"longitude": -90.354
+	},
+	{
+		"county": "Corson",
+		"deaths": 0,
+		"cases": 112,
+		"latitude": 45.6832,
+		"longitude": -100.7967
+	},
+	{
+		"county": "Cortland",
+		"deaths": 0,
+		"cases": 1794,
+		"latitude": 42.6004,
+		"longitude": -76.1784
+	},
+	{
+		"county": "Coryell",
+		"deaths": 83,
+		"cases": 8835,
+		"latitude": 31.4187,
+		"longitude": -97.5114
+	},
+	{
+		"county": "Coshocton",
+		"deaths": 0,
+		"cases": 1253,
+		"latitude": 40.2618,
+		"longitude": -81.848
+	},
+	{
+		"county": "Costilla",
+		"deaths": 0,
+		"cases": 224,
+		"latitude": 37.2086,
+		"longitude": -105.5667
+	},
+	{
+		"county": "Cottle",
+		"deaths": 25,
+		"cases": 126,
+		"latitude": 34.0144,
+		"longitude": -100.3038
+	},
+	{
+		"county": "Cotton",
+		"deaths": 67,
+		"cases": 299,
+		"latitude": 34.1954,
+		"longitude": -98.5881
+	},
+	{
+		"county": "Cottonwood",
+		"deaths": 0,
+		"cases": 1985,
+		"latitude": 43.9096,
+		"longitude": -95.0461
+	},
+	{
+		"county": "Covington",
+		"deaths": 69,
+		"cases": 7010,
+		"latitude": 37.7785,
+		"longitude": -79.9868
+	},
+	{
+		"county": "Coweta",
+		"deaths": 288,
+		"cases": 14336,
+		"latitude": 33.326,
+		"longitude": -84.6371
+	},
+	{
+		"county": "Cowley",
+		"deaths": 55,
+		"cases": 178,
+		"latitude": 37.0679,
+		"longitude": -96.9958
+	},
+	{
+		"county": "Cowlitz",
+		"deaths": 0,
+		"cases": 3124,
+		"latitude": 46.1796,
+		"longitude": -122.9577
+	},
+	{
+		"county": "Craig",
+		"deaths": 0,
+		"cases": 850,
+		"latitude": 37.5013,
+		"longitude": -80.1119
+	},
+	{
+		"county": "Craighead",
+		"deaths": 11,
+		"cases": 6021,
+		"latitude": 35.9116,
+		"longitude": -90.8011
+	},
+	{
+		"county": "Crane",
+		"deaths": 16,
+		"cases": 337,
+		"latitude": 31.3919,
+		"longitude": -102.3503
+	},
+	{
+		"county": "Craven",
+		"deaths": 194,
+		"cases": 4663,
+		"latitude": 35.2155,
+		"longitude": -77.4337
+	},
+	{
+		"county": "Crawford",
+		"deaths": 449,
+		"cases": 22795,
+		"latitude": 43.3516,
+		"longitude": -91.0935
+	},
+	{
+		"county": "Creek",
+		"deaths": 335,
+		"cases": 4710,
+		"latitude": 36.0821,
+		"longitude": -96.5819
+	},
+	{
+		"county": "Crenshaw",
+		"deaths": 44,
+		"cases": 1834,
+		"latitude": 31.8495,
+		"longitude": -86.2057
+	},
+	{
+		"county": "Crisp",
+		"deaths": 246,
+		"cases": 9502,
+		"latitude": 31.9563,
+		"longitude": -83.7695
+	},
+	{
+		"county": "Crittenden",
+		"deaths": 382,
+		"cases": 12233,
+		"latitude": 35.2267,
+		"longitude": -90.3241
+	},
+	{
+		"county": "Crockett",
+		"deaths": 27,
+		"cases": 487,
+		"latitude": 30.7074,
+		"longitude": -101.2059
+	},
+	{
+		"county": "Crook",
+		"deaths": 0,
+		"cases": 376,
+		"latitude": 44.3534,
+		"longitude": -104.8104
+	},
+	{
+		"county": "Crosby",
+		"deaths": 49,
+		"cases": 118,
+		"latitude": 33.6413,
+		"longitude": -101.2377
+	},
+	{
+		"county": "Cross",
+		"deaths": 0,
+		"cases": 1477,
+		"latitude": 35.402,
+		"longitude": -90.7545
+	},
+	{
+		"county": "Crow Wing",
+		"deaths": 40,
+		"cases": 1660,
+		"latitude": 46.169,
+		"longitude": -94.363
+	},
+	{
+		"county": "Crowley",
+		"deaths": 76,
+		"cases": 1362,
+		"latitude": 38.2209,
+		"longitude": -103.7567
+	},
+	{
+		"county": "Cullman",
+		"deaths": 19,
+		"cases": 3756,
+		"latitude": 34.0452,
+		"longitude": -86.8837
+	},
+	{
+		"county": "Culpeper",
+		"deaths": 175,
+		"cases": 15427,
+		"latitude": 38.4705,
+		"longitude": -78.0001
+	},
+	{
+		"county": "Cumberland",
+		"deaths": 5335,
+		"cases": 147625,
+		"latitude": 39.3265,
+		"longitude": -75.0306
+	},
+	{
+		"county": "Cuming",
+		"deaths": 0,
+		"cases": 730,
+		"latitude": 41.8378,
+		"longitude": -96.7062
+	},
+	{
+		"county": "Currituck",
+		"deaths": 0,
+		"cases": 402,
+		"latitude": 36.3513,
+		"longitude": -75.9527
+	},
+	{
+		"county": "Curry",
+		"deaths": 0,
+		"cases": 1793,
+		"latitude": 34.8217,
+		"longitude": -103.3157
+	},
+	{
+		"county": "Custer",
+		"deaths": 170,
+		"cases": 2462,
+		"latitude": 41.2863,
+		"longitude": -99.3824
+	},
+	{
+		"county": "Cuyahoga",
+		"deaths": 7336,
+		"cases": 154601,
+		"latitude": 41.4094,
+		"longitude": -81.5625
+	},
+	{
+		"county": "Dade",
+		"deaths": 61,
+		"cases": 935,
+		"latitude": 34.8741,
+		"longitude": -85.5096
+	},
+	{
+		"county": "Dakota",
+		"deaths": 1469,
+		"cases": 79515,
+		"latitude": 42.4507,
+		"longitude": -96.579
+	},
+	{
+		"county": "Dale",
+		"deaths": 0,
+		"cases": 2605,
+		"latitude": 31.2999,
+		"longitude": -85.4502
+	},
+	{
+		"county": "Dallam",
+		"deaths": 16,
+		"cases": 685,
+		"latitude": 36.0579,
+		"longitude": -102.5123
+	},
+	{
+		"county": "Dallas",
+		"deaths": 7789,
+		"cases": 340156,
+		"latitude": 32.653,
+		"longitude": -96.5455
+	},
+	{
+		"county": "Dane",
+		"deaths": 1266,
+		"cases": 29973,
+		"latitude": 43.054,
+		"longitude": -89.3334
+	},
+	{
+		"county": "Dare",
+		"deaths": 61,
+		"cases": 839,
+		"latitude": 35.9475,
+		"longitude": -75.6275
+	},
+	{
+		"county": "Darke",
+		"deaths": 804,
+		"cases": 5520,
+		"latitude": 40.1157,
+		"longitude": -84.4966
+	},
+	{
+		"county": "Darlington",
+		"deaths": 182,
+		"cases": 8831,
+		"latitude": 34.401,
+		"longitude": -80.071
+	},
+	{
+		"county": "Dauphin",
+		"deaths": 1853,
+		"cases": 40894,
+		"latitude": 40.2657,
+		"longitude": -76.7126
+	},
+	{
+		"county": "Davidson",
+		"deaths": 2435,
+		"cases": 202771,
+		"latitude": 35.8813,
+		"longitude": -80.0807
+	},
+	{
+		"county": "Davie",
+		"deaths": 122,
+		"cases": 2500,
+		"latitude": 35.9468,
+		"longitude": -80.4045
+	},
+	{
+		"county": "Daviess",
+		"deaths": 950,
+		"cases": 15699,
+		"latitude": 38.6679,
+		"longitude": -86.9974
+	},
+	{
+		"county": "Davis",
+		"deaths": 134,
+		"cases": 19566,
+		"latitude": 40.7984,
+		"longitude": -92.4815
+	},
+	{
+		"county": "Davison",
+		"deaths": 87,
+		"cases": 465,
+		"latitude": 43.7127,
+		"longitude": -98.2609
+	},
+	{
+		"county": "Dawes",
+		"deaths": 0,
+		"cases": 27,
+		"latitude": 42.826,
+		"longitude": -103.0025
+	},
+	{
+		"county": "Dawson",
+		"deaths": 297,
+		"cases": 34049,
+		"latitude": 32.9307,
+		"longitude": -102.1256
+	},
+	{
+		"county": "Day",
+		"deaths": 0,
+		"cases": 353,
+		"latitude": 45.4965,
+		"longitude": -97.4932
+	},
+	{
+		"county": "De Soto",
+		"deaths": 718,
+		"cases": 11494,
+		"latitude": 32.0181,
+		"longitude": -93.7237
+	},
+	{
+		"county": "De Witt",
+		"deaths": 0,
+		"cases": 172,
+		"latitude": 40.2218,
+		"longitude": -88.9612
+	},
+	{
+		"county": "DeKalb",
+		"deaths": 3811,
+		"cases": 153839,
+		"latitude": 36.0045,
+		"longitude": -85.9779
+	},
+	{
+		"county": "DeSoto",
+		"deaths": 559,
+		"cases": 23219,
+		"latitude": 27.2214,
+		"longitude": -81.8587
+	},
+	{
+		"county": "DeWitt",
+		"deaths": 43,
+		"cases": 879,
+		"latitude": 28.9829,
+		"longitude": -97.505
+	},
+	{
+		"county": "Deaf Smith",
+		"deaths": 197,
+		"cases": 3906,
+		"latitude": 34.8232,
+		"longitude": -102.4001
+	},
+	{
+		"county": "Dearborn",
+		"deaths": 680,
+		"cases": 6966,
+		"latitude": 39.0676,
+		"longitude": -84.9053
+	},
+	{
+		"county": "Decatur",
+		"deaths": 1708,
+		"cases": 17931,
+		"latitude": 35.5188,
+		"longitude": -88.2526
+	},
+	{
+		"county": "Deer Lodge",
+		"deaths": 0,
+		"cases": 197,
+		"latitude": 46.0607,
+		"longitude": -113.0679
+	},
+	{
+		"county": "Defiance",
+		"deaths": 54,
+		"cases": 1333,
+		"latitude": 41.2944,
+		"longitude": -84.7648
+	},
+	{
+		"county": "Del Norte",
+		"deaths": 0,
+		"cases": 640,
+		"latitude": 41.5322,
+		"longitude": -124.0063
+	},
+	{
+		"county": "Delaware",
+		"deaths": 19066,
+		"cases": 276932,
+		"latitude": 42.4459,
+		"longitude": -74.9088
+	},
+	{
+		"county": "Delta",
+		"deaths": 154,
+		"cases": 3272,
+		"latitude": 33.3716,
+		"longitude": -95.6912
+	},
+	{
+		"county": "Dent",
+		"deaths": 0,
+		"cases": 19,
+		"latitude": 37.6398,
+		"longitude": -91.5346
+	},
+	{
+		"county": "Denton",
+		"deaths": 1315,
+		"cases": 52575,
+		"latitude": 33.133,
+		"longitude": -97.3014
+	},
+	{
+		"county": "Denver",
+		"deaths": 10581,
+		"cases": 203352,
+		"latitude": 39.7621,
+		"longitude": -104.8759
+	},
+	{
+		"county": "Des Moines",
+		"deaths": 38,
+		"cases": 1683,
+		"latitude": 40.86,
+		"longitude": -91.3146
+	},
+	{
+		"county": "Deschutes",
+		"deaths": 0,
+		"cases": 5265,
+		"latitude": 44.2614,
+		"longitude": -121.2995
+	},
+	{
+		"county": "Desha",
+		"deaths": 0,
+		"cases": 856,
+		"latitude": 33.6279,
+		"longitude": -91.3952
+	},
+	{
+		"county": "Deuel",
+		"deaths": 0,
+		"cases": 67,
+		"latitude": 41.061,
+		"longitude": -102.0745
+	},
+	{
+		"county": "Dewey",
+		"deaths": 0,
+		"cases": 120,
+		"latitude": 36.1548,
+		"longitude": -98.9296
+	},
+	{
+		"county": "Dickens",
+		"deaths": 0,
+		"cases": 58,
+		"latitude": 33.4701,
+		"longitude": -100.8556
+	},
+	{
+		"county": "Dickey",
+		"deaths": 0,
+		"cases": 1,
+		"latitude": 46.0043,
+		"longitude": -98.5254
+	},
+	{
+		"county": "Dickinson",
+		"deaths": 114,
+		"cases": 720,
+		"latitude": 43.3742,
+		"longitude": -95.1744
+	},
+	{
+		"county": "Dickson",
+		"deaths": 0,
+		"cases": 4437,
+		"latitude": 36.064,
+		"longitude": -87.3668
+	},
+	{
+		"county": "Dillon",
+		"deaths": 45,
+		"cases": 4457,
+		"latitude": 34.3406,
+		"longitude": -79.1663
+	},
+	{
+		"county": "Dimmit",
+		"deaths": 0,
+		"cases": 53,
+		"latitude": 28.4461,
+		"longitude": -99.7604
+	},
+	{
+		"county": "Dinwiddie",
+		"deaths": 0,
+		"cases": 1605,
+		"latitude": 36.9853,
+		"longitude": -77.7219
+	},
+	{
+		"county": "District of Columbia",
+		"deaths": 14926,
+		"cases": 306722,
+		"latitude": 38.9047,
+		"longitude": -77.0163
+	},
+	{
+		"county": "Divide",
+		"deaths": 0,
+		"cases": 67,
+		"latitude": 48.9163,
+		"longitude": -103.2967
+	},
+	{
+		"county": "Dixie",
+		"deaths": 21,
+		"cases": 970,
+		"latitude": 29.4498,
+		"longitude": -83.2819
+	},
+	{
+		"county": "Dixon",
+		"deaths": 0,
+		"cases": 783,
+		"latitude": 42.2665,
+		"longitude": -96.8632
+	},
+	{
+		"county": "Dodge",
+		"deaths": 129,
+		"cases": 17118,
+		"latitude": 43.5271,
+		"longitude": -88.5615
+	},
+	{
+		"county": "Doniphan",
+		"deaths": 0,
+		"cases": 359,
+		"latitude": 39.7518,
+		"longitude": -94.8889
+	},
+	{
+		"county": "Donley",
+		"deaths": 0,
+		"cases": 1393,
+		"latitude": 34.8674,
+		"longitude": -100.6592
+	},
+	{
+		"county": "Dooly",
+		"deaths": 499,
+		"cases": 7027,
+		"latitude": 32.1956,
+		"longitude": -83.7596
+	},
+	{
+		"county": "Door",
+		"deaths": 117,
+		"cases": 1177,
+		"latitude": 45.0659,
+		"longitude": -87.133
+	},
+	{
+		"county": "Dorchester",
+		"deaths": 229,
+		"cases": 10486,
+		"latitude": 38.3357,
+		"longitude": -76.2238
+	},
+	{
+		"county": "Dougherty",
+		"deaths": 6983,
+		"cases": 92735,
+		"latitude": 31.4756,
+		"longitude": -84.101
+	},
+	{
+		"county": "Douglas",
+		"deaths": 3531,
+		"cases": 157255,
+		"latitude": 47.648,
+		"longitude": -120.0707
+	},
+	{
+		"county": "Drew",
+		"deaths": 54,
+		"cases": 848,
+		"latitude": 33.6264,
+		"longitude": -91.9294
+	},
+	{
+		"county": "DuPage",
+		"deaths": 11840,
+		"cases": 238774,
+		"latitude": 41.7635,
+		"longitude": -87.9456
+	},
+	{
+		"county": "Dubois",
+		"deaths": 49,
+		"cases": 4123,
+		"latitude": 38.3934,
+		"longitude": -86.9404
+	},
+	{
+		"county": "Dubuque",
+		"deaths": 415,
+		"cases": 9849,
+		"latitude": 42.4477,
+		"longitude": -90.8448
+	},
+	{
+		"county": "Duchesne",
+		"deaths": 0,
+		"cases": 379,
+		"latitude": 40.4344,
+		"longitude": -110.0308
+	},
+	{
+		"county": "Dukes",
+		"deaths": 44,
+		"cases": 1180,
+		"latitude": 41.4565,
+		"longitude": -70.6069
+	},
+	{
+		"county": "Dunklin",
+		"deaths": 96,
+		"cases": 1378,
+		"latitude": 36.0404,
+		"longitude": -90.1158
+	},
+	{
+		"county": "Dunn",
+		"deaths": 0,
+		"cases": 1406,
+		"latitude": 44.8893,
+		"longitude": -91.9084
+	},
+	{
+		"county": "Duplin",
+		"deaths": 259,
+		"cases": 15074,
+		"latitude": 34.8271,
+		"longitude": -77.9247
+	},
+	{
+		"county": "Durham",
+		"deaths": 1390,
+		"cases": 47889,
+		"latitude": 36.0418,
+		"longitude": -78.8091
+	},
+	{
+		"county": "Dutchess",
+		"deaths": 5187,
+		"cases": 177474,
+		"latitude": 41.6191,
+		"longitude": -73.7944
+	},
+	{
+		"county": "Duval",
+		"deaths": 1630,
+		"cases": 66052,
+		"latitude": 30.3165,
+		"longitude": -81.4118
+	},
+	{
+		"county": "Dyer",
+		"deaths": 0,
+		"cases": 2127,
+		"latitude": 36.0465,
+		"longitude": -89.3777
+	},
+	{
+		"county": "Eagle",
+		"deaths": 451,
+		"cases": 34071,
+		"latitude": 39.6386,
+		"longitude": -106.3608
+	},
+	{
+		"county": "Early",
+		"deaths": 1179,
+		"cases": 11934,
+		"latitude": 31.2988,
+		"longitude": -84.717
+	},
+	{
+		"county": "East Baton Rouge",
+		"deaths": 8747,
+		"cases": 135049,
+		"latitude": 30.5467,
+		"longitude": -91.1225
+	},
+	{
+		"county": "East Carroll",
+		"deaths": 0,
+		"cases": 1934,
+		"latitude": 32.8133,
+		"longitude": -91.1826
+	},
+	{
+		"county": "East Feliciana",
+		"deaths": 936,
+		"cases": 7738,
+		"latitude": 30.9682,
+		"longitude": -91.1125
+	},
+	{
+		"county": "Eastland",
+		"deaths": 0,
+		"cases": 252,
+		"latitude": 32.2136,
+		"longitude": -98.6721
+	},
+	{
+		"county": "Eaton",
+		"deaths": 321,
+		"cases": 7954,
+		"latitude": 42.6271,
+		"longitude": -85.0249
+	},
+	{
+		"county": "Eau Claire",
+		"deaths": 0,
+		"cases": 3118,
+		"latitude": 44.803,
+		"longitude": -91.4387
+	},
+	{
+		"county": "Ector",
+		"deaths": 209,
+		"cases": 5544,
+		"latitude": 32.0105,
+		"longitude": -102.3587
+	},
+	{
+		"county": "Eddy",
+		"deaths": 70,
+		"cases": 928,
+		"latitude": 32.1767,
+		"longitude": -104.3739
+	},
+	{
+		"county": "Edgar",
+		"deaths": 0,
+		"cases": 5,
+		"latitude": 39.6148,
+		"longitude": -87.6905
+	},
+	{
+		"county": "Edgecombe",
+		"deaths": 279,
+		"cases": 6552,
+		"latitude": 35.9896,
+		"longitude": -77.58
+	},
+	{
+		"county": "Edgefield",
+		"deaths": 76,
+		"cases": 1817,
+		"latitude": 33.7401,
+		"longitude": -81.8404
+	},
+	{
+		"county": "Edmonson",
+		"deaths": 207,
+		"cases": 1840,
+		"latitude": 37.1952,
+		"longitude": -86.2691
+	},
+	{
+		"county": "Edmunds",
+		"deaths": 0,
+		"cases": 5,
+		"latitude": 45.4501,
+		"longitude": -99.337
+	},
+	{
+		"county": "Edwards",
+		"deaths": 0,
+		"cases": 205,
+		"latitude": 30.0172,
+		"longitude": -100.2128
+	},
+	{
+		"county": "Effingham",
+		"deaths": 114,
+		"cases": 2708,
+		"latitude": 38.9537,
+		"longitude": -88.6259
+	},
+	{
+		"county": "El Dorado",
+		"deaths": 0,
+		"cases": 3328,
+		"latitude": 38.675,
+		"longitude": -121.049
+	},
+	{
+		"county": "El Paso",
+		"deaths": 5943,
+		"cases": 138605,
+		"latitude": 31.811,
+		"longitude": -106.1643
+	},
+	{
+		"county": "Elbert",
+		"deaths": 82,
+		"cases": 4035,
+		"latitude": 39.2189,
+		"longitude": -104.5403
+	},
+	{
+		"county": "Elk",
+		"deaths": 11,
+		"cases": 232,
+		"latitude": 41.357,
+		"longitude": -78.6101
+	},
+	{
+		"county": "Elkhart",
+		"deaths": 853,
+		"cases": 28399,
+		"latitude": 41.5336,
+		"longitude": -86.0138
+	},
+	{
+		"county": "Elko",
+		"deaths": 60,
+		"cases": 997,
+		"latitude": 40.7239,
+		"longitude": -115.479
+	},
+	{
+		"county": "Elliott",
+		"deaths": 0,
+		"cases": 14,
+		"latitude": 38.0929,
+		"longitude": -83.1241
+	},
+	{
+		"county": "Ellis",
+		"deaths": 462,
+		"cases": 10973,
+		"latitude": 32.314,
+		"longitude": -97.0053
+	},
+	{
+		"county": "Ellsworth",
+		"deaths": 0,
+		"cases": 56,
+		"latitude": 38.5876,
+		"longitude": -98.412
+	},
+	{
+		"county": "Elmore",
+		"deaths": 282,
+		"cases": 10184,
+		"latitude": 32.6314,
+		"longitude": -86.3268
+	},
+	{
+		"county": "Emanuel",
+		"deaths": 41,
+		"cases": 1142,
+		"latitude": 32.5306,
+		"longitude": -82.592
+	},
+	{
+		"county": "Emery",
+		"deaths": 0,
+		"cases": 279,
+		"latitude": 39.3301,
+		"longitude": -110.9628
+	},
+	{
+		"county": "Emmet",
+		"deaths": 124,
+		"cases": 1426,
+		"latitude": 43.3998,
+		"longitude": -94.8343
+	},
+	{
+		"county": "Emmons",
+		"deaths": 57,
+		"cases": 107,
+		"latitude": 46.4858,
+		"longitude": -100.2811
+	},
+	{
+		"county": "Erath",
+		"deaths": 61,
+		"cases": 795,
+		"latitude": 32.0875,
+		"longitude": -98.3391
+	},
+	{
+		"county": "Erie",
+		"deaths": 17545,
+		"cases": 233237,
+		"latitude": 43.0085,
+		"longitude": -78.6308
+	},
+	{
+		"county": "Escambia",
+		"deaths": 1000,
+		"cases": 33655,
+		"latitude": 30.4158,
+		"longitude": -87.3028
+	},
+	{
+		"county": "Essex",
+		"deaths": 97698,
+		"cases": 1341221,
+		"latitude": 40.8428,
+		"longitude": -74.2014
+	},
+	{
+		"county": "Estill",
+		"deaths": 0,
+		"cases": 1,
+		"latitude": 37.6969,
+		"longitude": -83.9684
+	},
+	{
+		"county": "Etowah",
+		"deaths": 526,
+		"cases": 9249,
+		"latitude": 33.9446,
+		"longitude": -85.9319
+	},
+	{
+		"county": "Evangeline",
+		"deaths": 34,
+		"cases": 3850,
+		"latitude": 30.5696,
+		"longitude": -92.3169
+	},
+	{
+		"county": "Evans",
+		"deaths": 0,
+		"cases": 218,
+		"latitude": 32.1613,
+		"longitude": -81.9093
+	},
+	{
+		"county": "Fairfax",
+		"deaths": 10671,
+		"cases": 299784,
+		"latitude": 38.7773,
+		"longitude": -77.2633
+	},
+	{
+		"county": "Fairfield",
+		"deaths": 48794,
+		"cases": 691447,
+		"latitude": 41.1144,
+		"longitude": -73.4215
+	},
+	{
+		"county": "Fall River",
+		"deaths": 0,
+		"cases": 127,
+		"latitude": 43.4313,
+		"longitude": -103.4836
+	},
+	{
+		"county": "Falls",
+		"deaths": 0,
+		"cases": 245,
+		"latitude": 31.3711,
+		"longitude": -97.0763
+	},
+	{
+		"county": "Fannin",
+		"deaths": 84,
+		"cases": 2870,
+		"latitude": 33.4275,
+		"longitude": -96.3407
+	},
+	{
+		"county": "Faribault",
+		"deaths": 0,
+		"cases": 479,
+		"latitude": 43.7677,
+		"longitude": -94.0174
+	},
+	{
+		"county": "Faulk",
+		"deaths": 0,
+		"cases": 68,
+		"latitude": 45.1913,
+		"longitude": -99.4659
+	},
+	{
+		"county": "Faulkner",
+		"deaths": 134,
+		"cases": 4999,
+		"latitude": 35.2289,
+		"longitude": -92.3836
+	},
+	{
+		"county": "Fauquier",
+		"deaths": 168,
+		"cases": 8728,
+		"latitude": 38.654,
+		"longitude": -77.637
+	},
+	{
+		"county": "Fayette",
+		"deaths": 1938,
+		"cases": 52643,
+		"latitude": 37.9504,
+		"longitude": -81.1666
+	},
+	{
+		"county": "Fentress",
+		"deaths": 0,
+		"cases": 349,
+		"latitude": 36.1857,
+		"longitude": -85.0096
+	},
+	{
+		"county": "Ferry",
+		"deaths": 0,
+		"cases": 70,
+		"latitude": 48.7311,
+		"longitude": -118.6663
+	},
+	{
+		"county": "Fillmore",
+		"deaths": 43,
+		"cases": 1009,
+		"latitude": 40.4149,
+		"longitude": -97.5871
+	},
+	{
+		"county": "Finney",
+		"deaths": 194,
+		"cases": 39181,
+		"latitude": 37.9864,
+		"longitude": -100.9937
+	},
+	{
+		"county": "Fisher",
+		"deaths": 11,
+		"cases": 34,
+		"latitude": 32.746,
+		"longitude": -100.3794
+	},
+	{
+		"county": "Flagler",
+		"deaths": 174,
+		"cases": 7411,
+		"latitude": 29.4198,
+		"longitude": -81.3235
+	},
+	{
+		"county": "Flathead",
+		"deaths": 93,
+		"cases": 2281,
+		"latitude": 48.0858,
+		"longitude": -114.671
+	},
+	{
+		"county": "Fleming",
+		"deaths": 0,
+		"cases": 110,
+		"latitude": 38.4278,
+		"longitude": -83.8618
+	},
+	{
+		"county": "Florence",
+		"deaths": 1134,
+		"cases": 20799,
+		"latitude": 45.8431,
+		"longitude": -88.6673
+	},
+	{
+		"county": "Floyd",
+		"deaths": 1983,
+		"cases": 24086,
+		"latitude": 33.9835,
+		"longitude": -101.3367
+	},
+	{
+		"county": "Fluvanna",
+		"deaths": 246,
+		"cases": 4026,
+		"latitude": 37.8652,
+		"longitude": -78.2627
+	},
+	{
+		"county": "Fond du Lac",
+		"deaths": 211,
+		"cases": 6405,
+		"latitude": 43.8377,
+		"longitude": -88.3465
+	},
+	{
+		"county": "Ford",
+		"deaths": 125,
+		"cases": 48853,
+		"latitude": 40.5709,
+		"longitude": -88.2471
+	},
+	{
+		"county": "Forest",
+		"deaths": 10,
+		"cases": 727,
+		"latitude": 45.4394,
+		"longitude": -88.6581
+	},
+	{
+		"county": "Forrest",
+		"deaths": 997,
+		"cases": 16957,
+		"latitude": 31.3074,
+		"longitude": -89.317
+	},
+	{
+		"county": "Forsyth",
+		"deaths": 876,
+		"cases": 45961,
+		"latitude": 36.2587,
+		"longitude": -80.236
+	},
+	{
+		"county": "Fort Bend",
+		"deaths": 1679,
+		"cases": 70563,
+		"latitude": 29.546,
+		"longitude": -95.822
+	},
+	{
+		"county": "Foster",
+		"deaths": 0,
+		"cases": 70,
+		"latitude": 47.4551,
+		"longitude": -98.5664
+	},
+	{
+		"county": "Fountain",
+		"deaths": 110,
+		"cases": 714,
+		"latitude": 40.1089,
+		"longitude": -87.1577
+	},
+	{
+		"county": "Franklin",
+		"deaths": 13002,
+		"cases": 305764,
+		"latitude": 46.5737,
+		"longitude": -119.0013
+	},
+	{
+		"county": "Frederick",
+		"deaths": 3622,
+		"cases": 71838,
+		"latitude": 39.0902,
+		"longitude": -78.223
+	},
+	{
+		"county": "Freeborn",
+		"deaths": 0,
+		"cases": 2969,
+		"latitude": 43.7659,
+		"longitude": -93.5645
+	},
+	{
+		"county": "Freestone",
+		"deaths": 0,
+		"cases": 304,
+		"latitude": 31.7897,
+		"longitude": -96.461
+	},
+	{
+		"county": "Fremont",
+		"deaths": 209,
+		"cases": 10347,
+		"latitude": 43.0069,
+		"longitude": -108.9205
+	},
+	{
+		"county": "Fresno",
+		"deaths": 761,
+		"cases": 48942,
+		"latitude": 36.5399,
+		"longitude": -119.845
+	},
+	{
+		"county": "Frio",
+		"deaths": 0,
+		"cases": 1034,
+		"latitude": 28.8885,
+		"longitude": -99.0988
+	},
+	{
+		"county": "Frontier",
+		"deaths": 0,
+		"cases": 35,
+		"latitude": 40.6335,
+		"longitude": -100.5112
+	},
+	{
+		"county": "Fulton",
+		"deaths": 8149,
+		"cases": 192377,
+		"latitude": 43.1028,
+		"longitude": -74.2661
+	},
+	{
+		"county": "Furnas",
+		"deaths": 0,
+		"cases": 217,
+		"latitude": 40.2776,
+		"longitude": -99.7763
+	},
+	{
+		"county": "Gadsden",
+		"deaths": 27,
+		"cases": 7685,
+		"latitude": 30.4992,
+		"longitude": -84.4582
+	},
+	{
+		"county": "Gage",
+		"deaths": 159,
+		"cases": 2078,
+		"latitude": 40.2849,
+		"longitude": -96.534
+	},
+	{
+		"county": "Gaines",
+		"deaths": 0,
+		"cases": 213,
+		"latitude": 32.9419,
+		"longitude": -102.5657
+	},
+	{
+		"county": "Gallatin",
+		"deaths": 52,
+		"cases": 9721,
+		"latitude": 37.9025,
+		"longitude": -88.1279
+	},
+	{
+		"county": "Gallia",
+		"deaths": 71,
+		"cases": 387,
+		"latitude": 38.9776,
+		"longitude": -82.3374
+	},
+	{
+		"county": "Galveston",
+		"deaths": 1398,
+		"cases": 36070,
+		"latitude": 29.4128,
+		"longitude": -94.9658
+	},
+	{
+		"county": "Garden",
+		"deaths": 0,
+		"cases": 4,
+		"latitude": 41.4081,
+		"longitude": -102.3453
+	},
+	{
+		"county": "Garfield",
+		"deaths": 174,
+		"cases": 7106,
+		"latitude": 46.4737,
+		"longitude": -117.5967
+	},
+	{
+		"county": "Garland",
+		"deaths": 28,
+		"cases": 6998,
+		"latitude": 34.4269,
+		"longitude": -93.0887
+	},
+	{
+		"county": "Garrard",
+		"deaths": 0,
+		"cases": 151,
+		"latitude": 37.6152,
+		"longitude": -84.5817
+	},
+	{
+		"county": "Garrett",
+		"deaths": 0,
+		"cases": 369,
+		"latitude": 39.2924,
+		"longitude": -79.3525
+	},
+	{
+		"county": "Garvin",
+		"deaths": 35,
+		"cases": 865,
+		"latitude": 34.8392,
+		"longitude": -97.6105
+	},
+	{
+		"county": "Garza",
+		"deaths": 0,
+		"cases": 131,
+		"latitude": 33.1911,
+		"longitude": -101.3814
+	},
+	{
+		"county": "Gasconade",
+		"deaths": 0,
+		"cases": 124,
+		"latitude": 38.6983,
+		"longitude": -91.4342
+	},
+	{
+		"county": "Gaston",
+		"deaths": 254,
+		"cases": 9625,
+		"latitude": 35.2652,
+		"longitude": -81.0805
+	},
+	{
+		"county": "Gates",
+		"deaths": 12,
+		"cases": 622,
+		"latitude": 36.4072,
+		"longitude": -76.7566
+	},
+	{
+		"county": "Geary",
+		"deaths": 1,
+		"cases": 743,
+		"latitude": 39.0271,
+		"longitude": -96.8497
+	},
+	{
+		"county": "Geauga",
+		"deaths": 947,
+		"cases": 10000,
+		"latitude": 41.4318,
+		"longitude": -81.3351
+	},
+	{
+		"county": "Gem",
+		"deaths": 0,
+		"cases": 821,
+		"latitude": 43.8685,
+		"longitude": -116.489
+	},
+	{
+		"county": "Genesee",
+		"deaths": 10538,
+		"cases": 101369,
+		"latitude": 42.978,
+		"longitude": -77.9899
+	},
+	{
+		"county": "Geneva",
+		"deaths": 0,
+		"cases": 881,
+		"latitude": 31.0437,
+		"longitude": -85.8764
+	},
+	{
+		"county": "Gentry",
+		"deaths": 6,
+		"cases": 331,
+		"latitude": 40.2166,
+		"longitude": -94.5381
+	},
+	{
+		"county": "George",
+		"deaths": 46,
+		"cases": 857,
+		"latitude": 30.9312,
+		"longitude": -88.5959
+	},
+	{
+		"county": "Georgetown",
+		"deaths": 144,
+		"cases": 2832,
+		"latitude": 33.5567,
+		"longitude": -79.0591
+	},
+	{
+		"county": "Gibson",
+		"deaths": 66,
+		"cases": 3155,
+		"latitude": 35.9689,
+		"longitude": -88.9449
+	},
+	{
+		"county": "Gila",
+		"deaths": 34,
+		"cases": 903,
+		"latitude": 34.3199,
+		"longitude": -111.3051
+	},
+	{
+		"county": "Gilchrist",
+		"deaths": 0,
+		"cases": 377,
+		"latitude": 29.6092,
+		"longitude": -82.8146
+	},
+	{
+		"county": "Giles",
+		"deaths": 0,
+		"cases": 734,
+		"latitude": 35.0031,
+		"longitude": -86.855
+	},
+	{
+		"county": "Gillespie",
+		"deaths": 0,
+		"cases": 199,
+		"latitude": 30.2903,
+		"longitude": -99.2459
+	},
+	{
+		"county": "Gilmer",
+		"deaths": 3,
+		"cases": 4537,
+		"latitude": 38.9379,
+		"longitude": -80.8339
+	},
+	{
+		"county": "Gilpin",
+		"deaths": 0,
+		"cases": 102,
+		"latitude": 39.7963,
+		"longitude": -105.5151
+	},
+	{
+		"county": "Glacier",
+		"deaths": 0,
+		"cases": 299,
+		"latitude": 48.5458,
+		"longitude": -113.0128
+	},
+	{
+		"county": "Glades",
+		"deaths": 64,
+		"cases": 656,
+		"latitude": 26.8338,
+		"longitude": -81.0985
+	},
+	{
+		"county": "Gladwin",
+		"deaths": 44,
+		"cases": 787,
+		"latitude": 43.8811,
+		"longitude": -84.4887
+	},
+	{
+		"county": "Glascock",
+		"deaths": 0,
+		"cases": 27,
+		"latitude": 33.1534,
+		"longitude": -82.625
+	},
+	{
+		"county": "Glasscock",
+		"deaths": 0,
+		"cases": 34,
+		"latitude": 31.8674,
+		"longitude": -101.4864
+	},
+	{
+		"county": "Glenn",
+		"deaths": 0,
+		"cases": 440,
+		"latitude": 39.5149,
+		"longitude": -122.1995
+	},
+	{
+		"county": "Gloucester",
+		"deaths": 4105,
+		"cases": 81895,
+		"latitude": 39.7458,
+		"longitude": -75.3117
+	},
+	{
+		"county": "Glynn",
+		"deaths": 43,
+		"cases": 4048,
+		"latitude": 31.145,
+		"longitude": -81.474
+	},
+	{
+		"county": "Gogebic",
+		"deaths": 69,
+		"cases": 267,
+		"latitude": 46.4767,
+		"longitude": -89.9336
+	},
+	{
+		"county": "Golden Valley",
+		"deaths": 0,
+		"cases": 147,
+		"latitude": 46.7347,
+		"longitude": -103.9829
+	},
+	{
+		"county": "Goliad",
+		"deaths": 0,
+		"cases": 360,
+		"latitude": 28.6708,
+		"longitude": -97.3916
+	},
+	{
+		"county": "Gonzales",
+		"deaths": 75,
+		"cases": 2567,
+		"latitude": 29.2698,
+		"longitude": -97.7658
+	},
+	{
+		"county": "Goochland",
+		"deaths": 211,
+		"cases": 4210,
+		"latitude": 37.6973,
+		"longitude": -77.8944
+	},
+	{
+		"county": "Goodhue",
+		"deaths": 33,
+		"cases": 1761,
+		"latitude": 44.4088,
+		"longitude": -93.0303
+	},
+	{
+		"county": "Gooding",
+		"deaths": 0,
+		"cases": 1114,
+		"latitude": 42.7745,
+		"longitude": -114.7025
+	},
+	{
+		"county": "Gordon",
+		"deaths": 665,
+		"cases": 6021,
+		"latitude": 34.4379,
+		"longitude": -84.6999
+	},
+	{
+		"county": "Goshen",
+		"deaths": 0,
+		"cases": 267,
+		"latitude": 41.7852,
+		"longitude": -104.265
+	},
+	{
+		"county": "Gosper",
+		"deaths": 0,
+		"cases": 532,
+		"latitude": 40.5733,
+		"longitude": -99.7409
+	},
+	{
+		"county": "Gove",
+		"deaths": 0,
+		"cases": 68,
+		"latitude": 38.9593,
+		"longitude": -100.487
+	},
+	{
+		"county": "Grady",
+		"deaths": 257,
+		"cases": 6343,
+		"latitude": 30.8845,
+		"longitude": -84.3247
+	},
+	{
+		"county": "Grafton",
+		"deaths": 33,
+		"cases": 3745,
+		"latitude": 44.0364,
+		"longitude": -71.6895
+	},
+	{
+		"county": "Graham",
+		"deaths": 12,
+		"cases": 933,
+		"latitude": 35.4328,
+		"longitude": -83.8248
+	},
+	{
+		"county": "Grainger",
+		"deaths": 0,
+		"cases": 327,
+		"latitude": 36.3322,
+		"longitude": -83.2852
+	},
+	{
+		"county": "Grand",
+		"deaths": 0,
+		"cases": 588,
+		"latitude": 40.0565,
+		"longitude": -106.3782
+	},
+	{
+		"county": "Grand Forks",
+		"deaths": 73,
+		"cases": 12619,
+		"latitude": 47.9241,
+		"longitude": -97.3655
+	},
+	{
+		"county": "Grand Traverse",
+		"deaths": 274,
+		"cases": 1279,
+		"latitude": 44.6611,
+		"longitude": -85.6881
+	},
+	{
+		"county": "Grant",
+		"deaths": 1450,
+		"cases": 28375,
+		"latitude": 47.1949,
+		"longitude": -119.3186
+	},
+	{
+		"county": "Granville",
+		"deaths": 311,
+		"cases": 9723,
+		"latitude": 36.4475,
+		"longitude": -78.5689
+	},
+	{
+		"county": "Gratiot",
+		"deaths": 169,
+		"cases": 1816,
+		"latitude": 43.1807,
+		"longitude": -84.6793
+	},
+	{
+		"county": "Graves",
+		"deaths": 689,
+		"cases": 6360,
+		"latitude": 36.9211,
+		"longitude": -88.5226
+	},
+	{
+		"county": "Gray",
+		"deaths": 26,
+		"cases": 3814,
+		"latitude": 35.5479,
+		"longitude": -100.965
+	},
+	{
+		"county": "Grays Harbor",
+		"deaths": 0,
+		"cases": 782,
+		"latitude": 46.8304,
+		"longitude": -124.0898
+	},
+	{
+		"county": "Grayson",
+		"deaths": 278,
+		"cases": 11219,
+		"latitude": 33.6233,
+		"longitude": -96.7286
+	},
+	{
+		"county": "Greeley",
+		"deaths": 0,
+		"cases": 81,
+		"latitude": 41.5484,
+		"longitude": -98.5305
+	},
+	{
+		"county": "Green",
+		"deaths": 0,
+		"cases": 1743,
+		"latitude": 42.6168,
+		"longitude": -89.3756
+	},
+	{
+		"county": "Green Lake",
+		"deaths": 0,
+		"cases": 384,
+		"latitude": 43.9704,
+		"longitude": -88.9505
+	},
+	{
+		"county": "Greenbrier",
+		"deaths": 0,
+		"cases": 370,
+		"latitude": 37.7981,
+		"longitude": -80.3003
+	},
+	{
+		"county": "Greene",
+		"deaths": 2174,
+		"cases": 40100,
+		"latitude": 35.4505,
+		"longitude": -77.6768
+	},
+	{
+		"county": "Greenlee",
+		"deaths": 2,
+		"cases": 147,
+		"latitude": 33.0531,
+		"longitude": -109.3307
+	},
+	{
+		"county": "Greensville",
+		"deaths": 277,
+		"cases": 2278,
+		"latitude": 36.816,
+		"longitude": -77.4689
+	},
+	{
+		"county": "Greenup",
+		"deaths": 0,
+		"cases": 620,
+		"latitude": 38.5495,
+		"longitude": -82.7788
+	},
+	{
+		"county": "Greenville",
+		"deaths": 1924,
+		"cases": 49772,
+		"latitude": 34.8821,
+		"longitude": -82.3336
+	},
+	{
+		"county": "Greenwood",
+		"deaths": 20,
+		"cases": 3677,
+		"latitude": 37.7191,
+		"longitude": -96.224
+	},
+	{
+		"county": "Greer",
+		"deaths": 347,
+		"cases": 3526,
+		"latitude": 35.0514,
+		"longitude": -99.5099
+	},
+	{
+		"county": "Gregg",
+		"deaths": 72,
+		"cases": 6814,
+		"latitude": 32.5426,
+		"longitude": -94.9465
+	},
+	{
+		"county": "Gregory",
+		"deaths": 0,
+		"cases": 3,
+		"latitude": 43.0281,
+		"longitude": -98.8891
+	},
+	{
+		"county": "Grenada",
+		"deaths": 68,
+		"cases": 2552,
+		"latitude": 33.7816,
+		"longitude": -89.813
+	},
+	{
+		"county": "Griggs",
+		"deaths": 0,
+		"cases": 12,
+		"latitude": 47.5402,
+		"longitude": -98.2291
+	},
+	{
+		"county": "Grimes",
+		"deaths": 48,
+		"cases": 2846,
+		"latitude": 30.3874,
+		"longitude": -96.0895
+	},
+	{
+		"county": "Grundy",
+		"deaths": 90,
+		"cases": 5384,
+		"latitude": 35.4589,
+		"longitude": -85.6689
+	},
+	{
+		"county": "Guadalupe",
+		"deaths": 0,
+		"cases": 5831,
+		"latitude": 34.936,
+		"longitude": -104.6769
+	},
+	{
+		"county": "Guernsey",
+		"deaths": 5,
+		"cases": 1100,
+		"latitude": 40.1508,
+		"longitude": -81.5758
+	},
+	{
+		"county": "Guilford",
+		"deaths": 1892,
+		"cases": 33140,
+		"latitude": 35.9905,
+		"longitude": -79.9937
+	},
+	{
+		"county": "Gulf",
+		"deaths": 0,
+		"cases": 64,
+		"latitude": 30.1148,
+		"longitude": -85.1935
+	},
+	{
+		"county": "Gunnison",
+		"deaths": 284,
+		"cases": 9933,
+		"latitude": 38.6086,
+		"longitude": -106.5164
+	},
+	{
+		"county": "Guthrie",
+		"deaths": 58,
+		"cases": 1351,
+		"latitude": 41.8452,
+		"longitude": -94.307
+	},
+	{
+		"county": "Gwinnett",
+		"deaths": 4332,
+		"cases": 122038,
+		"latitude": 34.1354,
+		"longitude": -83.9763
+	},
+	{
+		"county": "Habersham",
+		"deaths": 595,
+		"cases": 16846,
+		"latitude": 34.5648,
+		"longitude": -83.5424
+	},
+	{
+		"county": "Hale",
+		"deaths": 327,
+		"cases": 5806,
+		"latitude": 34.2791,
+		"longitude": -101.8968
+	},
+	{
+		"county": "Halifax",
+		"deaths": 47,
+		"cases": 5755,
+		"latitude": 36.4452,
+		"longitude": -77.649
+	},
+	{
+		"county": "Hall",
+		"deaths": 2860,
+		"cases": 145929,
+		"latitude": 34.547,
+		"longitude": -100.44
+	},
+	{
+		"county": "Hamblen",
+		"deaths": 96,
+		"cases": 1114,
+		"latitude": 36.2047,
+		"longitude": -83.3005
+	},
+	{
+		"county": "Hamilton",
+		"deaths": 9674,
+		"cases": 164844,
+		"latitude": 30.3317,
+		"longitude": -82.7562
+	},
+	{
+		"county": "Hamlin",
+		"deaths": 0,
+		"cases": 142,
+		"latitude": 44.5899,
+		"longitude": -97.4673
+	},
+	{
+		"county": "Hampden",
+		"deaths": 21670,
+		"cases": 231595,
+		"latitude": 42.2125,
+		"longitude": -72.6411
+	},
+	{
+		"county": "Hampshire",
+		"deaths": 2529,
+		"cases": 33471,
+		"latitude": 39.4449,
+		"longitude": -78.6977
+	},
+	{
+		"county": "Hampton",
+		"deaths": 7,
+		"cases": 1390,
+		"latitude": 37.0551,
+		"longitude": -76.3629
+	},
+	{
+		"county": "Hancock",
+		"deaths": 1819,
+		"cases": 27311,
+		"latitude": 40.6179,
+		"longitude": -80.5999
+	},
+	{
+		"county": "Hand",
+		"deaths": 0,
+		"cases": 44,
+		"latitude": 44.5205,
+		"longitude": -98.9869
+	},
+	{
+		"county": "Hanover",
+		"deaths": 671,
+		"cases": 9217,
+		"latitude": 37.7668,
+		"longitude": -77.3706
+	},
+	{
+		"county": "Hansford",
+		"deaths": 59,
+		"cases": 530,
+		"latitude": 36.066,
+		"longitude": -101.4769
+	},
+	{
+		"county": "Haralson",
+		"deaths": 83,
+		"cases": 1753,
+		"latitude": 33.7335,
+		"longitude": -85.2859
+	},
+	{
+		"county": "Hardee",
+		"deaths": 0,
+		"cases": 1972,
+		"latitude": 27.5469,
+		"longitude": -81.8103
+	},
+	{
+		"county": "Hardeman",
+		"deaths": 0,
+		"cases": 4998,
+		"latitude": 34.2954,
+		"longitude": -99.7429
+	},
+	{
+		"county": "Hardin",
+		"deaths": 285,
+		"cases": 11775,
+		"latitude": 30.1933,
+		"longitude": -94.193
+	},
+	{
+		"county": "Harding",
+		"deaths": 0,
+		"cases": 41,
+		"latitude": 35.9451,
+		"longitude": -104.1963
+	},
+	{
+		"county": "Hardy",
+		"deaths": 0,
+		"cases": 930,
+		"latitude": 39.0674,
+		"longitude": -78.9624
+	},
+	{
+		"county": "Harford",
+		"deaths": 1278,
+		"cases": 28351,
+		"latitude": 39.4861,
+		"longitude": -76.3908
+	},
+	{
+		"county": "Harlan",
+		"deaths": 0,
+		"cases": 40,
+		"latitude": 40.1036,
+		"longitude": -99.3655
+	},
+	{
+		"county": "Harnett",
+		"deaths": 672,
+		"cases": 9954,
+		"latitude": 35.3999,
+		"longitude": -78.814
+	},
+	{
+		"county": "Harney",
+		"deaths": 0,
+		"cases": 36,
+		"latitude": 43.5568,
+		"longitude": -119.0804
+	},
+	{
+		"county": "Harper",
+		"deaths": 0,
+		"cases": 87,
+		"latitude": 36.6174,
+		"longitude": -99.7484
+	},
+	{
+		"county": "Harris",
+		"deaths": 8276,
+		"cases": 437503,
+		"latitude": 29.8671,
+		"longitude": -95.0537
+	},
+	{
+		"county": "Harrison",
+		"deaths": 1630,
+		"cases": 31805,
+		"latitude": 39.2044,
+		"longitude": -80.4034
+	},
+	{
+		"county": "Hart",
+		"deaths": 0,
+		"cases": 1487,
+		"latitude": 34.2859,
+		"longitude": -83.1097
+	},
+	{
+		"county": "Hartford",
+		"deaths": 42253,
+		"cases": 364287,
+		"latitude": 41.5832,
+		"longitude": -72.8915
+	},
+	{
+		"county": "Hartley",
+		"deaths": 57,
+		"cases": 335,
+		"latitude": 35.8914,
+		"longitude": -102.3933
+	},
+	{
+		"county": "Harvey",
+		"deaths": 33,
+		"cases": 550,
+		"latitude": 38.0364,
+		"longitude": -97.3463
+	},
+	{
+		"county": "Haskell",
+		"deaths": 0,
+		"cases": 822,
+		"latitude": 33.1597,
+		"longitude": -99.732
+	},
+	{
+		"county": "Hawaii",
+		"deaths": 0,
+		"cases": 4038,
+		"latitude": 20.0397,
+		"longitude": -155.3696
+	},
+	{
+		"county": "Hawkins",
+		"deaths": 114,
+		"cases": 1720,
+		"latitude": 36.4745,
+		"longitude": -82.8593
+	},
+	{
+		"county": "Hays",
+		"deaths": 106,
+		"cases": 11374,
+		"latitude": 30.0392,
+		"longitude": -97.8915
+	},
+	{
+		"county": "Haywood",
+		"deaths": 65,
+		"cases": 2292,
+		"latitude": 35.524,
+		"longitude": -83.0642
+	},
+	{
+		"county": "Heard",
+		"deaths": 83,
+		"cases": 877,
+		"latitude": 33.3689,
+		"longitude": -85.1037
+	},
+	{
+		"county": "Hemphill",
+		"deaths": 0,
+		"cases": 60,
+		"latitude": 35.9097,
+		"longitude": -100.3839
+	},
+	{
+		"county": "Hempstead",
+		"deaths": 55,
+		"cases": 468,
+		"latitude": 33.5113,
+		"longitude": -93.5671
+	},
+	{
+		"county": "Henderson",
+		"deaths": 1496,
+		"cases": 18707,
+		"latitude": 32.3075,
+		"longitude": -96.0138
+	},
+	{
+		"county": "Hendricks",
+		"deaths": 2944,
+		"cases": 46248,
+		"latitude": 39.8329,
+		"longitude": -86.3824
+	},
+	{
+		"county": "Hendry",
+		"deaths": 336,
+		"cases": 8589,
+		"latitude": 26.7325,
+		"longitude": -80.9518
+	},
+	{
+		"county": "Hennepin",
+		"deaths": 17279,
+		"cases": 196745,
+		"latitude": 44.9394,
+		"longitude": -93.5891
+	},
+	{
+		"county": "Henrico",
+		"deaths": 5391,
+		"cases": 57662,
+		"latitude": 37.6133,
+		"longitude": -77.4768
+	},
+	{
+		"county": "Henry",
+		"deaths": 1225,
+		"cases": 46068,
+		"latitude": 36.2933,
+		"longitude": -88.3065
+	},
+	{
+		"county": "Herkimer",
+		"deaths": 78,
+		"cases": 4234,
+		"latitude": 43.1859,
+		"longitude": -75.0151
+	},
+	{
+		"county": "Hernando",
+		"deaths": 228,
+		"cases": 5718,
+		"latitude": 28.469,
+		"longitude": -82.5999
+	},
+	{
+		"county": "Hertford",
+		"deaths": 63,
+		"cases": 2435,
+		"latitude": 36.3567,
+		"longitude": -76.9105
+	},
+	{
+		"county": "Hickman",
+		"deaths": 0,
+		"cases": 2211,
+		"latitude": 35.8042,
+		"longitude": -87.4577
+	},
+	{
+		"county": "Hidalgo",
+		"deaths": 364,
+		"cases": 21181,
+		"latitude": 32.3748,
+		"longitude": -108.7161
+	},
+	{
+		"county": "Highland",
+		"deaths": 30,
+		"cases": 825,
+		"latitude": 38.4116,
+		"longitude": -79.5809
+	},
+	{
+		"county": "Highlands",
+		"deaths": 419,
+		"cases": 5295,
+		"latitude": 27.5908,
+		"longitude": -81.5081
+	},
+	{
+		"county": "Hill",
+		"deaths": 48,
+		"cases": 1056,
+		"latitude": 32.1419,
+		"longitude": -97.3972
+	},
+	{
+		"county": "Hillsborough",
+		"deaths": 5689,
+		"cases": 155505,
+		"latitude": 27.7065,
+		"longitude": -82.4209
+	},
+	{
+		"county": "Hillsdale",
+		"deaths": 1005,
+		"cases": 7623,
+		"latitude": 41.7242,
+		"longitude": -84.4189
+	},
+	{
+		"county": "Hinds",
+		"deaths": 730,
+		"cases": 34530,
+		"latitude": 32.3163,
+		"longitude": -90.2124
+	},
+	{
+		"county": "Hinsdale",
+		"deaths": 0,
+		"cases": 176,
+		"latitude": 38.0836,
+		"longitude": -107.0306
+	},
+	{
+		"county": "Hitchcock",
+		"deaths": 0,
+		"cases": 34,
+		"latitude": 40.2284,
+		"longitude": -100.8351
+	},
+	{
+		"county": "Hocking",
+		"deaths": 84,
+		"cases": 1650,
+		"latitude": 39.4719,
+		"longitude": -82.7374
+	},
+	{
+		"county": "Hockley",
+		"deaths": 61,
+		"cases": 1259,
+		"latitude": 33.4133,
+		"longitude": -102.1552
+	},
+	{
+		"county": "Hodgeman",
+		"deaths": 0,
+		"cases": 29,
+		"latitude": 38.1229,
+		"longitude": -99.7126
+	},
+	{
+		"county": "Hoke",
+		"deaths": 12,
+		"cases": 6078,
+		"latitude": 34.9358,
+		"longitude": -79.2999
+	},
+	{
+		"county": "Holmes",
+		"deaths": 800,
+		"cases": 12600,
+		"latitude": 30.7234,
+		"longitude": -85.9374
+	},
+	{
+		"county": "Holt",
+		"deaths": 0,
+		"cases": 83,
+		"latitude": 42.3819,
+		"longitude": -98.5298
+	},
+	{
+		"county": "Honolulu",
+		"deaths": 544,
+		"cases": 25030,
+		"latitude": 21.4921,
+		"longitude": -157.8721
+	},
+	{
+		"county": "Hood",
+		"deaths": 159,
+		"cases": 1192,
+		"latitude": 32.4885,
+		"longitude": -97.8357
+	},
+	{
+		"county": "Hood River",
+		"deaths": 0,
+		"cases": 556,
+		"latitude": 45.6354,
+		"longitude": -121.5522
+	},
+	{
+		"county": "Hopkins",
+		"deaths": 1249,
+		"cases": 10942,
+		"latitude": 33.3222,
+		"longitude": -95.5606
+	},
+	{
+		"county": "Horry",
+		"deaths": 954,
+		"cases": 15082,
+		"latitude": 33.6092,
+		"longitude": -78.9772
+	},
+	{
+		"county": "Hot Spring",
+		"deaths": 0,
+		"cases": 1168,
+		"latitude": 34.2602,
+		"longitude": -92.961
+	},
+	{
+		"county": "Hot Springs",
+		"deaths": 0,
+		"cases": 332,
+		"latitude": 43.7819,
+		"longitude": -108.5679
+	},
+	{
+		"county": "Houghton",
+		"deaths": 0,
+		"cases": 141,
+		"latitude": 47.1277,
+		"longitude": -88.5085
+	},
+	{
+		"county": "Houston",
+		"deaths": 994,
+		"cases": 23103,
+		"latitude": 31.3177,
+		"longitude": -95.4564
+	},
+	{
+		"county": "Howard",
+		"deaths": 2442,
+		"cases": 76338,
+		"latitude": 32.2795,
+		"longitude": -101.3496
+	},
+	{
+		"county": "Howell",
+		"deaths": 0,
+		"cases": 293,
+		"latitude": 36.6311,
+		"longitude": -91.9602
+	},
+	{
+		"county": "Hubbard",
+		"deaths": 0,
+		"cases": 18,
+		"latitude": 46.917,
+		"longitude": -95.0596
+	},
+	{
+		"county": "Hudson",
+		"deaths": 45284,
+		"cases": 841759,
+		"latitude": 40.7927,
+		"longitude": -74.0048
+	},
+	{
+		"county": "Hudspeth",
+		"deaths": 0,
+		"cases": 12,
+		"latitude": 31.9349,
+		"longitude": -105.1998
+	},
+	{
+		"county": "Huerfano",
+		"deaths": 0,
+		"cases": 136,
+		"latitude": 37.6307,
+		"longitude": -104.7818
+	},
+	{
+		"county": "Hughes",
+		"deaths": 0,
+		"cases": 696,
+		"latitude": 35.0941,
+		"longitude": -96.1238
+	},
+	{
+		"county": "Humboldt",
+		"deaths": 176,
+		"cases": 7516,
+		"latitude": 41.49,
+		"longitude": -117.5323
+	},
+	{
+		"county": "Humphreys",
+		"deaths": 274,
+		"cases": 2315,
+		"latitude": 36.0939,
+		"longitude": -87.7846
+	},
+	{
+		"county": "Hunt",
+		"deaths": 142,
+		"cases": 2900,
+		"latitude": 32.9324,
+		"longitude": -96.2471
+	},
+	{
+		"county": "Hunterdon",
+		"deaths": 2032,
+		"cases": 38647,
+		"latitude": 40.6159,
+		"longitude": -74.772
+	},
+	{
+		"county": "Huntingdon",
+		"deaths": 21,
+		"cases": 6244,
+		"latitude": 40.6472,
+		"longitude": -78.1957
+	},
+	{
+		"county": "Huntington",
+		"deaths": 104,
+		"cases": 815,
+		"latitude": 40.741,
+		"longitude": -85.5618
+	},
+	{
+		"county": "Huron",
+		"deaths": 99,
+		"cases": 3466,
+		"latitude": 41.0796,
+		"longitude": -82.4066
+	},
+	{
+		"county": "Hutchinson",
+		"deaths": 0,
+		"cases": 1226,
+		"latitude": 35.7026,
+		"longitude": -101.5317
+	},
+	{
+		"county": "Hyde",
+		"deaths": 0,
+		"cases": 86,
+		"latitude": 35.5472,
+		"longitude": -76.2261
+	},
+	{
+		"county": "Iberia",
+		"deaths": 1280,
+		"cases": 16225,
+		"latitude": 30.0049,
+		"longitude": -91.8202
+	},
+	{
+		"county": "Iberville",
+		"deaths": 1738,
+		"cases": 25194,
+		"latitude": 30.161,
+		"longitude": -91.1495
+	},
+	{
+		"county": "Ida",
+		"deaths": 0,
+		"cases": 200,
+		"latitude": 42.3439,
+		"longitude": -95.4732
+	},
+	{
+		"county": "Idaho",
+		"deaths": 0,
+		"cases": 191,
+		"latitude": 46.0509,
+		"longitude": -116.3498
+	},
+	{
+		"county": "Imperial",
+		"deaths": 647,
+		"cases": 37042,
+		"latitude": 33.3548,
+		"longitude": -115.7306
+	},
+	{
+		"county": "Independence",
+		"deaths": 0,
+		"cases": 954,
+		"latitude": 35.7672,
+		"longitude": -91.5708
+	},
+	{
+		"county": "Indian River",
+		"deaths": 363,
+		"cases": 6001,
+		"latitude": 27.6378,
+		"longitude": -80.4855
+	},
+	{
+		"county": "Indiana",
+		"deaths": 217,
+		"cases": 3923,
+		"latitude": 40.8197,
+		"longitude": -78.8297
+	},
+	{
+		"county": "Ingham",
+		"deaths": 828,
+		"cases": 29838,
+		"latitude": 42.5558,
+		"longitude": -84.303
+	},
+	{
+		"county": "Inyo",
+		"deaths": 41,
+		"cases": 1150,
+		"latitude": 37.4189,
+		"longitude": -118.5424
+	},
+	{
+		"county": "Ionia",
+		"deaths": 140,
+		"cases": 4722,
+		"latitude": 42.7824,
+		"longitude": -85.1374
+	},
+	{
+		"county": "Iosco",
+		"deaths": 325,
+		"cases": 2706,
+		"latitude": 44.2337,
+		"longitude": -83.8033
+	},
+	{
+		"county": "Iowa",
+		"deaths": 0,
+		"cases": 1803,
+		"latitude": 42.8419,
+		"longitude": -90.3961
+	},
+	{
+		"county": "Iredell",
+		"deaths": 218,
+		"cases": 8498,
+		"latitude": 35.6871,
+		"longitude": -80.8832
+	},
+	{
+		"county": "Irion",
+		"deaths": 0,
+		"cases": 1,
+		"latitude": 31.2619,
+		"longitude": -100.8208
+	},
+	{
+		"county": "Iron",
+		"deaths": 68,
+		"cases": 1977,
+		"latitude": 46.4104,
+		"longitude": -90.2695
+	},
+	{
+		"county": "Iroquois",
+		"deaths": 92,
+		"cases": 3737,
+		"latitude": 40.5162,
+		"longitude": -88.0759
+	},
+	{
+		"county": "Irwin",
+		"deaths": 42,
+		"cases": 1123,
+		"latitude": 31.5987,
+		"longitude": -83.2499
+	},
+	{
+		"county": "Isabella",
+		"deaths": 372,
+		"cases": 3403,
+		"latitude": 43.6998,
+		"longitude": -84.7657
+	},
+	{
+		"county": "Isanti",
+		"deaths": 0,
+		"cases": 740,
+		"latitude": 45.7223,
+		"longitude": -93.1717
+	},
+	{
+		"county": "Island",
+		"deaths": 557,
+		"cases": 11357,
+		"latitude": 48.1865,
+		"longitude": -122.4708
+	},
+	{
+		"county": "Isle of Wight",
+		"deaths": 114,
+		"cases": 5539,
+		"latitude": 37.0836,
+		"longitude": -76.6747
+	},
+	{
+		"county": "Itasca",
+		"deaths": 139,
+		"cases": 1352,
+		"latitude": 47.3207,
+		"longitude": -93.7859
+	},
+	{
+		"county": "Itawamba",
+		"deaths": 231,
+		"cases": 3111,
+		"latitude": 34.2327,
+		"longitude": -88.2507
+	},
+	{
+		"county": "Izard",
+		"deaths": 1,
+		"cases": 486,
+		"latitude": 36.1612,
+		"longitude": -92.1065
+	},
+	{
+		"county": "Jack",
+		"deaths": 0,
+		"cases": 203,
+		"latitude": 33.1636,
+		"longitude": -98.3891
+	},
+	{
+		"county": "Jackson",
+		"deaths": 4787,
+		"cases": 113672,
+		"latitude": 44.2981,
+		"longitude": -90.8419
+	},
+	{
+		"county": "Jasper",
+		"deaths": 930,
+		"cases": 22829,
+		"latitude": 30.6578,
+		"longitude": -93.9001
+	},
+	{
+		"county": "Jay",
+		"deaths": 0,
+		"cases": 1308,
+		"latitude": 40.492,
+		"longitude": -85.1468
+	},
+	{
+		"county": "Jeff Davis",
+		"deaths": 44,
+		"cases": 1072,
+		"latitude": 30.5784,
+		"longitude": -103.8921
+	},
+	{
+		"county": "Jefferson",
+		"deaths": 38374,
+		"cases": 705498,
+		"latitude": 47.9101,
+		"longitude": -122.7006
+	},
+	{
+		"county": "Jefferson Davis",
+		"deaths": 386,
+		"cases": 5962,
+		"latitude": 30.2355,
+		"longitude": -92.7481
+	},
+	{
+		"county": "Jenkins",
+		"deaths": 56,
+		"cases": 887,
+		"latitude": 32.9149,
+		"longitude": -81.949
+	},
+	{
+		"county": "Jennings",
+		"deaths": 267,
+		"cases": 5492,
+		"latitude": 38.9853,
+		"longitude": -85.6106
+	},
+	{
+		"county": "Jerauld",
+		"deaths": 40,
+		"cases": 582,
+		"latitude": 44.1829,
+		"longitude": -98.3683
+	},
+	{
+		"county": "Jerome",
+		"deaths": 111,
+		"cases": 4574,
+		"latitude": 42.7183,
+		"longitude": -114.5159
+	},
+	{
+		"county": "Jersey",
+		"deaths": 39,
+		"cases": 813,
+		"latitude": 39.1546,
+		"longitude": -90.1642
+	},
+	{
+		"county": "Jessamine",
+		"deaths": 0,
+		"cases": 2526,
+		"latitude": 37.8299,
+		"longitude": -84.7096
+	},
+	{
+		"county": "Jewell",
+		"deaths": 0,
+		"cases": 214,
+		"latitude": 39.9343,
+		"longitude": -98.0351
+	},
+	{
+		"county": "Jim Hogg",
+		"deaths": 0,
+		"cases": 131,
+		"latitude": 26.8827,
+		"longitude": -98.8948
+	},
+	{
+		"county": "Jim Wells",
+		"deaths": 0,
+		"cases": 304,
+		"latitude": 27.7132,
+		"longitude": -98.1346
+	},
+	{
+		"county": "Jo Daviess",
+		"deaths": 1,
+		"cases": 1005,
+		"latitude": 42.4302,
+		"longitude": -90.1642
+	},
+	{
+		"county": "Johnson",
+		"deaths": 7276,
+		"cases": 119067,
+		"latitude": 43.71,
+		"longitude": -106.6371
+	},
+	{
+		"county": "Johnston",
+		"deaths": 828,
+		"cases": 12258,
+		"latitude": 35.4669,
+		"longitude": -78.1612
+	},
+	{
+		"county": "Jones",
+		"deaths": 479,
+		"cases": 23135,
+		"latitude": 32.8898,
+		"longitude": -100.1329
+	},
+	{
+		"county": "Josephine",
+		"deaths": 53,
+		"cases": 1367,
+		"latitude": 42.2797,
+		"longitude": -123.6151
+	},
+	{
+		"county": "Juab",
+		"deaths": 0,
+		"cases": 380,
+		"latitude": 39.9197,
+		"longitude": -111.8258
+	},
+	{
+		"county": "Juneau",
+		"deaths": 52,
+		"cases": 956,
+		"latitude": 43.6531,
+		"longitude": -90.2239
+	},
+	{
+		"county": "Juniata",
+		"deaths": 76,
+		"cases": 4498,
+		"latitude": 40.5686,
+		"longitude": -77.4047
+	},
+	{
+		"county": "Kalamazoo",
+		"deaths": 1529,
+		"cases": 27259,
+		"latitude": 42.3027,
+		"longitude": -85.5447
+	},
+	{
+		"county": "Kalkaska",
+		"deaths": 124,
+		"cases": 1052,
+		"latitude": 44.8366,
+		"longitude": -85.2871
+	},
+	{
+		"county": "Kanabec",
+		"deaths": 15,
+		"cases": 272,
+		"latitude": 45.7957,
+		"longitude": -93.1524
+	},
+	{
+		"county": "Kanawha",
+		"deaths": 516,
+		"cases": 9724,
+		"latitude": 38.4062,
+		"longitude": -81.481
+	},
+	{
+		"county": "Kandiyohi",
+		"deaths": 36,
+		"cases": 12565,
+		"latitude": 45.4054,
+		"longitude": -94.8397
+	},
+	{
+		"county": "Kane",
+		"deaths": 4749,
+		"cases": 160900,
+		"latitude": 41.7637,
+		"longitude": -88.2901
+	},
+	{
+		"county": "Kankakee",
+		"deaths": 1778,
+		"cases": 34073,
+		"latitude": 41.145,
+		"longitude": -88.0539
+	},
+	{
+		"county": "Karnes",
+		"deaths": 0,
+		"cases": 203,
+		"latitude": 28.8858,
+		"longitude": -97.7134
+	},
+	{
+		"county": "Kauai",
+		"deaths": 0,
+		"cases": 1346,
+		"latitude": 22.2186,
+		"longitude": -159.561
+	},
+	{
+		"county": "Kaufman",
+		"deaths": 49,
+		"cases": 6180,
+		"latitude": 32.7315,
+		"longitude": -96.159
+	},
+	{
+		"county": "Kay",
+		"deaths": 347,
+		"cases": 3015,
+		"latitude": 36.6788,
+		"longitude": -97.3281
+	},
+	{
+		"county": "Kearney",
+		"deaths": 0,
+		"cases": 399,
+		"latitude": 40.4981,
+		"longitude": -98.9671
+	},
+	{
+		"county": "Kearny",
+		"deaths": 15,
+		"cases": 1255,
+		"latitude": 37.982,
+		"longitude": -101.1333
+	},
+	{
+		"county": "Keith",
+		"deaths": 0,
+		"cases": 58,
+		"latitude": 41.1316,
+		"longitude": -101.5853
+	},
+	{
+		"county": "Kemper",
+		"deaths": 265,
+		"cases": 4167,
+		"latitude": 32.8302,
+		"longitude": -88.4771
+	},
+	{
+		"county": "Kendall",
+		"deaths": 690,
+		"cases": 23713,
+		"latitude": 29.7844,
+		"longitude": -98.7289
+	},
+	{
+		"county": "Kennebec",
+		"deaths": 356,
+		"cases": 5996,
+		"latitude": 44.191,
+		"longitude": -69.7921
+	},
+	{
+		"county": "Kenosha",
+		"deaths": 769,
+		"cases": 34159,
+		"latitude": 42.5707,
+		"longitude": -88.1044
+	},
+	{
+		"county": "Kent",
+		"deaths": 6235,
+		"cases": 200764,
+		"latitude": 38.8699,
+		"longitude": -75.579
+	},
+	{
+		"county": "Kenton",
+		"deaths": 1290,
+		"cases": 19080,
+		"latitude": 38.9949,
+		"longitude": -84.6017
+	},
+	{
+		"county": "Keokuk",
+		"deaths": 0,
+		"cases": 401,
+		"latitude": 41.3651,
+		"longitude": -91.9533
+	},
+	{
+		"county": "Kern",
+		"deaths": 885,
+		"cases": 67390,
+		"latitude": 35.6411,
+		"longitude": -118.4047
+	},
+	{
+		"county": "Kerr",
+		"deaths": 0,
+		"cases": 469,
+		"latitude": 30.0772,
+		"longitude": -99.2381
+	},
+	{
+		"county": "Kershaw",
+		"deaths": 607,
+		"cases": 15686,
+		"latitude": 34.4143,
+		"longitude": -80.3487
+	},
+	{
+		"county": "Kewaunee",
+		"deaths": 50,
+		"cases": 1121,
+		"latitude": 44.4607,
+		"longitude": -87.5133
+	},
+	{
+		"county": "Kimball",
+		"deaths": 0,
+		"cases": 592,
+		"latitude": 41.2342,
+		"longitude": -103.4867
+	},
+	{
+		"county": "Kimble",
+		"deaths": 0,
+		"cases": 26,
+		"latitude": 30.4906,
+		"longitude": -99.7725
+	},
+	{
+		"county": "King",
+		"deaths": 28535,
+		"cases": 406711,
+		"latitude": 47.4122,
+		"longitude": -122.4726
+	},
+	{
+		"county": "King George",
+		"deaths": 170,
+		"cases": 2118,
+		"latitude": 38.3282,
+		"longitude": -77.2423
+	},
+	{
+		"county": "King William",
+		"deaths": 13,
+		"cases": 630,
+		"latitude": 37.7458,
+		"longitude": -77.1315
+	},
+	{
+		"county": "King and Queen",
+		"deaths": 6,
+		"cases": 273,
+		"latitude": 37.6683,
+		"longitude": -76.8782
+	},
+	{
+		"county": "Kingfisher",
+		"deaths": 0,
+		"cases": 479,
+		"latitude": 35.9814,
+		"longitude": -97.9106
+	},
+	{
+		"county": "Kings",
+		"deaths": 86,
+		"cases": 16522,
+		"latitude": 40.6501,
+		"longitude": -73.9496
+	},
+	{
+		"county": "Kingsbury",
+		"deaths": 0,
+		"cases": 6,
+		"latitude": 44.3862,
+		"longitude": -97.5498
+	},
+	{
+		"county": "Kinney",
+		"deaths": 0,
+		"cases": 4,
+		"latitude": 29.1733,
+		"longitude": -100.4112
+	},
+	{
+		"county": "Kiowa",
+		"deaths": 0,
+		"cases": 335,
+		"latitude": 38.4464,
+		"longitude": -102.4412
+	},
+	{
+		"county": "Kit Carson",
+		"deaths": 109,
+		"cases": 1189,
+		"latitude": 39.3038,
+		"longitude": -102.4234
+	},
+	{
+		"county": "Kitsap",
+		"deaths": 107,
+		"cases": 9527,
+		"latitude": 47.5508,
+		"longitude": -122.6655
+	},
+	{
+		"county": "Kittitas",
+		"deaths": 0,
+		"cases": 2180,
+		"latitude": 47.2507,
+		"longitude": -121.0989
+	},
+	{
+		"county": "Kittson",
+		"deaths": 0,
+		"cases": 46,
+		"latitude": 48.8577,
+		"longitude": -96.8019
+	},
+	{
+		"county": "Klamath",
+		"deaths": 0,
+		"cases": 2172,
+		"latitude": 42.4419,
+		"longitude": -121.2716
+	},
+	{
+		"county": "Kleberg",
+		"deaths": 51,
+		"cases": 562,
+		"latitude": 27.5095,
+		"longitude": -97.861
+	},
+	{
+		"county": "Klickitat",
+		"deaths": 163,
+		"cases": 1212,
+		"latitude": 45.6599,
+		"longitude": -120.9698
+	},
+	{
+		"county": "Knott",
+		"deaths": 0,
+		"cases": 186,
+		"latitude": 37.335,
+		"longitude": -82.9819
+	},
+	{
+		"county": "Knox",
+		"deaths": 333,
+		"cases": 22826,
+		"latitude": 33.468,
+		"longitude": -99.5236
+	},
+	{
+		"county": "Koochiching",
+		"deaths": 0,
+		"cases": 155,
+		"latitude": 47.9209,
+		"longitude": -94.2132
+	},
+	{
+		"county": "Kootenai",
+		"deaths": 0,
+		"cases": 3751,
+		"latitude": 47.6726,
+		"longitude": -116.7472
+	},
+	{
+		"county": "Kosciusko",
+		"deaths": 102,
+		"cases": 2925,
+		"latitude": 41.0743,
+		"longitude": -85.8923
+	},
+	{
+		"county": "Kossuth",
+		"deaths": 0,
+		"cases": 204,
+		"latitude": 43.0749,
+		"longitude": -94.0892
+	},
+	{
+		"county": "La Crosse",
+		"deaths": 0,
+		"cases": 2229,
+		"latitude": 43.9075,
+		"longitude": -90.9165
+	},
+	{
+		"county": "La Paz",
+		"deaths": 85,
+		"cases": 1438,
+		"latitude": 33.9921,
+		"longitude": -114.4046
+	},
+	{
+		"county": "La Plata",
+		"deaths": 25,
+		"cases": 3797,
+		"latitude": 37.0749,
+		"longitude": -107.5933
+	},
+	{
+		"county": "La Salle",
+		"deaths": 0,
+		"cases": 114,
+		"latitude": 28.4364,
+		"longitude": -99.2367
+	},
+	{
+		"county": "LaGrange",
+		"deaths": 94,
+		"cases": 2132,
+		"latitude": 41.648,
+		"longitude": -85.4179
+	},
+	{
+		"county": "LaPorte",
+		"deaths": 624,
+		"cases": 14467,
+		"latitude": 41.7563,
+		"longitude": -86.8181
+	},
+	{
+		"county": "LaSalle",
+		"deaths": 283,
+		"cases": 6299,
+		"latitude": 41.1242,
+		"longitude": -88.8295
+	},
+	{
+		"county": "Labette",
+		"deaths": 0,
+		"cases": 1196,
+		"latitude": 37.23,
+		"longitude": -95.1836
+	},
+	{
+		"county": "Lac qui Parle",
+		"deaths": 0,
+		"cases": 118,
+		"latitude": 45.0127,
+		"longitude": -96.1889
+	},
+	{
+		"county": "Lackawanna",
+		"deaths": 5437,
+		"cases": 58648,
+		"latitude": 41.4846,
+		"longitude": -75.666
+	},
+	{
+		"county": "Laclede",
+		"deaths": 0,
+		"cases": 78,
+		"latitude": 37.5486,
+		"longitude": -92.5961
+	},
+	{
+		"county": "Lafayette",
+		"deaths": 1435,
+		"cases": 40275,
+		"latitude": 42.5801,
+		"longitude": -90.0235
+	},
+	{
+		"county": "Lafourche",
+		"deaths": 2696,
+		"cases": 38838,
+		"latitude": 29.5164,
+		"longitude": -90.3291
+	},
+	{
+		"county": "Lake",
+		"deaths": 16564,
+		"cases": 428297,
+		"latitude": 29.1635,
+		"longitude": -81.5349
+	},
+	{
+		"county": "Lamar",
+		"deaths": 396,
+		"cases": 14494,
+		"latitude": 33.6689,
+		"longitude": -95.5462
+	},
+	{
+		"county": "Lamb",
+		"deaths": 0,
+		"cases": 392,
+		"latitude": 34.012,
+		"longitude": -102.4147
+	},
+	{
+		"county": "Lamoille",
+		"deaths": 56,
+		"cases": 1612,
+		"latitude": 44.6366,
+		"longitude": -72.6786
+	},
+	{
+		"county": "Lampasas",
+		"deaths": 0,
+		"cases": 314,
+		"latitude": 31.0755,
+		"longitude": -97.9727
+	},
+	{
+		"county": "Lancaster",
+		"deaths": 10961,
+		"cases": 148189,
+		"latitude": 40.6818,
+		"longitude": -96.5039
+	},
+	{
+		"county": "Lander",
+		"deaths": 0,
+		"cases": 619,
+		"latitude": 39.4978,
+		"longitude": -117.0741
+	},
+	{
+		"county": "Lane",
+		"deaths": 121,
+		"cases": 3402,
+		"latitude": 38.4811,
+		"longitude": -100.4664
+	},
+	{
+		"county": "Langlade",
+		"deaths": 0,
+		"cases": 25,
+		"latitude": 45.1415,
+		"longitude": -89.1556
+	},
+	{
+		"county": "Lanier",
+		"deaths": 77,
+		"cases": 606,
+		"latitude": 31.041,
+		"longitude": -83.0748
+	},
+	{
+		"county": "Lapeer",
+		"deaths": 1339,
+		"cases": 9327,
+		"latitude": 42.9208,
+		"longitude": -83.0435
+	},
+	{
+		"county": "Laramie",
+		"deaths": 65,
+		"cases": 8562,
+		"latitude": 41.1405,
+		"longitude": -104.7927
+	},
+	{
+		"county": "Larimer",
+		"deaths": 1075,
+		"cases": 23485,
+		"latitude": 40.8071,
+		"longitude": -105.5864
+	},
+	{
+		"county": "Larue",
+		"deaths": 0,
+		"cases": 331,
+		"latitude": 37.5668,
+		"longitude": -85.7353
+	},
+	{
+		"county": "Las Animas",
+		"deaths": 0,
+		"cases": 205,
+		"latitude": 37.1225,
+		"longitude": -104.7396
+	},
+	{
+		"county": "Lassen",
+		"deaths": 0,
+		"cases": 49,
+		"latitude": 40.1419,
+		"longitude": -120.1399
+	},
+	{
+		"county": "Latah",
+		"deaths": 0,
+		"cases": 289,
+		"latitude": 46.9282,
+		"longitude": -116.8896
+	},
+	{
+		"county": "Latimer",
+		"deaths": 60,
+		"cases": 292,
+		"latitude": 34.9508,
+		"longitude": -95.0814
+	},
+	{
+		"county": "Lauderdale",
+		"deaths": 2037,
+		"cases": 30565,
+		"latitude": 35.8796,
+		"longitude": -89.405
+	},
+	{
+		"county": "Laurel",
+		"deaths": 102,
+		"cases": 967,
+		"latitude": 37.1209,
+		"longitude": -84.0804
+	},
+	{
+		"county": "Laurens",
+		"deaths": 167,
+		"cases": 6399,
+		"latitude": 32.3835,
+		"longitude": -82.9917
+	},
+	{
+		"county": "Lavaca",
+		"deaths": 39,
+		"cases": 392,
+		"latitude": 29.4428,
+		"longitude": -96.9436
+	},
+	{
+		"county": "Lawrence",
+		"deaths": 1479,
+		"cases": 21370,
+		"latitude": 35.3218,
+		"longitude": -87.3013
+	},
+	{
+		"county": "Le Flore",
+		"deaths": 26,
+		"cases": 591,
+		"latitude": 34.9699,
+		"longitude": -94.7205
+	},
+	{
+		"county": "Le Sueur",
+		"deaths": 22,
+		"cases": 1859,
+		"latitude": 44.2236,
+		"longitude": -93.5747
+	},
+	{
+		"county": "Lea",
+		"deaths": 0,
+		"cases": 744,
+		"latitude": 32.4465,
+		"longitude": -103.2009
+	},
+	{
+		"county": "Leake",
+		"deaths": 232,
+		"cases": 13385,
+		"latitude": 32.6749,
+		"longitude": -89.4529
+	},
+	{
+		"county": "Leavenworth",
+		"deaths": 265,
+		"cases": 34061,
+		"latitude": 39.1084,
+		"longitude": -95.0829
+	},
+	{
+		"county": "Lebanon",
+		"deaths": 820,
+		"cases": 39327,
+		"latitude": 40.3412,
+		"longitude": -76.4228
+	},
+	{
+		"county": "Lee",
+		"deaths": 6854,
+		"cases": 139713,
+		"latitude": 26.7123,
+		"longitude": -81.8684
+	},
+	{
+		"county": "Leelanau",
+		"deaths": 0,
+		"cases": 515,
+		"latitude": 44.896,
+		"longitude": -85.99
+	},
+	{
+		"county": "Leflore",
+		"deaths": 992,
+		"cases": 9295,
+		"latitude": 33.5173,
+		"longitude": -90.3444
+	},
+	{
+		"county": "Lehigh",
+		"deaths": 6163,
+		"cases": 168161,
+		"latitude": 40.5165,
+		"longitude": -75.5545
+	},
+	{
+		"county": "Lemhi",
+		"deaths": 0,
+		"cases": 39,
+		"latitude": 44.6801,
+		"longitude": -113.3593
+	},
+	{
+		"county": "Lenawee",
+		"deaths": 98,
+		"cases": 6244,
+		"latitude": 41.7859,
+		"longitude": -84.0403
+	},
+	{
+		"county": "Lenoir",
+		"deaths": 201,
+		"cases": 5613,
+		"latitude": 35.2236,
+		"longitude": -77.6333
+	},
+	{
+		"county": "Leon",
+		"deaths": 217,
+		"cases": 14703,
+		"latitude": 30.4551,
+		"longitude": -84.2527
+	},
+	{
+		"county": "Leslie",
+		"deaths": 0,
+		"cases": 223,
+		"latitude": 37.162,
+		"longitude": -83.3779
+	},
+	{
+		"county": "Letcher",
+		"deaths": 0,
+		"cases": 168,
+		"latitude": 37.1508,
+		"longitude": -82.667
+	},
+	{
+		"county": "Levy",
+		"deaths": 4,
+		"cases": 1106,
+		"latitude": 29.4479,
+		"longitude": -82.468
+	},
+	{
+		"county": "Lewis",
+		"deaths": 211,
+		"cases": 3412,
+		"latitude": 46.7225,
+		"longitude": -122.9695
+	},
+	{
+		"county": "Lewis and Clark",
+		"deaths": 0,
+		"cases": 1076,
+		"latitude": 46.7289,
+		"longitude": -112.0627
+	},
+	{
+		"county": "Lexington",
+		"deaths": 1103,
+		"cases": 24157,
+		"latitude": 37.7825,
+		"longitude": -79.444
+	},
+	{
+		"county": "Liberty",
+		"deaths": 69,
+		"cases": 11363,
+		"latitude": 30.3906,
+		"longitude": -84.9857
+	},
+	{
+		"county": "Licking",
+		"deaths": 364,
+		"cases": 8734,
+		"latitude": 39.95,
+		"longitude": -82.5985
+	},
+	{
+		"county": "Limestone",
+		"deaths": 60,
+		"cases": 4352,
+		"latitude": 31.307,
+		"longitude": -96.6293
+	},
+	{
+		"county": "Lincoln",
+		"deaths": 1763,
+		"cases": 77311,
+		"latitude": 47.3048,
+		"longitude": -117.9713
+	},
+	{
+		"county": "Linn",
+		"deaths": 3280,
+		"cases": 45570,
+		"latitude": 42.1494,
+		"longitude": -91.6209
+	},
+	{
+		"county": "Lipscomb",
+		"deaths": 0,
+		"cases": 71,
+		"latitude": 36.2215,
+		"longitude": -100.2621
+	},
+	{
+		"county": "Litchfield",
+		"deaths": 4945,
+		"cases": 57043,
+		"latitude": 41.7457,
+		"longitude": -73.1893
+	},
+	{
+		"county": "Little River",
+		"deaths": 0,
+		"cases": 62,
+		"latitude": 33.7388,
+		"longitude": -94.148
+	},
+	{
+		"county": "Live Oak",
+		"deaths": 0,
+		"cases": 331,
+		"latitude": 28.4668,
+		"longitude": -98.1784
+	},
+	{
+		"county": "Livingston",
+		"deaths": 2195,
+		"cases": 41651,
+		"latitude": 30.4953,
+		"longitude": -90.7467
+	},
+	{
+		"county": "Llano",
+		"deaths": 0,
+		"cases": 204,
+		"latitude": 30.7807,
+		"longitude": -98.4393
+	},
+	{
+		"county": "Logan",
+		"deaths": 265,
+		"cases": 23813,
+		"latitude": 37.688,
+		"longitude": -81.8737
+	},
+	{
+		"county": "Long",
+		"deaths": 13,
+		"cases": 352,
+		"latitude": 31.7096,
+		"longitude": -81.7457
+	},
+	{
+		"county": "Lonoke",
+		"deaths": 0,
+		"cases": 2341,
+		"latitude": 35.0129,
+		"longitude": -91.9571
+	},
+	{
+		"county": "Lorain",
+		"deaths": 2035,
+		"cases": 27329,
+		"latitude": 41.2665,
+		"longitude": -82.304
+	},
+	{
+		"county": "Los Alamos",
+		"deaths": 0,
+		"cases": 331,
+		"latitude": 35.8926,
+		"longitude": -106.2862
+	},
+	{
+		"county": "Los Angeles",
+		"deaths": 74905,
+		"cases": 1663886,
+		"latitude": 33.9716,
+		"longitude": -117.8911
+	},
+	{
+		"county": "Loudon",
+		"deaths": 0,
+		"cases": 3399,
+		"latitude": 35.6488,
+		"longitude": -84.1724
+	},
+	{
+		"county": "Loudoun",
+		"deaths": 1563,
+		"cases": 64558,
+		"latitude": 39.1319,
+		"longitude": -77.7681
+	},
+	{
+		"county": "Louisa",
+		"deaths": 215,
+		"cases": 17364,
+		"latitude": 38.0212,
+		"longitude": -77.9985
+	},
+	{
+		"county": "Love",
+		"deaths": 0,
+		"cases": 294,
+		"latitude": 33.7935,
+		"longitude": -97.1426
+	},
+	{
+		"county": "Lowndes",
+		"deaths": 684,
+		"cases": 20596,
+		"latitude": 32.1801,
+		"longitude": -86.6888
+	},
+	{
+		"county": "Lubbock",
+		"deaths": 2324,
+		"cases": 31105,
+		"latitude": 33.6901,
+		"longitude": -101.9893
+	},
+	{
+		"county": "Lucas",
+		"deaths": 7487,
+		"cases": 83189,
+		"latitude": 41.0176,
+		"longitude": -93.3095
+	},
+	{
+		"county": "Luce",
+		"deaths": 0,
+		"cases": 91,
+		"latitude": 46.3538,
+		"longitude": -85.5098
+	},
+	{
+		"county": "Lumpkin",
+		"deaths": 43,
+		"cases": 3321,
+		"latitude": 34.5302,
+		"longitude": -83.9796
+	},
+	{
+		"county": "Luna",
+		"deaths": 34,
+		"cases": 308,
+		"latitude": 32.3161,
+		"longitude": -107.7602
+	},
+	{
+		"county": "Lunenburg",
+		"deaths": 0,
+		"cases": 320,
+		"latitude": 36.9608,
+		"longitude": -78.1283
+	},
+	{
+		"county": "Luzerne",
+		"deaths": 5147,
+		"cases": 127114,
+		"latitude": 41.2867,
+		"longitude": -75.8967
+	},
+	{
+		"county": "Lycoming",
+		"deaths": 315,
+		"cases": 5442,
+		"latitude": 41.2472,
+		"longitude": -76.9184
+	},
+	{
+		"county": "Lyman",
+		"deaths": 0,
+		"cases": 301,
+		"latitude": 43.9071,
+		"longitude": -100.0583
+	},
+	{
+		"county": "Lynn",
+		"deaths": 43,
+		"cases": 314,
+		"latitude": 32.9652,
+		"longitude": -101.8309
+	},
+	{
+		"county": "Lyon",
+		"deaths": 261,
+		"cases": 18262,
+		"latitude": 39.2639,
+		"longitude": -119.6356
+	},
+	{
+		"county": "Mackinac",
+		"deaths": 0,
+		"cases": 326,
+		"latitude": 45.8593,
+		"longitude": -84.6253
+	},
+	{
+		"county": "Macomb",
+		"deaths": 33805,
+		"cases": 320970,
+		"latitude": 42.5809,
+		"longitude": -83.0305
+	},
+	{
+		"county": "Macon",
+		"deaths": 1224,
+		"cases": 17794,
+		"latitude": 35.1798,
+		"longitude": -83.3809
+	},
+	{
+		"county": "Macoupin",
+		"deaths": 35,
+		"cases": 1830,
+		"latitude": 39.1258,
+		"longitude": -89.8173
+	},
+	{
+		"county": "Madera",
+		"deaths": 130,
+		"cases": 3718,
+		"latitude": 36.964,
+		"longitude": -120.0803
+	},
+	{
+		"county": "Madison",
+		"deaths": 6674,
+		"cases": 128143,
+		"latitude": 30.4716,
+		"longitude": -83.413
+	},
+	{
+		"county": "Magoffin",
+		"deaths": 0,
+		"cases": 29,
+		"latitude": 37.7459,
+		"longitude": -83.0646
+	},
+	{
+		"county": "Mahaska",
+		"deaths": 128,
+		"cases": 1685,
+		"latitude": 41.2855,
+		"longitude": -92.5371
+	},
+	{
+		"county": "Mahnomen",
+		"deaths": 28,
+		"cases": 171,
+		"latitude": 47.3219,
+		"longitude": -95.9512
+	},
+	{
+		"county": "Mahoning",
+		"deaths": 5933,
+		"cases": 55403,
+		"latitude": 40.9042,
+		"longitude": -80.9524
+	},
+	{
+		"county": "Major",
+		"deaths": 50,
+		"cases": 224,
+		"latitude": 36.3882,
+		"longitude": -98.1779
+	},
+	{
+		"county": "Malheur",
+		"deaths": 0,
+		"cases": 816,
+		"latitude": 44.2476,
+		"longitude": -117.5187
+	},
+	{
+		"county": "Manatee",
+		"deaths": 3374,
+		"cases": 38205,
+		"latitude": 27.5107,
+		"longitude": -82.7152
+	},
+	{
+		"county": "Manistee",
+		"deaths": 0,
+		"cases": 649,
+		"latitude": 44.2449,
+		"longitude": -86.2927
+	},
+	{
+		"county": "Manitowoc",
+		"deaths": 38,
+		"cases": 952,
+		"latitude": 44.1525,
+		"longitude": -87.9517
+	},
+	{
+		"county": "Marathon",
+		"deaths": 53,
+		"cases": 1523,
+		"latitude": 44.9615,
+		"longitude": -89.6457
+	},
+	{
+		"county": "Marengo",
+		"deaths": 210,
+		"cases": 4404,
+		"latitude": 32.498,
+		"longitude": -87.8298
+	},
+	{
+		"county": "Maricopa",
+		"deaths": 12344,
+		"cases": 307385,
+		"latitude": 33.3858,
+		"longitude": -112.3236
+	},
+	{
+		"county": "Maries",
+		"deaths": 0,
+		"cases": 126,
+		"latitude": 38.2848,
+		"longitude": -91.7217
+	},
+	{
+		"county": "Marin",
+		"deaths": 766,
+		"cases": 17322,
+		"latitude": 38.2436,
+		"longitude": -122.956
+	},
+	{
+		"county": "Marinette",
+		"deaths": 69,
+		"cases": 910,
+		"latitude": 45.0556,
+		"longitude": -87.7476
+	},
+	{
+		"county": "Marion",
+		"deaths": 25094,
+		"cases": 556192,
+		"latitude": 39.5119,
+		"longitude": -80.2514
+	},
+	{
+		"county": "Mariposa",
+		"deaths": 19,
+		"cases": 500,
+		"latitude": 37.4797,
+		"longitude": -119.6374
+	},
+	{
+		"county": "Marlboro",
+		"deaths": 12,
+		"cases": 3608,
+		"latitude": 34.6438,
+		"longitude": -79.5867
+	},
+	{
+		"county": "Marquette",
+		"deaths": 495,
+		"cases": 2727,
+		"latitude": 43.7653,
+		"longitude": -89.4599
+	},
+	{
+		"county": "Marshall",
+		"deaths": 900,
+		"cases": 63677,
+		"latitude": 40.0139,
+		"longitude": -80.7328
+	},
+	{
+		"county": "Martin",
+		"deaths": 728,
+		"cases": 24377,
+		"latitude": 27.2161,
+		"longitude": -80.24
+	},
+	{
+		"county": "Mason",
+		"deaths": 38,
+		"cases": 5326,
+		"latitude": 47.3475,
+		"longitude": -123.0952
+	},
+	{
+		"county": "Massac",
+		"deaths": 0,
+		"cases": 276,
+		"latitude": 37.1258,
+		"longitude": -88.6279
+	},
+	{
+		"county": "Matagorda",
+		"deaths": 256,
+		"cases": 3817,
+		"latitude": 28.8727,
+		"longitude": -96.2172
+	},
+	{
+		"county": "Mathews",
+		"deaths": 0,
+		"cases": 252,
+		"latitude": 37.4984,
+		"longitude": -76.2883
+	},
+	{
+		"county": "Maui",
+		"deaths": 286,
+		"cases": 6571,
+		"latitude": 21.0704,
+		"longitude": -156.8355
+	},
+	{
+		"county": "Maury",
+		"deaths": 29,
+		"cases": 3233,
+		"latitude": 35.7438,
+		"longitude": -86.9116
+	},
+	{
+		"county": "Maverick",
+		"deaths": 14,
+		"cases": 2525,
+		"latitude": 28.947,
+		"longitude": -100.6237
+	},
+	{
+		"county": "Mayes",
+		"deaths": 204,
+		"cases": 1374,
+		"latitude": 36.477,
+		"longitude": -95.0195
+	},
+	{
+		"county": "McClain",
+		"deaths": 74,
+		"cases": 3665,
+		"latitude": 35.2404,
+		"longitude": -97.5998
+	},
+	{
+		"county": "McCook",
+		"deaths": 55,
+		"cases": 270,
+		"latitude": 43.5978,
+		"longitude": -97.2926
+	},
+	{
+		"county": "McCormick",
+		"deaths": 57,
+		"cases": 364,
+		"latitude": 33.7192,
+		"longitude": -82.2173
+	},
+	{
+		"county": "McCracken",
+		"deaths": 111,
+		"cases": 3396,
+		"latitude": 37.0405,
+		"longitude": -88.5734
+	},
+	{
+		"county": "McCreary",
+		"deaths": 0,
+		"cases": 634,
+		"latitude": 36.6648,
+		"longitude": -84.4395
+	},
+	{
+		"county": "McCulloch",
+		"deaths": 0,
+		"cases": 162,
+		"latitude": 31.1993,
+		"longitude": -99.5809
+	},
+	{
+		"county": "McCurtain",
+		"deaths": 4,
+		"cases": 756,
+		"latitude": 34.0043,
+		"longitude": -95.0895
+	},
+	{
+		"county": "McDonald",
+		"deaths": 0,
+		"cases": 474,
+		"latitude": 36.5746,
+		"longitude": -94.3912
+	},
+	{
+		"county": "McDonough",
+		"deaths": 132,
+		"cases": 2175,
+		"latitude": 40.3269,
+		"longitude": -90.6082
+	},
+	{
+		"county": "McDowell",
+		"deaths": 39,
+		"cases": 2118,
+		"latitude": 37.4501,
+		"longitude": -81.7029
+	},
+	{
+		"county": "McDuffie",
+		"deaths": 221,
+		"cases": 2702,
+		"latitude": 33.4666,
+		"longitude": -82.4992
+	},
+	{
+		"county": "McHenry",
+		"deaths": 2434,
+		"cases": 48163,
+		"latitude": 48.4977,
+		"longitude": -100.6098
+	},
+	{
+		"county": "McIntosh",
+		"deaths": 19,
+		"cases": 783,
+		"latitude": 46.2554,
+		"longitude": -99.5546
+	},
+	{
+		"county": "McKean",
+		"deaths": 27,
+		"cases": 407,
+		"latitude": 41.9604,
+		"longitude": -78.6413
+	},
+	{
+		"county": "McKenzie",
+		"deaths": 0,
+		"cases": 740,
+		"latitude": 47.8554,
+		"longitude": -104.0375
+	},
+	{
+		"county": "McKinley",
+		"deaths": 2418,
+		"cases": 71144,
+		"latitude": 35.0708,
+		"longitude": -108.8484
+	},
+	{
+		"county": "McLean",
+		"deaths": 313,
+		"cases": 8745,
+		"latitude": 47.4905,
+		"longitude": -100.7104
+	},
+	{
+		"county": "McLennan",
+		"deaths": 219,
+		"cases": 5832,
+		"latitude": 31.3818,
+		"longitude": -97.2127
+	},
+	{
+		"county": "McLeod",
+		"deaths": 0,
+		"cases": 675,
+		"latitude": 44.7699,
+		"longitude": -94.1513
+	},
+	{
+		"county": "McMinn",
+		"deaths": 310,
+		"cases": 4525,
+		"latitude": 35.517,
+		"longitude": -84.5498
+	},
+	{
+		"county": "McNairy",
+		"deaths": 0,
+		"cases": 633,
+		"latitude": 35.357,
+		"longitude": -88.6169
+	},
+	{
+		"county": "McPherson",
+		"deaths": 0,
+		"cases": 1336,
+		"latitude": 41.5584,
+		"longitude": -100.9536
+	},
+	{
+		"county": "Meade",
+		"deaths": 80,
+		"cases": 1714,
+		"latitude": 37.2836,
+		"longitude": -100.343
+	},
+	{
+		"county": "Meagher",
+		"deaths": 0,
+		"cases": 69,
+		"latitude": 46.5452,
+		"longitude": -110.9039
+	},
+	{
+		"county": "Mecklenburg",
+		"deaths": 3480,
+		"cases": 131374,
+		"latitude": 35.0864,
+		"longitude": -80.8915
+	},
+	{
+		"county": "Mecosta",
+		"deaths": 99,
+		"cases": 914,
+		"latitude": 43.7505,
+		"longitude": -85.1436
+	},
+	{
+		"county": "Medina",
+		"deaths": 965,
+		"cases": 13871,
+		"latitude": 29.3532,
+		"longitude": -99.1621
+	},
+	{
+		"county": "Meeker",
+		"deaths": 0,
+		"cases": 1129,
+		"latitude": 44.9431,
+		"longitude": -94.5197
+	},
+	{
+		"county": "Meigs",
+		"deaths": 0,
+		"cases": 971,
+		"latitude": 35.5292,
+		"longitude": -84.7933
+	},
+	{
+		"county": "Menard",
+		"deaths": 0,
+		"cases": 649,
+		"latitude": 30.9185,
+		"longitude": -99.7837
+	},
+	{
+		"county": "Mendocino",
+		"deaths": 0,
+		"cases": 814,
+		"latitude": 39.4429,
+		"longitude": -123.3963
+	},
+	{
+		"county": "Menifee",
+		"deaths": 0,
+		"cases": 291,
+		"latitude": 37.9542,
+		"longitude": -83.6226
+	},
+	{
+		"county": "Menominee",
+		"deaths": 0,
+		"cases": 375,
+		"latitude": 44.9347,
+		"longitude": -88.7334
+	},
+	{
+		"county": "Merced",
+		"deaths": 239,
+		"cases": 9210,
+		"latitude": 37.4306,
+		"longitude": -120.7759
+	},
+	{
+		"county": "Mercer",
+		"deaths": 15802,
+		"cases": 263328,
+		"latitude": 37.3688,
+		"longitude": -81.0961
+	},
+	{
+		"county": "Meriwether",
+		"deaths": 46,
+		"cases": 3336,
+		"latitude": 32.887,
+		"longitude": -84.6781
+	},
+	{
+		"county": "Merrick",
+		"deaths": 0,
+		"cases": 1046,
+		"latitude": 41.1667,
+		"longitude": -98.1389
+	},
+	{
+		"county": "Merrimack",
+		"deaths": 412,
+		"cases": 11723,
+		"latitude": 43.2232,
+		"longitude": -71.7129
+	},
+	{
+		"county": "Mesa",
+		"deaths": 0,
+		"cases": 2748,
+		"latitude": 39.0877,
+		"longitude": -108.5673
+	},
+	{
+		"county": "Metcalfe",
+		"deaths": 4,
+		"cases": 111,
+		"latitude": 36.9842,
+		"longitude": -85.619
+	},
+	{
+		"county": "Miami",
+		"deaths": 1559,
+		"cases": 18813,
+		"latitude": 40.602,
+		"longitude": -85.9275
+	},
+	{
+		"county": "Miami-Dade",
+		"deaths": 23185,
+		"cases": 756997,
+		"latitude": 25.8787,
+		"longitude": -80.125
+	},
+	{
+		"county": "Middlesex",
+		"deaths": 95084,
+		"cases": 1578473,
+		"latitude": 40.4489,
+		"longitude": -74.2495
+	},
+	{
+		"county": "Midland",
+		"deaths": 760,
+		"cases": 8753,
+		"latitude": 32.0249,
+		"longitude": -102.1137
+	},
+	{
+		"county": "Mifflin",
+		"deaths": 16,
+		"cases": 2260,
+		"latitude": 40.5549,
+		"longitude": -77.6168
+	},
+	{
+		"county": "Milam",
+		"deaths": 40,
+		"cases": 1041,
+		"latitude": 30.874,
+		"longitude": -97.1289
+	},
+	{
+		"county": "Millard",
+		"deaths": 0,
+		"cases": 303,
+		"latitude": 38.8863,
+		"longitude": -112.4072
+	},
+	{
+		"county": "Mille Lacs",
+		"deaths": 45,
+		"cases": 383,
+		"latitude": 45.5689,
+		"longitude": -93.59
+	},
+	{
+		"county": "Miller",
+		"deaths": 42,
+		"cases": 3936,
+		"latitude": 33.4361,
+		"longitude": -93.996
+	},
+	{
+		"county": "Mills",
+		"deaths": 0,
+		"cases": 420,
+		"latitude": 31.4513,
+		"longitude": -98.5736
+	},
+	{
+		"county": "Milwaukee",
+		"deaths": 11427,
+		"cases": 232645,
+		"latitude": 42.937,
+		"longitude": -88.0018
+	},
+	{
+		"county": "Miner",
+		"deaths": 0,
+		"cases": 56,
+		"latitude": 44.1686,
+		"longitude": -97.715
+	},
+	{
+		"county": "Mineral",
+		"deaths": 9,
+		"cases": 1499,
+		"latitude": 39.6151,
+		"longitude": -78.7615
+	},
+	{
+		"county": "Mingo",
+		"deaths": 49,
+		"cases": 158,
+		"latitude": 37.7062,
+		"longitude": -82.2737
+	},
+	{
+		"county": "Minidoka",
+		"deaths": 0,
+		"cases": 1028,
+		"latitude": 42.7539,
+		"longitude": -113.4901
+	},
+	{
+		"county": "Minnehaha",
+		"deaths": 1269,
+		"cases": 126284,
+		"latitude": 43.5511,
+		"longitude": -96.6354
+	},
+	{
+		"county": "Missaukee",
+		"deaths": 68,
+		"cases": 714,
+		"latitude": 44.3325,
+		"longitude": -85.2969
+	},
+	{
+		"county": "Mississippi",
+		"deaths": 24,
+		"cases": 3804,
+		"latitude": 35.8592,
+		"longitude": -90.026
+	},
+	{
+		"county": "Missoula",
+		"deaths": 60,
+		"cases": 2328,
+		"latitude": 47.0326,
+		"longitude": -114.3397
+	},
+	{
+		"county": "Mitchell",
+		"deaths": 1574,
+		"cases": 18759,
+		"latitude": 32.3571,
+		"longitude": -101.0132
+	},
+	{
+		"county": "Mobile",
+		"deaths": 3897,
+		"cases": 73289,
+		"latitude": 30.2525,
+		"longitude": -88.1438
+	},
+	{
+		"county": "Modoc",
+		"deaths": 0,
+		"cases": 2,
+		"latitude": 41.1964,
+		"longitude": -120.9494
+	},
+	{
+		"county": "Moffat",
+		"deaths": 0,
+		"cases": 350,
+		"latitude": 40.5191,
+		"longitude": -108.0889
+	},
+	{
+		"county": "Mohave",
+		"deaths": 1030,
+		"cases": 9859,
+		"latitude": 35.4227,
+		"longitude": -113.6486
+	},
+	{
+		"county": "Moniteau",
+		"deaths": 18,
+		"cases": 1978,
+		"latitude": 38.6611,
+		"longitude": -92.6661
+	},
+	{
+		"county": "Monmouth",
+		"deaths": 21774,
+		"cases": 369084,
+		"latitude": 40.2324,
+		"longitude": -74.2943
+	},
+	{
+		"county": "Mono",
+		"deaths": 64,
+		"cases": 1790,
+		"latitude": 38.5834,
+		"longitude": -119.516
+	},
+	{
+		"county": "Monona",
+		"deaths": 0,
+		"cases": 758,
+		"latitude": 42.0208,
+		"longitude": -95.966
+	},
+	{
+		"county": "Monongalia",
+		"deaths": 251,
+		"cases": 6451,
+		"latitude": 39.6471,
+		"longitude": -79.9974
+	},
+	{
+		"county": "Monroe",
+		"deaths": 13915,
+		"cases": 226151,
+		"latitude": 43.8132,
+		"longitude": -90.5268
+	},
+	{
+		"county": "Montague",
+		"deaths": 43,
+		"cases": 401,
+		"latitude": 33.7835,
+		"longitude": -97.7302
+	},
+	{
+		"county": "Montcalm",
+		"deaths": 57,
+		"cases": 2551,
+		"latitude": 43.2928,
+		"longitude": -85.0789
+	},
+	{
+		"county": "Monterey",
+		"deaths": 354,
+		"cases": 15321,
+		"latitude": 36.6247,
+		"longitude": -121.6465
+	},
+	{
+		"county": "Montezuma",
+		"deaths": 139,
+		"cases": 1298,
+		"latitude": 37.5017,
+		"longitude": -108.66
+	},
+	{
+		"county": "Montgomery",
+		"deaths": 43948,
+		"cases": 741049,
+		"latitude": 30.1811,
+		"longitude": -95.155
+	},
+	{
+		"county": "Montmorency",
+		"deaths": 0,
+		"cases": 236,
+		"latitude": 44.873,
+		"longitude": -84.3281
+	},
+	{
+		"county": "Montour",
+		"deaths": 3,
+		"cases": 2846,
+		"latitude": 40.9615,
+		"longitude": -76.612
+	},
+	{
+		"county": "Montrose",
+		"deaths": 550,
+		"cases": 6461,
+		"latitude": 38.6084,
+		"longitude": -107.9827
+	},
+	{
+		"county": "Moody",
+		"deaths": 0,
+		"cases": 530,
+		"latitude": 43.9063,
+		"longitude": -96.6578
+	},
+	{
+		"county": "Moore",
+		"deaths": 664,
+		"cases": 26615,
+		"latitude": 36.0444,
+		"longitude": -102.008
+	},
+	{
+		"county": "Morehouse",
+		"deaths": 223,
+		"cases": 3896,
+		"latitude": 32.7749,
+		"longitude": -91.9058
+	},
+	{
+		"county": "Morgan",
+		"deaths": 1929,
+		"cases": 44406,
+		"latitude": 39.6247,
+		"longitude": -78.2275
+	},
+	{
+		"county": "Morrill",
+		"deaths": 0,
+		"cases": 300,
+		"latitude": 41.6639,
+		"longitude": -103.0962
+	},
+	{
+		"county": "Morris",
+		"deaths": 24494,
+		"cases": 307148,
+		"latitude": 40.7966,
+		"longitude": -74.4772
+	},
+	{
+		"county": "Morrison",
+		"deaths": 0,
+		"cases": 862,
+		"latitude": 45.9772,
+		"longitude": -94.1008
+	},
+	{
+		"county": "Morrow",
+		"deaths": 37,
+		"cases": 4092,
+		"latitude": 40.5533,
+		"longitude": -82.8279
+	},
+	{
+		"county": "Morton",
+		"deaths": 116,
+		"cases": 2424,
+		"latitude": 46.7283,
+		"longitude": -101.5026
+	},
+	{
+		"county": "Motley",
+		"deaths": 0,
+		"cases": 51,
+		"latitude": 33.8992,
+		"longitude": -100.8561
+	},
+	{
+		"county": "Moultrie",
+		"deaths": 0,
+		"cases": 328,
+		"latitude": 39.6441,
+		"longitude": -88.7412
+	},
+	{
+		"county": "Mountrail",
+		"deaths": 0,
+		"cases": 2030,
+		"latitude": 48.3799,
+		"longitude": -102.7718
+	},
+	{
+		"county": "Mower",
+		"deaths": 17,
+		"cases": 4611,
+		"latitude": 43.5133,
+		"longitude": -92.5078
+	},
+	{
+		"county": "Muhlenberg",
+		"deaths": 259,
+		"cases": 16148,
+		"latitude": 37.0753,
+		"longitude": -86.9951
+	},
+	{
+		"county": "Multnomah",
+		"deaths": 2496,
+		"cases": 45403,
+		"latitude": 45.5358,
+		"longitude": -122.4205
+	},
+	{
+		"county": "Murray",
+		"deaths": 33,
+		"cases": 3739,
+		"latitude": 34.8282,
+		"longitude": -84.7657
+	},
+	{
+		"county": "Muscatine",
+		"deaths": 1096,
+		"cases": 21346,
+		"latitude": 41.5898,
+		"longitude": -91.0271
+	},
+	{
+		"county": "Muscogee",
+		"deaths": 569,
+		"cases": 20427,
+		"latitude": 32.51,
+		"longitude": -84.8771
+	},
+	{
+		"county": "Muskegon",
+		"deaths": 1055,
+		"cases": 19423,
+		"latitude": 43.1621,
+		"longitude": -86.2519
+	},
+	{
+		"county": "Muskingum",
+		"deaths": 1,
+		"cases": 1402,
+		"latitude": 40.1376,
+		"longitude": -82.0119
+	},
+	{
+		"county": "Muskogee",
+		"deaths": 282,
+		"cases": 1830,
+		"latitude": 35.5559,
+		"longitude": -95.6525
+	},
+	{
+		"county": "Musselshell",
+		"deaths": 0,
+		"cases": 66,
+		"latitude": 46.5987,
+		"longitude": -107.8683
+	},
+	{
+		"county": "Nacogdoches",
+		"deaths": 573,
+		"cases": 9693,
+		"latitude": 31.8126,
+		"longitude": -94.8411
+	},
+	{
+		"county": "Nance",
+		"deaths": 0,
+		"cases": 150,
+		"latitude": 41.4709,
+		"longitude": -98.0677
+	},
+	{
+		"county": "Nantucket",
+		"deaths": 0,
+		"cases": 703,
+		"latitude": 41.2636,
+		"longitude": -69.9718
+	},
+	{
+		"county": "Napa",
+		"deaths": 148,
+		"cases": 4411,
+		"latitude": 38.5063,
+		"longitude": -122.4682
+	},
+	{
+		"county": "Nash",
+		"deaths": 141,
+		"cases": 6363,
+		"latitude": 36.0114,
+		"longitude": -77.8572
+	},
+	{
+		"county": "Nassau",
+		"deaths": 118669,
+		"cases": 2093871,
+		"latitude": 30.658,
+		"longitude": -81.4504
+	},
+	{
+		"county": "Natchitoches",
+		"deaths": 370,
+		"cases": 5327,
+		"latitude": 31.6547,
+		"longitude": -93.1999
+	},
+	{
+		"county": "Natrona",
+		"deaths": 6,
+		"cases": 3207,
+		"latitude": 43.4114,
+		"longitude": -106.2771
+	},
+	{
+		"county": "Navajo",
+		"deaths": 1776,
+		"cases": 54771,
+		"latitude": 33.9965,
+		"longitude": -109.9593
+	},
+	{
+		"county": "Navarro",
+		"deaths": 121,
+		"cases": 1851,
+		"latitude": 32.0925,
+		"longitude": -96.7174
+	},
+	{
+		"county": "Nelson",
+		"deaths": 4,
+		"cases": 2072,
+		"latitude": 48.0132,
+		"longitude": -98.0004
+	},
+	{
+		"county": "Nemaha",
+		"deaths": 0,
+		"cases": 308,
+		"latitude": 40.4787,
+		"longitude": -95.7313
+	},
+	{
+		"county": "Neosho",
+		"deaths": 0,
+		"cases": 135,
+		"latitude": 37.5186,
+		"longitude": -95.1742
+	},
+	{
+		"county": "Neshoba",
+		"deaths": 769,
+		"cases": 15675,
+		"latitude": 32.7889,
+		"longitude": -89.2384
+	},
+	{
+		"county": "Ness",
+		"deaths": 0,
+		"cases": 20,
+		"latitude": 38.6406,
+		"longitude": -99.7443
+	},
+	{
+		"county": "Nevada",
+		"deaths": 61,
+		"cases": 2666,
+		"latitude": 39.3718,
+		"longitude": -121.106
+	},
+	{
+		"county": "New Castle",
+		"deaths": 4933,
+		"cases": 124134,
+		"latitude": 39.8056,
+		"longitude": -75.4862
+	},
+	{
+		"county": "New Hanover",
+		"deaths": 149,
+		"cases": 6060,
+		"latitude": 34.123,
+		"longitude": -77.8834
+	},
+	{
+		"county": "New Haven",
+		"deaths": 32883,
+		"cases": 450362,
+		"latitude": 41.3265,
+		"longitude": -73.0833
+	},
+	{
+		"county": "New Kent",
+		"deaths": 47,
+		"cases": 1392,
+		"latitude": 37.5095,
+		"longitude": -76.9862
+	},
+	{
+		"county": "New London",
+		"deaths": 2544,
+		"cases": 37124,
+		"latitude": 41.3502,
+		"longitude": -72.1023
+	},
+	{
+		"county": "New Madrid",
+		"deaths": 16,
+		"cases": 677,
+		"latitude": 36.6111,
+		"longitude": -89.7061
+	},
+	{
+		"county": "Newaygo",
+		"deaths": 0,
+		"cases": 2224,
+		"latitude": 43.3348,
+		"longitude": -85.8094
+	},
+	{
+		"county": "Newberry",
+		"deaths": 56,
+		"cases": 1778,
+		"latitude": 34.2681,
+		"longitude": -81.4196
+	},
+	{
+		"county": "Newport",
+		"deaths": 124,
+		"cases": 9323,
+		"latitude": 41.4803,
+		"longitude": -71.3205
+	},
+	{
+		"county": "Newton",
+		"deaths": 967,
+		"cases": 23728,
+		"latitude": 30.8502,
+		"longitude": -93.7537
+	},
+	{
+		"county": "Nez Perce",
+		"deaths": 884,
+		"cases": 3590,
+		"latitude": 46.3934,
+		"longitude": -116.9934
+	},
+	{
+		"county": "Niagara",
+		"deaths": 1373,
+		"cases": 32588,
+		"latitude": 43.1451,
+		"longitude": -78.8777
+	},
+	{
+		"county": "Nicholas",
+		"deaths": 23,
+		"cases": 449,
+		"latitude": 38.2865,
+		"longitude": -80.841
+	},
+	{
+		"county": "Nicollet",
+		"deaths": 164,
+		"cases": 1690,
+		"latitude": 44.3296,
+		"longitude": -93.9659
+	},
+	{
+		"county": "Niobrara",
+		"deaths": 0,
+		"cases": 108,
+		"latitude": 42.6643,
+		"longitude": -104.0913
+	},
+	{
+		"county": "Noble",
+		"deaths": 726,
+		"cases": 6789,
+		"latitude": 41.5256,
+		"longitude": -85.3667
+	},
+	{
+		"county": "Nobles",
+		"deaths": 86,
+		"cases": 47199,
+		"latitude": 43.8266,
+		"longitude": -95.4823
+	},
+	{
+		"county": "Nodaway",
+		"deaths": 0,
+		"cases": 307,
+		"latitude": 40.288,
+		"longitude": -95.0795
+	},
+	{
+		"county": "Nolan",
+		"deaths": 0,
+		"cases": 78,
+		"latitude": 32.0851,
+		"longitude": -100.3194
+	},
+	{
+		"county": "Norfolk",
+		"deaths": 29333,
+		"cases": 343819,
+		"latitude": 36.8945,
+		"longitude": -76.259
+	},
+	{
+		"county": "Norman",
+		"deaths": 0,
+		"cases": 432,
+		"latitude": 47.1761,
+		"longitude": -96.8015
+	},
+	{
+		"county": "Northampton",
+		"deaths": 7343,
+		"cases": 138546,
+		"latitude": 36.4965,
+		"longitude": -77.6448
+	},
+	{
+		"county": "Northumberland",
+		"deaths": 70,
+		"cases": 7038,
+		"latitude": 41.085,
+		"longitude": -76.8646
+	},
+	{
+		"county": "Norton",
+		"deaths": 0,
+		"cases": 64,
+		"latitude": 36.9314,
+		"longitude": -82.6262
+	},
+	{
+		"county": "Nottoway",
+		"deaths": 0,
+		"cases": 792,
+		"latitude": 37.1812,
+		"longitude": -78.1307
+	},
+	{
+		"county": "Nowata",
+		"deaths": 0,
+		"cases": 1132,
+		"latitude": 36.9146,
+		"longitude": -95.8047
+	},
+	{
+		"county": "Noxubee",
+		"deaths": 115,
+		"cases": 5042,
+		"latitude": 33.2367,
+		"longitude": -88.5781
+	},
+	{
+		"county": "Nuckolls",
+		"deaths": 0,
+		"cases": 18,
+		"latitude": 40.1642,
+		"longitude": -97.9738
+	},
+	{
+		"county": "Nueces",
+		"deaths": 121,
+		"cases": 9278,
+		"latitude": 27.8094,
+		"longitude": -97.8455
+	},
+	{
+		"county": "Nye",
+		"deaths": 22,
+		"cases": 2354,
+		"latitude": 38.8655,
+		"longitude": -117.9238
+	},
+	{
+		"county": "O'Brien",
+		"deaths": 0,
+		"cases": 785,
+		"latitude": 43.1814,
+		"longitude": -95.6553
+	},
+	{
+		"county": "Oakland",
+		"deaths": 41513,
+		"cases": 428265,
+		"latitude": 42.7827,
+		"longitude": -83.2456
+	},
+	{
+		"county": "Obion",
+		"deaths": 64,
+		"cases": 915,
+		"latitude": 36.2021,
+		"longitude": -89.0155
+	},
+	{
+		"county": "Ocean",
+		"deaths": 25736,
+		"cases": 386561,
+		"latitude": 40.0384,
+		"longitude": -74.1678
+	},
+	{
+		"county": "Oceana",
+		"deaths": 78,
+		"cases": 1882,
+		"latitude": 43.5595,
+		"longitude": -86.3477
+	},
+	{
+		"county": "Ochiltree",
+		"deaths": 63,
+		"cases": 1300,
+		"latitude": 36.3932,
+		"longitude": -100.7974
+	},
+	{
+		"county": "Oconee",
+		"deaths": 89,
+		"cases": 5997,
+		"latitude": 33.9474,
+		"longitude": -83.5334
+	},
+	{
+		"county": "Oconto",
+		"deaths": 0,
+		"cases": 1083,
+		"latitude": 45.3006,
+		"longitude": -88.5146
+	},
+	{
+		"county": "Ogemaw",
+		"deaths": 6,
+		"cases": 772,
+		"latitude": 44.4297,
+		"longitude": -84.0225
+	},
+	{
+		"county": "Oglala Lakota",
+		"deaths": 0,
+		"cases": 373,
+		"latitude": 43.027,
+		"longitude": -102.5525
+	},
+	{
+		"county": "Ogle",
+		"deaths": 98,
+		"cases": 7048,
+		"latitude": 42.1236,
+		"longitude": -89.404
+	},
+	{
+		"county": "Oglethorpe",
+		"deaths": 201,
+		"cases": 2563,
+		"latitude": 33.9103,
+		"longitude": -83.218
+	},
+	{
+		"county": "Ohio",
+		"deaths": 51,
+		"cases": 6830,
+		"latitude": 40.0483,
+		"longitude": -80.6229
+	},
+	{
+		"county": "Okaloosa",
+		"deaths": 234,
+		"cases": 9484,
+		"latitude": 30.4127,
+		"longitude": -86.6588
+	},
+	{
+		"county": "Okanogan",
+		"deaths": 70,
+		"cases": 1665,
+		"latitude": 48.0536,
+		"longitude": -119.8994
+	},
+	{
+		"county": "Okeechobee",
+		"deaths": 0,
+		"cases": 1610,
+		"latitude": 27.2172,
+		"longitude": -80.7927
+	},
+	{
+		"county": "Okfuskee",
+		"deaths": 0,
+		"cases": 97,
+		"latitude": 35.4903,
+		"longitude": -96.4793
+	},
+	{
+		"county": "Oklahoma",
+		"deaths": 2217,
+		"cases": 50656,
+		"latitude": 35.5706,
+		"longitude": -97.5567
+	},
+	{
+		"county": "Okmulgee",
+		"deaths": 0,
+		"cases": 1052,
+		"latitude": 35.7769,
+		"longitude": -96.0279
+	},
+	{
+		"county": "Oktibbeha",
+		"deaths": 286,
+		"cases": 5162,
+		"latitude": 33.3451,
+		"longitude": -89.0458
+	},
+	{
+		"county": "Oldham",
+		"deaths": 122,
+		"cases": 2552,
+		"latitude": 35.2456,
+		"longitude": -102.4262
+	},
+	{
+		"county": "Oliver",
+		"deaths": 0,
+		"cases": 65,
+		"latitude": 47.1149,
+		"longitude": -101.2977
+	},
+	{
+		"county": "Olmsted",
+		"deaths": 401,
+		"cases": 20223,
+		"latitude": 43.8606,
+		"longitude": -92.4896
+	},
+	{
+		"county": "Oneida",
+		"deaths": 1292,
+		"cases": 32802,
+		"latitude": 45.8047,
+		"longitude": -89.1708
+	},
+	{
+		"county": "Onondaga",
+		"deaths": 3409,
+		"cases": 67325,
+		"latitude": 43.0409,
+		"longitude": -76.1438
+	},
+	{
+		"county": "Onslow",
+		"deaths": 94,
+		"cases": 3393,
+		"latitude": 34.7498,
+		"longitude": -77.3209
+	},
+	{
+		"county": "Ontario",
+		"deaths": 355,
+		"cases": 6816,
+		"latitude": 42.8095,
+		"longitude": -77.2582
+	},
+	{
+		"county": "Orange",
+		"deaths": 22845,
+		"cases": 806607,
+		"latitude": 28.4727,
+		"longitude": -81.4169
+	},
+	{
+		"county": "Orangeburg",
+		"deaths": 79,
+		"cases": 5491,
+		"latitude": 33.5301,
+		"longitude": -80.5712
+	},
+	{
+		"county": "Oregon",
+		"deaths": 0,
+		"cases": 89,
+		"latitude": 36.5974,
+		"longitude": -91.6461
+	},
+	{
+		"county": "Orleans",
+		"deaths": 25708,
+		"cases": 408149,
+		"latitude": 30.0687,
+		"longitude": -89.9288
+	},
+	{
+		"county": "Osage",
+		"deaths": 452,
+		"cases": 5192,
+		"latitude": 36.5698,
+		"longitude": -96.708
+	},
+	{
+		"county": "Osborne",
+		"deaths": 0,
+		"cases": 121,
+		"latitude": 39.5046,
+		"longitude": -98.5475
+	},
+	{
+		"county": "Osceola",
+		"deaths": 661,
+		"cases": 32746,
+		"latitude": 28.3349,
+		"longitude": -81.3539
+	},
+	{
+		"county": "Oscoda",
+		"deaths": 26,
+		"cases": 276,
+		"latitude": 44.6605,
+		"longitude": -84.1418
+	},
+	{
+		"county": "Oswego",
+		"deaths": 14,
+		"cases": 4214,
+		"latitude": 43.3194,
+		"longitude": -76.5778
+	},
+	{
+		"county": "Otero",
+		"deaths": 70,
+		"cases": 4112,
+		"latitude": 33.1473,
+		"longitude": -105.859
+	},
+	{
+		"county": "Otoe",
+		"deaths": 0,
+		"cases": 182,
+		"latitude": 40.6762,
+		"longitude": -95.8613
+	},
+	{
+		"county": "Otsego",
+		"deaths": 709,
+		"cases": 8583,
+		"latitude": 42.7978,
+		"longitude": -74.7506
+	},
+	{
+		"county": "Ottawa",
+		"deaths": 1139,
+		"cases": 25892,
+		"latitude": 36.9316,
+		"longitude": -94.8706
+	},
+	{
+		"county": "Otter Tail",
+		"deaths": 0,
+		"cases": 1487,
+		"latitude": 46.3798,
+		"longitude": -96.1309
+	},
+	{
+		"county": "Ouachita",
+		"deaths": 1304,
+		"cases": 45134,
+		"latitude": 32.4883,
+		"longitude": -92.1619
+	},
+	{
+		"county": "Ouray",
+		"deaths": 55,
+		"cases": 335,
+		"latitude": 38.0276,
+		"longitude": -107.6734
+	},
+	{
+		"county": "Outagamie",
+		"deaths": 201,
+		"cases": 5815,
+		"latitude": 44.4449,
+		"longitude": -88.5768
+	},
+	{
+		"county": "Overton",
+		"deaths": 0,
+		"cases": 739,
+		"latitude": 36.3875,
+		"longitude": -85.3265
+	},
+	{
+		"county": "Owen",
+		"deaths": 54,
+		"cases": 1619,
+		"latitude": 39.2861,
+		"longitude": -86.7726
+	},
+	{
+		"county": "Owsley",
+		"deaths": 0,
+		"cases": 108,
+		"latitude": 37.4719,
+		"longitude": -83.6826
+	},
+	{
+		"county": "Owyhee",
+		"deaths": 0,
+		"cases": 411,
+		"latitude": 42.984,
+		"longitude": -116.0918
+	},
+	{
+		"county": "Oxford",
+		"deaths": 0,
+		"cases": 1137,
+		"latitude": 44.219,
+		"longitude": -70.5113
+	},
+	{
+		"county": "Ozaukee",
+		"deaths": 628,
+		"cases": 6560,
+		"latitude": 43.3847,
+		"longitude": -87.9439
+	},
+	{
+		"county": "Pacific",
+		"deaths": 22,
+		"cases": 313,
+		"latitude": 46.6755,
+		"longitude": -123.6648
+	},
+	{
+		"county": "Page",
+		"deaths": 491,
+		"cases": 6476,
+		"latitude": 38.5769,
+		"longitude": -78.5027
+	},
+	{
+		"county": "Palm Beach",
+		"deaths": 12187,
+		"cases": 209009,
+		"latitude": 26.6815,
+		"longitude": -80.1265
+	},
+	{
+		"county": "Palo Alto",
+		"deaths": 0,
+		"cases": 74,
+		"latitude": 43.0266,
+		"longitude": -94.5272
+	},
+	{
+		"county": "Palo Pinto",
+		"deaths": 81,
+		"cases": 463,
+		"latitude": 32.5509,
+		"longitude": -98.4979
+	},
+	{
+		"county": "Pamlico",
+		"deaths": 0,
+		"cases": 438,
+		"latitude": 35.1449,
+		"longitude": -76.8447
+	},
+	{
+		"county": "Panola",
+		"deaths": 651,
+		"cases": 8773,
+		"latitude": 32.2436,
+		"longitude": -94.4561
+	},
+	{
+		"county": "Park",
+		"deaths": 0,
+		"cases": 1382,
+		"latitude": 44.5212,
+		"longitude": -109.055
+	},
+	{
+		"county": "Parke",
+		"deaths": 0,
+		"cases": 859,
+		"latitude": 39.7665,
+		"longitude": -87.2295
+	},
+	{
+		"county": "Parker",
+		"deaths": 13,
+		"cases": 2364,
+		"latitude": 32.7508,
+		"longitude": -97.6999
+	},
+	{
+		"county": "Parmer",
+		"deaths": 0,
+		"cases": 1135,
+		"latitude": 34.5157,
+		"longitude": -102.8846
+	},
+	{
+		"county": "Pasco",
+		"deaths": 453,
+		"cases": 16190,
+		"latitude": 28.183,
+		"longitude": -82.1539
+	},
+	{
+		"county": "Pasquotank",
+		"deaths": 205,
+		"cases": 3268,
+		"latitude": 36.2942,
+		"longitude": -76.236
+	},
+	{
+		"county": "Passaic",
+		"deaths": 33279,
+		"cases": 711586,
+		"latitude": 40.9628,
+		"longitude": -74.1844
+	},
+	{
+		"county": "Patrick",
+		"deaths": 0,
+		"cases": 316,
+		"latitude": 36.6344,
+		"longitude": -80.1985
+	},
+	{
+		"county": "Paulding",
+		"deaths": 461,
+		"cases": 12372,
+		"latitude": 33.8771,
+		"longitude": -84.771
+	},
+	{
+		"county": "Pawnee",
+		"deaths": 127,
+		"cases": 1834,
+		"latitude": 40.2428,
+		"longitude": -96.4074
+	},
+	{
+		"county": "Payette",
+		"deaths": 84,
+		"cases": 954,
+		"latitude": 43.9705,
+		"longitude": -116.8187
+	},
+	{
+		"county": "Payne",
+		"deaths": 39,
+		"cases": 2523,
+		"latitude": 36.2313,
+		"longitude": -96.9302
+	},
+	{
+		"county": "Peach",
+		"deaths": 146,
+		"cases": 3069,
+		"latitude": 32.5522,
+		"longitude": -83.8817
+	},
+	{
+		"county": "Pearl River",
+		"deaths": 1096,
+		"cases": 9717,
+		"latitude": 30.574,
+		"longitude": -89.6419
+	},
+	{
+		"county": "Pecos",
+		"deaths": 0,
+		"cases": 1106,
+		"latitude": 30.8926,
+		"longitude": -102.8847
+	},
+	{
+		"county": "Pembina",
+		"deaths": 0,
+		"cases": 189,
+		"latitude": 48.8803,
+		"longitude": -97.4741
+	},
+	{
+		"county": "Pemiscot",
+		"deaths": 114,
+		"cases": 2465,
+		"latitude": 36.3318,
+		"longitude": -89.8242
+	},
+	{
+		"county": "Pend Oreille",
+		"deaths": 0,
+		"cases": 121,
+		"latitude": 48.1788,
+		"longitude": -117.0545
+	},
+	{
+		"county": "Pender",
+		"deaths": 29,
+		"cases": 1768,
+		"latitude": 34.5166,
+		"longitude": -77.9174
+	},
+	{
+		"county": "Pendleton",
+		"deaths": 0,
+		"cases": 606,
+		"latitude": 38.6219,
+		"longitude": -79.2413
+	},
+	{
+		"county": "Pennington",
+		"deaths": 30,
+		"cases": 3463,
+		"latitude": 48.0135,
+		"longitude": -96.2137
+	},
+	{
+		"county": "Penobscot",
+		"deaths": 21,
+		"cases": 4310,
+		"latitude": 44.7835,
+		"longitude": -68.7352
+	},
+	{
+		"county": "Peoria",
+		"deaths": 246,
+		"cases": 6534,
+		"latitude": 40.935,
+		"longitude": -89.7547
+	},
+	{
+		"county": "Pepin",
+		"deaths": 0,
+		"cases": 20,
+		"latitude": 44.4852,
+		"longitude": -92.2633
+	},
+	{
+		"county": "Perquimans",
+		"deaths": 61,
+		"cases": 851,
+		"latitude": 36.1813,
+		"longitude": -76.4673
+	},
+	{
+		"county": "Perry",
+		"deaths": 211,
+		"cases": 12440,
+		"latitude": 35.7507,
+		"longitude": -87.7958
+	},
+	{
+		"county": "Pershing",
+		"deaths": 0,
+		"cases": 11,
+		"latitude": 40.4556,
+		"longitude": -118.2676
+	},
+	{
+		"county": "Person",
+		"deaths": 35,
+		"cases": 1471,
+		"latitude": 36.3905,
+		"longitude": -78.9811
+	},
+	{
+		"county": "Petersburg Borough",
+		"deaths": 0,
+		"cases": 139,
+		"latitude": 56.7566,
+		"longitude": -132.8727
+	},
+	{
+		"county": "Pettis",
+		"deaths": 22,
+		"cases": 2507,
+		"latitude": 38.6211,
+		"longitude": -93.4101
+	},
+	{
+		"county": "Phelps",
+		"deaths": 0,
+		"cases": 625,
+		"latitude": 40.5263,
+		"longitude": -99.6324
+	},
+	{
+		"county": "Philadelphia",
+		"deaths": 42229,
+		"cases": 886071,
+		"latitude": 40.0077,
+		"longitude": -75.1339
+	},
+	{
+		"county": "Phillips",
+		"deaths": 52,
+		"cases": 876,
+		"latitude": 40.6831,
+		"longitude": -102.1725
+	},
+	{
+		"county": "Piatt",
+		"deaths": 0,
+		"cases": 455,
+		"latitude": 39.9229,
+		"longitude": -88.5724
+	},
+	{
+		"county": "Pickaway",
+		"deaths": 1047,
+		"cases": 84693,
+		"latitude": 39.5705,
+		"longitude": -82.9471
+	},
+	{
+		"county": "Pickens",
+		"deaths": 333,
+		"cases": 9599,
+		"latitude": 33.322,
+		"longitude": -87.904
+	},
+	{
+		"county": "Pickett",
+		"deaths": 0,
+		"cases": 51,
+		"latitude": 36.5737,
+		"longitude": -85.1345
+	},
+	{
+		"county": "Pierce",
+		"deaths": 3253,
+		"cases": 96867,
+		"latitude": 46.9994,
+		"longitude": -122.3921
+	},
+	{
+		"county": "Pike",
+		"deaths": 1464,
+		"cases": 40281,
+		"latitude": 41.3666,
+		"longitude": -74.6997
+	},
+	{
+		"county": "Pima",
+		"deaths": 6254,
+		"cases": 83247,
+		"latitude": 32.0596,
+		"longitude": -111.2865
+	},
+	{
+		"county": "Pinal",
+		"deaths": 1070,
+		"cases": 28958,
+		"latitude": 33.1427,
+		"longitude": -111.7853
+	},
+	{
+		"county": "Pine",
+		"deaths": 0,
+		"cases": 3036,
+		"latitude": 45.8367,
+		"longitude": -92.9683
+	},
+	{
+		"county": "Pinellas",
+		"deaths": 2684,
+		"cases": 50252,
+		"latitude": 27.9087,
+		"longitude": -82.7162
+	},
+	{
+		"county": "Pipestone",
+		"deaths": 0,
+		"cases": 309,
+		"latitude": 43.9546,
+		"longitude": -96.1905
+	},
+	{
+		"county": "Pitkin",
+		"deaths": 135,
+		"cases": 3690,
+		"latitude": 39.2203,
+		"longitude": -106.9393
+	},
+	{
+		"county": "Pitt",
+		"deaths": 95,
+		"cases": 9369,
+		"latitude": 35.3804,
+		"longitude": -77.4334
+	},
+	{
+		"county": "Pittsburg",
+		"deaths": 117,
+		"cases": 1720,
+		"latitude": 34.8353,
+		"longitude": -95.8357
+	},
+	{
+		"county": "Pittsylvania",
+		"deaths": 43,
+		"cases": 1019,
+		"latitude": 37.0954,
+		"longitude": -79.3029
+	},
+	{
+		"county": "Piute",
+		"deaths": 0,
+		"cases": 35,
+		"latitude": 38.2357,
+		"longitude": -112.2238
+	},
+	{
+		"county": "Placer",
+		"deaths": 489,
+		"cases": 10165,
+		"latitude": 39.2138,
+		"longitude": -120.8033
+	},
+	{
+		"county": "Plaquemines",
+		"deaths": 888,
+		"cases": 10699,
+		"latitude": 29.3443,
+		"longitude": -89.4683
+	},
+	{
+		"county": "Platte",
+		"deaths": 47,
+		"cases": 16826,
+		"latitude": 42.0089,
+		"longitude": -104.9711
+	},
+	{
+		"county": "Pleasants",
+		"deaths": 0,
+		"cases": 138,
+		"latitude": 39.3786,
+		"longitude": -81.2635
+	},
+	{
+		"county": "Plumas",
+		"deaths": 0,
+		"cases": 241,
+		"latitude": 40.0059,
+		"longitude": -120.9525
+	},
+	{
+		"county": "Plymouth",
+		"deaths": 18084,
+		"cases": 309218,
+		"latitude": 42.811,
+		"longitude": -96.2666
+	},
+	{
+		"county": "Pocahontas",
+		"deaths": 0,
+		"cases": 517,
+		"latitude": 38.4353,
+		"longitude": -79.8116
+	},
+	{
+		"county": "Poinsett",
+		"deaths": 69,
+		"cases": 1249,
+		"latitude": 35.4868,
+		"longitude": -90.3559
+	},
+	{
+		"county": "Pointe Coupee",
+		"deaths": 815,
+		"cases": 6876,
+		"latitude": 30.6824,
+		"longitude": -91.4248
+	},
+	{
+		"county": "Polk",
+		"deaths": 5208,
+		"cases": 156285,
+		"latitude": 45.7159,
+		"longitude": -92.3965
+	},
+	{
+		"county": "Pondera",
+		"deaths": 0,
+		"cases": 94,
+		"latitude": 48.2905,
+		"longitude": -112.8363
+	},
+	{
+		"county": "Pontotoc",
+		"deaths": 205,
+		"cases": 1995,
+		"latitude": 34.8659,
+		"longitude": -96.6678
+	},
+	{
+		"county": "Pope",
+		"deaths": 13,
+		"cases": 3840,
+		"latitude": 35.328,
+		"longitude": -93.2417
+	},
+	{
+		"county": "Portage",
+		"deaths": 2290,
+		"cases": 14708,
+		"latitude": 44.2607,
+		"longitude": -89.4087
+	},
+	{
+		"county": "Porter",
+		"deaths": 621,
+		"cases": 17606,
+		"latitude": 41.685,
+		"longitude": -86.9804
+	},
+	{
+		"county": "Posey",
+		"deaths": 0,
+		"cases": 716,
+		"latitude": 38.2042,
+		"longitude": -87.9151
+	},
+	{
+		"county": "Pottawatomie",
+		"deaths": 210,
+		"cases": 3599,
+		"latitude": 35.3525,
+		"longitude": -96.9647
+	},
+	{
+		"county": "Pottawattamie",
+		"deaths": 151,
+		"cases": 5539,
+		"latitude": 41.4516,
+		"longitude": -95.6175
+	},
+	{
+		"county": "Potter",
+		"deaths": 788,
+		"cases": 62300,
+		"latitude": 35.1989,
+		"longitude": -101.831
+	},
+	{
+		"county": "Powell",
+		"deaths": 0,
+		"cases": 66,
+		"latitude": 46.5587,
+		"longitude": -112.4639
+	},
+	{
+		"county": "Power",
+		"deaths": 0,
+		"cases": 148,
+		"latitude": 42.8847,
+		"longitude": -112.5942
+	},
+	{
+		"county": "Poweshiek",
+		"deaths": 262,
+		"cases": 3287,
+		"latitude": 41.5833,
+		"longitude": -92.5274
+	},
+	{
+		"county": "Powhatan",
+		"deaths": 0,
+		"cases": 999,
+		"latitude": 37.5427,
+		"longitude": -77.9267
+	},
+	{
+		"county": "Prairie",
+		"deaths": 0,
+		"cases": 121,
+		"latitude": 34.9777,
+		"longitude": -91.5068
+	},
+	{
+		"county": "Pratt",
+		"deaths": 0,
+		"cases": 68,
+		"latitude": 37.6777,
+		"longitude": -98.7465
+	},
+	{
+		"county": "Preble",
+		"deaths": 56,
+		"cases": 1484,
+		"latitude": 39.8564,
+		"longitude": -84.7922
+	},
+	{
+		"county": "Prentiss",
+		"deaths": 85,
+		"cases": 1827,
+		"latitude": 34.708,
+		"longitude": -88.662
+	},
+	{
+		"county": "Presidio",
+		"deaths": 0,
+		"cases": 9,
+		"latitude": 29.5603,
+		"longitude": -104.3653
+	},
+	{
+		"county": "Presque Isle",
+		"deaths": 0,
+		"cases": 484,
+		"latitude": 45.2622,
+		"longitude": -83.6989
+	},
+	{
+		"county": "Preston",
+		"deaths": 13,
+		"cases": 824,
+		"latitude": 39.3254,
+		"longitude": -79.5546
+	},
+	{
+		"county": "Price",
+		"deaths": 0,
+		"cases": 66,
+		"latitude": 45.5301,
+		"longitude": -90.5868
+	},
+	{
+		"county": "Prince Edward",
+		"deaths": 96,
+		"cases": 3468,
+		"latitude": 37.2959,
+		"longitude": -78.4002
+	},
+	{
+		"county": "Prince George",
+		"deaths": 0,
+		"cases": 2818,
+		"latitude": 37.2357,
+		"longitude": -77.3325
+	},
+	{
+		"county": "Prince George's",
+		"deaths": 16647,
+		"cases": 467518,
+		"latitude": 39.0603,
+		"longitude": -76.8456
+	},
+	{
+		"county": "Prince William",
+		"deaths": 2482,
+		"cases": 142980,
+		"latitude": 38.6473,
+		"longitude": -77.3459
+	},
+	{
+		"county": "Providence",
+		"deaths": 12569,
+		"cases": 380292,
+		"latitude": 41.89,
+		"longitude": -71.3934
+	},
+	{
+		"county": "Prowers",
+		"deaths": 0,
+		"cases": 333,
+		"latitude": 38.074,
+		"longitude": -102.6155
+	},
+	{
+		"county": "Pueblo",
+		"deaths": 605,
+		"cases": 9608,
+		"latitude": 38.2351,
+		"longitude": -104.3434
+	},
+	{
+		"county": "Pulaski",
+		"deaths": 1422,
+		"cases": 43135,
+		"latitude": 36.9342,
+		"longitude": -80.7255
+	},
+	{
+		"county": "Pushmataha",
+		"deaths": 0,
+		"cases": 54,
+		"latitude": 34.5857,
+		"longitude": -95.3561
+	},
+	{
+		"county": "Putnam",
+		"deaths": 4048,
+		"cases": 86198,
+		"latitude": 38.473,
+		"longitude": -81.8124
+	},
+	{
+		"county": "Quay",
+		"deaths": 44,
+		"cases": 206,
+		"latitude": 35.3581,
+		"longitude": -103.4449
+	},
+	{
+		"county": "Queen Anne's",
+		"deaths": 375,
+		"cases": 4603,
+		"latitude": 38.9853,
+		"longitude": -76.1677
+	},
+	{
+		"county": "Quitman",
+		"deaths": 49,
+		"cases": 1416,
+		"latitude": 34.2006,
+		"longitude": -90.2845
+	},
+	{
+		"county": "Rabun",
+		"deaths": 33,
+		"cases": 720,
+		"latitude": 34.9196,
+		"longitude": -83.3854
+	},
+	{
+		"county": "Racine",
+		"deaths": 895,
+		"cases": 39087,
+		"latitude": 42.8088,
+		"longitude": -88.215
+	},
+	{
+		"county": "Rains",
+		"deaths": 0,
+		"cases": 116,
+		"latitude": 32.9011,
+		"longitude": -95.9397
+	},
+	{
+		"county": "Raleigh",
+		"deaths": 0,
+		"cases": 606,
+		"latitude": 37.6095,
+		"longitude": -81.305
+	},
+	{
+		"county": "Ralls",
+		"deaths": 0,
+		"cases": 106,
+		"latitude": 39.5844,
+		"longitude": -91.3987
+	},
+	{
+		"county": "Ramsey",
+		"deaths": 2724,
+		"cases": 59902,
+		"latitude": 48.1131,
+		"longitude": -98.8753
+	},
+	{
+		"county": "Randall",
+		"deaths": 213,
+		"cases": 19972,
+		"latitude": 35.0539,
+		"longitude": -101.8186
+	},
+	{
+		"county": "Randolph",
+		"deaths": 1777,
+		"cases": 45030,
+		"latitude": 38.7968,
+		"longitude": -79.8967
+	},
+	{
+		"county": "Rankin",
+		"deaths": 289,
+		"cases": 13705,
+		"latitude": 32.2778,
+		"longitude": -89.9896
+	},
+	{
+		"county": "Ransom",
+		"deaths": 0,
+		"cases": 168,
+		"latitude": 46.5244,
+		"longitude": -97.9311
+	},
+	{
+		"county": "Rapides",
+		"deaths": 748,
+		"cases": 22128,
+		"latitude": 31.3414,
+		"longitude": -92.4096
+	},
+	{
+		"county": "Rappahannock",
+		"deaths": 0,
+		"cases": 374,
+		"latitude": 38.6562,
+		"longitude": -78.2322
+	},
+	{
+		"county": "Ravalli",
+		"deaths": 0,
+		"cases": 409,
+		"latitude": 46.511,
+		"longitude": -114.0787
+	},
+	{
+		"county": "Ray",
+		"deaths": 0,
+		"cases": 687,
+		"latitude": 39.1956,
+		"longitude": -94.0523
+	},
+	{
+		"county": "Reagan",
+		"deaths": 0,
+		"cases": 12,
+		"latitude": 31.1941,
+		"longitude": -101.4534
+	},
+	{
+		"county": "Red Lake",
+		"deaths": 0,
+		"cases": 102,
+		"latitude": 47.8837,
+		"longitude": -96.2727
+	},
+	{
+		"county": "Red River",
+		"deaths": 351,
+		"cases": 2815,
+		"latitude": 33.5523,
+		"longitude": -94.7804
+	},
+	{
+		"county": "Red Willow",
+		"deaths": 0,
+		"cases": 177,
+		"latitude": 40.2046,
+		"longitude": -100.6213
+	},
+	{
+		"county": "Redwood",
+		"deaths": 0,
+		"cases": 135,
+		"latitude": 44.2098,
+		"longitude": -95.1297
+	},
+	{
+		"county": "Reeves",
+		"deaths": 0,
+		"cases": 108,
+		"latitude": 31.4046,
+		"longitude": -103.5057
+	},
+	{
+		"county": "Refugio",
+		"deaths": 0,
+		"cases": 73,
+		"latitude": 28.3911,
+		"longitude": -96.8437
+	},
+	{
+		"county": "Reno",
+		"deaths": 0,
+		"cases": 2113,
+		"latitude": 38.1011,
+		"longitude": -97.992
+	},
+	{
+		"county": "Rensselaer",
+		"deaths": 1212,
+		"cases": 18773,
+		"latitude": 42.5332,
+		"longitude": -73.7493
+	},
+	{
+		"county": "Renville",
+		"deaths": 0,
+		"cases": 312,
+		"latitude": 48.8683,
+		"longitude": -101.5678
+	},
+	{
+		"county": "Republic",
+		"deaths": 0,
+		"cases": 226,
+		"latitude": 39.7832,
+		"longitude": -97.8961
+	},
+	{
+		"county": "Reynolds",
+		"deaths": 0,
+		"cases": 130,
+		"latitude": 37.4574,
+		"longitude": -91.212
+	},
+	{
+		"county": "Rhea",
+		"deaths": 0,
+		"cases": 2799,
+		"latitude": 35.4493,
+		"longitude": -85.0763
+	},
+	{
+		"county": "Rice",
+		"deaths": 70,
+		"cases": 8145,
+		"latitude": 44.4551,
+		"longitude": -93.1697
+	},
+	{
+		"county": "Richardson",
+		"deaths": 0,
+		"cases": 21,
+		"latitude": 40.2322,
+		"longitude": -95.7735
+	},
+	{
+		"county": "Richland",
+		"deaths": 2573,
+		"cases": 70435,
+		"latitude": 43.1857,
+		"longitude": -90.2012
+	},
+	{
+		"county": "Richmond",
+		"deaths": 1031,
+		"cases": 35587,
+		"latitude": 34.9386,
+		"longitude": -79.7608
+	},
+	{
+		"county": "Riley",
+		"deaths": 22,
+		"cases": 2759,
+		"latitude": 39.299,
+		"longitude": -96.8276
+	},
+	{
+		"county": "Ringgold",
+		"deaths": 0,
+		"cases": 47,
+		"latitude": 40.7141,
+		"longitude": -94.2376
+	},
+	{
+		"county": "Rio Arriba",
+		"deaths": 6,
+		"cases": 1374,
+		"latitude": 36.1769,
+		"longitude": -106.4245
+	},
+	{
+		"county": "Rio Blanco",
+		"deaths": 0,
+		"cases": 61,
+		"latitude": 40.0498,
+		"longitude": -107.8953
+	},
+	{
+		"county": "Rio Grande",
+		"deaths": 2,
+		"cases": 616,
+		"latitude": 37.6877,
+		"longitude": -106.586
+	},
+	{
+		"county": "Ripley",
+		"deaths": 294,
+		"cases": 6228,
+		"latitude": 39.2373,
+		"longitude": -85.0931
+	},
+	{
+		"county": "Ritchie",
+		"deaths": 0,
+		"cases": 31,
+		"latitude": 39.2104,
+		"longitude": -81.0485
+	},
+	{
+		"county": "Riverside",
+		"deaths": 10635,
+		"cases": 261940,
+		"latitude": 33.9797,
+		"longitude": -116.9694
+	},
+	{
+		"county": "Roane",
+		"deaths": 0,
+		"cases": 912,
+		"latitude": 38.8025,
+		"longitude": -81.3531
+	},
+	{
+		"county": "Roanoke",
+		"deaths": 98,
+		"cases": 3332,
+		"latitude": 37.2746,
+		"longitude": -79.8888
+	},
+	{
+		"county": "Roberts",
+		"deaths": 0,
+		"cases": 922,
+		"latitude": 35.6924,
+		"longitude": -100.6416
+	},
+	{
+		"county": "Robertson",
+		"deaths": 23,
+		"cases": 13288,
+		"latitude": 30.877,
+		"longitude": -96.5956
+	},
+	{
+		"county": "Robeson",
+		"deaths": 417,
+		"cases": 18469,
+		"latitude": 34.4751,
+		"longitude": -79.037
+	},
+	{
+		"county": "Rock",
+		"deaths": 557,
+		"cases": 17882,
+		"latitude": 42.8386,
+		"longitude": -89.0698
+	},
+	{
+		"county": "Rock Island",
+		"deaths": 758,
+		"cases": 24043,
+		"latitude": 41.4416,
+		"longitude": -90.4464
+	},
+	{
+		"county": "Rockbridge",
+		"deaths": 0,
+		"cases": 524,
+		"latitude": 37.9901,
+		"longitude": -79.5067
+	},
+	{
+		"county": "Rockcastle",
+		"deaths": 0,
+		"cases": 656,
+		"latitude": 37.4027,
+		"longitude": -84.4144
+	},
+	{
+		"county": "Rockdale",
+		"deaths": 386,
+		"cases": 11827,
+		"latitude": 33.6645,
+		"longitude": -83.9967
+	},
+	{
+		"county": "Rockingham",
+		"deaths": 2350,
+		"cases": 67429,
+		"latitude": 42.885,
+		"longitude": -70.8234
+	},
+	{
+		"county": "Rockland",
+		"deaths": 20642,
+		"cases": 680229,
+		"latitude": 41.1213,
+		"longitude": -74.0685
+	},
+	{
+		"county": "Rockwall",
+		"deaths": 232,
+		"cases": 5208,
+		"latitude": 32.917,
+		"longitude": -96.4377
+	},
+	{
+		"county": "Rogers",
+		"deaths": 200,
+		"cases": 3339,
+		"latitude": 36.1832,
+		"longitude": -95.7663
+	},
+	{
+		"county": "Rolette",
+		"deaths": 0,
+		"cases": 137,
+		"latitude": 48.6609,
+		"longitude": -99.8417
+	},
+	{
+		"county": "Rooks",
+		"deaths": 0,
+		"cases": 307,
+		"latitude": 39.2532,
+		"longitude": -99.5634
+	},
+	{
+		"county": "Roosevelt",
+		"deaths": 0,
+		"cases": 1221,
+		"latitude": 33.8609,
+		"longitude": -103.1071
+	},
+	{
+		"county": "Roscommon",
+		"deaths": 0,
+		"cases": 936,
+		"latitude": 44.3124,
+		"longitude": -84.7625
+	},
+	{
+		"county": "Roseau",
+		"deaths": 0,
+		"cases": 64,
+		"latitude": 48.8445,
+		"longitude": -95.7624
+	},
+	{
+		"county": "Rosebud",
+		"deaths": 0,
+		"cases": 1,
+		"latitude": 45.5977,
+		"longitude": -106.2975
+	},
+	{
+		"county": "Ross",
+		"deaths": 54,
+		"cases": 2526,
+		"latitude": 39.4647,
+		"longitude": -82.7456
+	},
+	{
+		"county": "Routt",
+		"deaths": 245,
+		"cases": 3310,
+		"latitude": 40.2738,
+		"longitude": -106.9574
+	},
+	{
+		"county": "Rowan",
+		"deaths": 1216,
+		"cases": 23727,
+		"latitude": 35.6821,
+		"longitude": -80.4275
+	},
+	{
+		"county": "Runnels",
+		"deaths": 0,
+		"cases": 72,
+		"latitude": 31.7396,
+		"longitude": -99.9559
+	},
+	{
+		"county": "Rush",
+		"deaths": 91,
+		"cases": 2324,
+		"latitude": 39.4981,
+		"longitude": -85.4676
+	},
+	{
+		"county": "Rusk",
+		"deaths": 62,
+		"cases": 2275,
+		"latitude": 45.459,
+		"longitude": -91.2734
+	},
+	{
+		"county": "Russell",
+		"deaths": 158,
+		"cases": 5791,
+		"latitude": 36.9792,
+		"longitude": -82.296
+	},
+	{
+		"county": "Rutherford",
+		"deaths": 1077,
+		"cases": 44435,
+		"latitude": 35.3624,
+		"longitude": -81.836
+	},
+	{
+		"county": "Rutland",
+		"deaths": 48,
+		"cases": 2816,
+		"latitude": 43.5181,
+		"longitude": -73.236
+	},
+	{
+		"county": "Sabine",
+		"deaths": 15,
+		"cases": 1471,
+		"latitude": 31.4541,
+		"longitude": -93.7979
+	},
+	{
+		"county": "Sac",
+		"deaths": 0,
+		"cases": 252,
+		"latitude": 42.3118,
+		"longitude": -95.2542
+	},
+	{
+		"county": "Sacramento",
+		"deaths": 2701,
+		"cases": 66042,
+		"latitude": 38.574,
+		"longitude": -121.2523
+	},
+	{
+		"county": "Sagadahoc",
+		"deaths": 4,
+		"cases": 1328,
+		"latitude": 43.9346,
+		"longitude": -69.8346
+	},
+	{
+		"county": "Saginaw",
+		"deaths": 3719,
+		"cases": 39909,
+		"latitude": 43.4091,
+		"longitude": -84.3345
+	},
+	{
+		"county": "Saguache",
+		"deaths": 7,
+		"cases": 884,
+		"latitude": 38.0862,
+		"longitude": -106.1407
+	},
+	{
+		"county": "Salem",
+		"deaths": 898,
+		"cases": 18379,
+		"latitude": 39.6503,
+		"longitude": -75.3251
+	},
+	{
+		"county": "Saline",
+		"deaths": 206,
+		"cases": 28955,
+		"latitude": 40.4809,
+		"longitude": -96.9646
+	},
+	{
+		"county": "Salt Lake",
+		"deaths": 2192,
+		"cases": 172694,
+		"latitude": 40.4743,
+		"longitude": -111.9383
+	},
+	{
+		"county": "Saluda",
+		"deaths": 5,
+		"cases": 4061,
+		"latitude": 33.8573,
+		"longitude": -81.7313
+	},
+	{
+		"county": "Sampson",
+		"deaths": 47,
+		"cases": 9296,
+		"latitude": 34.7859,
+		"longitude": -78.3947
+	},
+	{
+		"county": "San Augustine",
+		"deaths": 68,
+		"cases": 1170,
+		"latitude": 31.305,
+		"longitude": -94.2699
+	},
+	{
+		"county": "San Benito",
+		"deaths": 139,
+		"cases": 3458,
+		"latitude": 36.8457,
+		"longitude": -121.5384
+	},
+	{
+		"county": "San Bernardino",
+		"deaths": 6349,
+		"cases": 153673,
+		"latitude": 34.0714,
+		"longitude": -117.6981
+	},
+	{
+		"county": "San Diego",
+		"deaths": 9754,
+		"cases": 260288,
+		"latitude": 32.8439,
+		"longitude": -116.7585
+	},
+	{
+		"county": "San Francisco",
+		"deaths": 1702,
+		"cases": 102851,
+		"latitude": 37.7562,
+		"longitude": -122.443
+	},
+	{
+		"county": "San Jacinto",
+		"deaths": 0,
+		"cases": 597,
+		"latitude": 30.5898,
+		"longitude": -95.1307
+	},
+	{
+		"county": "San Joaquin",
+		"deaths": 1590,
+		"cases": 34990,
+		"latitude": 38.1218,
+		"longitude": -121.2933
+	},
+	{
+		"county": "San Juan",
+		"deaths": 3465,
+		"cases": 58327,
+		"latitude": 48.5324,
+		"longitude": -123.0655
+	},
+	{
+		"county": "San Luis Obispo",
+		"deaths": 60,
+		"cases": 12330,
+		"latitude": 35.7309,
+		"longitude": -120.8702
+	},
+	{
+		"county": "San Mateo",
+		"deaths": 3160,
+		"cases": 81401,
+		"latitude": 37.586,
+		"longitude": -122.3669
+	},
+	{
+		"county": "San Miguel",
+		"deaths": 0,
+		"cases": 1488,
+		"latitude": 35.3037,
+		"longitude": -105.3913
+	},
+	{
+		"county": "San Patricio",
+		"deaths": 0,
+		"cases": 1034,
+		"latitude": 28.0969,
+		"longitude": -97.865
+	},
+	{
+		"county": "San Saba",
+		"deaths": 0,
+		"cases": 15,
+		"latitude": 31.1965,
+		"longitude": -98.7244
+	},
+	{
+		"county": "Sanborn",
+		"deaths": 0,
+		"cases": 272,
+		"latitude": 44.0541,
+		"longitude": -98.2724
+	},
+	{
+		"county": "Sandoval",
+		"deaths": 919,
+		"cases": 23920,
+		"latitude": 35.2366,
+		"longitude": -106.6191
+	},
+	{
+		"county": "Sandusky",
+		"deaths": 335,
+		"cases": 2296,
+		"latitude": 41.4216,
+		"longitude": -83.221
+	},
+	{
+		"county": "Sangamon",
+		"deaths": 944,
+		"cases": 11844,
+		"latitude": 39.7577,
+		"longitude": -89.9026
+	},
+	{
+		"county": "Sanilac",
+		"deaths": 242,
+		"cases": 2047,
+		"latitude": 43.1864,
+		"longitude": -82.8617
+	},
+	{
+		"county": "Sanpete",
+		"deaths": 0,
+		"cases": 291,
+		"latitude": 39.2246,
+		"longitude": -111.8542
+	},
+	{
+		"county": "Santa Barbara",
+		"deaths": 466,
+		"cases": 53168,
+		"latitude": 34.4382,
+		"longitude": -119.6286
+	},
+	{
+		"county": "Santa Clara",
+		"deaths": 6776,
+		"cases": 139399,
+		"latitude": 37.434,
+		"longitude": -121.8921
+	},
+	{
+		"county": "Santa Cruz",
+		"deaths": 135,
+		"cases": 13231,
+		"latitude": 37.0555,
+		"longitude": -122.0118
+	},
+	{
+		"county": "Santa Fe",
+		"deaths": 70,
+		"cases": 6687,
+		"latitude": 35.8464,
+		"longitude": -105.9948
+	},
+	{
+		"county": "Santa Rosa",
+		"deaths": 451,
+		"cases": 9885,
+		"latitude": 30.7826,
+		"longitude": -87.2309
+	},
+	{
+		"county": "Sarasota",
+		"deaths": 2674,
+		"cases": 24467,
+		"latitude": 27.3328,
+		"longitude": -82.4616
+	},
+	{
+		"county": "Saratoga",
+		"deaths": 167,
+		"cases": 21779,
+		"latitude": 42.9468,
+		"longitude": -73.6441
+	},
+	{
+		"county": "Sargent",
+		"deaths": 0,
+		"cases": 109,
+		"latitude": 46.2668,
+		"longitude": -97.3332
+	},
+	{
+		"county": "Sarpy",
+		"deaths": 65,
+		"cases": 13473,
+		"latitude": 41.0718,
+		"longitude": -95.9255
+	},
+	{
+		"county": "Sauk",
+		"deaths": 183,
+		"cases": 3399,
+		"latitude": 43.4814,
+		"longitude": -89.7719
+	},
+	{
+		"county": "Saunders",
+		"deaths": 26,
+		"cases": 887,
+		"latitude": 41.2665,
+		"longitude": -96.7209
+	},
+	{
+		"county": "Sawyer",
+		"deaths": 0,
+		"cases": 218,
+		"latitude": 45.7976,
+		"longitude": -91.3005
+	},
+	{
+		"county": "Schenectady",
+		"deaths": 1334,
+		"cases": 28559,
+		"latitude": 42.8614,
+		"longitude": -73.9206
+	},
+	{
+		"county": "Schley",
+		"deaths": 58,
+		"cases": 897,
+		"latitude": 32.238,
+		"longitude": -84.3089
+	},
+	{
+		"county": "Schoharie",
+		"deaths": 0,
+		"cases": 2181,
+		"latitude": 42.7068,
+		"longitude": -74.3473
+	},
+	{
+		"county": "Schoolcraft",
+		"deaths": 0,
+		"cases": 187,
+		"latitude": 45.9591,
+		"longitude": -86.2507
+	},
+	{
+		"county": "Schuyler",
+		"deaths": 0,
+		"cases": 761,
+		"latitude": 42.335,
+		"longitude": -76.7881
+	},
+	{
+		"county": "Schuylkill",
+		"deaths": 748,
+		"cases": 23479,
+		"latitude": 40.6302,
+		"longitude": -76.3912
+	},
+	{
+		"county": "Scioto",
+		"deaths": 0,
+		"cases": 587,
+		"latitude": 38.8618,
+		"longitude": -82.8552
+	},
+	{
+		"county": "Scotland",
+		"deaths": 0,
+		"cases": 2315,
+		"latitude": 34.7691,
+		"longitude": -79.445
+	},
+	{
+		"county": "Scott",
+		"deaths": 1096,
+		"cases": 54271,
+		"latitude": 36.3536,
+		"longitude": -84.5839
+	},
+	{
+		"county": "Scotts Bluff",
+		"deaths": 0,
+		"cases": 2406,
+		"latitude": 41.9641,
+		"longitude": -103.9247
+	},
+	{
+		"county": "Screven",
+		"deaths": 64,
+		"cases": 1131,
+		"latitude": 32.5214,
+		"longitude": -81.5331
+	},
+	{
+		"county": "Scurry",
+		"deaths": 0,
+		"cases": 204,
+		"latitude": 32.6366,
+		"longitude": -100.7523
+	},
+	{
+		"county": "Searcy",
+		"deaths": 0,
+		"cases": 411,
+		"latitude": 36.029,
+		"longitude": -92.8078
+	},
+	{
+		"county": "Sebastian",
+		"deaths": 0,
+		"cases": 1001,
+		"latitude": 35.3285,
+		"longitude": -94.2793
+	},
+	{
+		"county": "Sedgwick",
+		"deaths": 733,
+		"cases": 23865,
+		"latitude": 40.9851,
+		"longitude": -102.2626
+	},
+	{
+		"county": "Seminole",
+		"deaths": 664,
+		"cases": 26104,
+		"latitude": 28.7893,
+		"longitude": -81.276
+	},
+	{
+		"county": "Seneca",
+		"deaths": 105,
+		"cases": 3077,
+		"latitude": 42.6135,
+		"longitude": -76.8225
+	},
+	{
+		"county": "Sequatchie",
+		"deaths": 0,
+		"cases": 396,
+		"latitude": 35.2007,
+		"longitude": -85.3685
+	},
+	{
+		"county": "Sequoyah",
+		"deaths": 162,
+		"cases": 739,
+		"latitude": 35.4578,
+		"longitude": -94.4984
+	},
+	{
+		"county": "Sevier",
+		"deaths": 119,
+		"cases": 5862,
+		"latitude": 35.8873,
+		"longitude": -83.5678
+	},
+	{
+		"county": "Seward",
+		"deaths": 69,
+		"cases": 28729,
+		"latitude": 40.7782,
+		"longitude": -97.2825
+	},
+	{
+		"county": "Shackelford",
+		"deaths": 0,
+		"cases": 27,
+		"latitude": 32.5472,
+		"longitude": -99.1666
+	},
+	{
+		"county": "Shannon",
+		"deaths": 0,
+		"cases": 14,
+		"latitude": 36.9817,
+		"longitude": -91.5749
+	},
+	{
+		"county": "Sharkey",
+		"deaths": 0,
+		"cases": 301,
+		"latitude": 32.9719,
+		"longitude": -90.8284
+	},
+	{
+		"county": "Sharp",
+		"deaths": 50,
+		"cases": 1052,
+		"latitude": 36.2959,
+		"longitude": -91.5696
+	},
+	{
+		"county": "Shasta",
+		"deaths": 230,
+		"cases": 1899,
+		"latitude": 40.8005,
+		"longitude": -121.9375
+	},
+	{
+		"county": "Shawano",
+		"deaths": 0,
+		"cases": 1170,
+		"latitude": 45.0046,
+		"longitude": -89.0411
+	},
+	{
+		"county": "Shawnee",
+		"deaths": 314,
+		"cases": 9168,
+		"latitude": 38.8911,
+		"longitude": -95.6999
+	},
+	{
+		"county": "Sheboygan",
+		"deaths": 141,
+		"cases": 3535,
+		"latitude": 43.6766,
+		"longitude": -87.9478
+	},
+	{
+		"county": "Shelby",
+		"deaths": 5971,
+		"cases": 224402,
+		"latitude": 31.944,
+		"longitude": -94.2457
+	},
+	{
+		"county": "Shenandoah",
+		"deaths": 387,
+		"cases": 11160,
+		"latitude": 38.7394,
+		"longitude": -78.6513
+	},
+	{
+		"county": "Sherburne",
+		"deaths": 41,
+		"cases": 5439,
+		"latitude": 45.4416,
+		"longitude": -93.5981
+	},
+	{
+		"county": "Sheridan",
+		"deaths": 0,
+		"cases": 1133,
+		"latitude": 44.9488,
+		"longitude": -107.3077
+	},
+	{
+		"county": "Sherman",
+		"deaths": 0,
+		"cases": 1229,
+		"latitude": 36.4937,
+		"longitude": -101.7937
+	},
+	{
+		"county": "Shiawassee",
+		"deaths": 733,
+		"cases": 9703,
+		"latitude": 43.1168,
+		"longitude": -83.9693
+	},
+	{
+		"county": "Sibley",
+		"deaths": 0,
+		"cases": 311,
+		"latitude": 44.6728,
+		"longitude": -94.232
+	},
+	{
+		"county": "Sierra",
+		"deaths": 0,
+		"cases": 47,
+		"latitude": 33.1864,
+		"longitude": -107.2589
+	},
+	{
+		"county": "Silver Bow",
+		"deaths": 0,
+		"cases": 761,
+		"latitude": 46.0366,
+		"longitude": -112.5396
+	},
+	{
+		"county": "Simpson",
+		"deaths": 127,
+		"cases": 4866,
+		"latitude": 31.873,
+		"longitude": -89.734
+	},
+	{
+		"county": "Sioux",
+		"deaths": 0,
+		"cases": 4764,
+		"latitude": 46.2218,
+		"longitude": -101.0999
+	},
+	{
+		"county": "Siskiyou",
+		"deaths": 0,
+		"cases": 354,
+		"latitude": 41.6086,
+		"longitude": -122.8409
+	},
+	{
+		"county": "Skagit",
+		"deaths": 701,
+		"cases": 21104,
+		"latitude": 48.4878,
+		"longitude": -122.6292
+	},
+	{
+		"county": "Skamania",
+		"deaths": 0,
+		"cases": 179,
+		"latitude": 45.6425,
+		"longitude": -121.9689
+	},
+	{
+		"county": "Slope",
+		"deaths": 0,
+		"cases": 176,
+		"latitude": 46.4823,
+		"longitude": -103.3194
+	},
+	{
+		"county": "Smith",
+		"deaths": 563,
+		"cases": 15624,
+		"latitude": 32.2222,
+		"longitude": -95.2217
+	},
+	{
+		"county": "Smyth",
+		"deaths": 0,
+		"cases": 750,
+		"latitude": 36.8009,
+		"longitude": -81.6832
+	},
+	{
+		"county": "Snohomish",
+		"deaths": 6807,
+		"cases": 171183,
+		"latitude": 48.0639,
+		"longitude": -122.092
+	},
+	{
+		"county": "Snyder",
+		"deaths": 67,
+		"cases": 1810,
+		"latitude": 40.7625,
+		"longitude": -76.9408
+	},
+	{
+		"county": "Socorro",
+		"deaths": 127,
+		"cases": 2270,
+		"latitude": 34.2183,
+		"longitude": -106.9151
+	},
+	{
+		"county": "Solano",
+		"deaths": 552,
+		"cases": 19187,
+		"latitude": 38.1133,
+		"longitude": -122.2359
+	},
+	{
+		"county": "Somerset",
+		"deaths": 15782,
+		"cases": 206005,
+		"latitude": 40.5361,
+		"longitude": -74.5745
+	},
+	{
+		"county": "Sonoma",
+		"deaths": 193,
+		"cases": 18782,
+		"latitude": 38.7173,
+		"longitude": -122.9034
+	},
+	{
+		"county": "Southampton",
+		"deaths": 64,
+		"cases": 5466,
+		"latitude": 36.5778,
+		"longitude": -77.1989
+	},
+	{
+		"county": "Spalding",
+		"deaths": 646,
+		"cases": 11337,
+		"latitude": 33.2418,
+		"longitude": -84.2747
+	},
+	{
+		"county": "Spartanburg",
+		"deaths": 622,
+		"cases": 19370,
+		"latitude": 34.6439,
+		"longitude": -81.8584
+	},
+	{
+		"county": "Spencer",
+		"deaths": 32,
+		"cases": 1369,
+		"latitude": 38.1692,
+		"longitude": -86.8257
+	},
+	{
+		"county": "Spink",
+		"deaths": 0,
+		"cases": 211,
+		"latitude": 44.7382,
+		"longitude": -98.5089
+	},
+	{
+		"county": "Spokane",
+		"deaths": 1428,
+		"cases": 24172,
+		"latitude": 47.4513,
+		"longitude": -117.1307
+	},
+	{
+		"county": "Spotsylvania",
+		"deaths": 185,
+		"cases": 13144,
+		"latitude": 38.3036,
+		"longitude": -77.7276
+	},
+	{
+		"county": "St. Bernard",
+		"deaths": 1021,
+		"cases": 28170,
+		"latitude": 29.8625,
+		"longitude": -89.8877
+	},
+	{
+		"county": "St. Charles",
+		"deaths": 4397,
+		"cases": 67428,
+		"latitude": 29.9986,
+		"longitude": -90.4036
+	},
+	{
+		"county": "St. Clair",
+		"deaths": 3932,
+		"cases": 60654,
+		"latitude": 33.5609,
+		"longitude": -86.2668
+	},
+	{
+		"county": "St. Croix",
+		"deaths": 0,
+		"cases": 1921,
+		"latitude": 44.9691,
+		"longitude": -92.4381
+	},
+	{
+		"county": "St. Francis",
+		"deaths": 12,
+		"cases": 14336,
+		"latitude": 35.0788,
+		"longitude": -90.8136
+	},
+	{
+		"county": "St. Francois",
+		"deaths": 76,
+		"cases": 1668,
+		"latitude": 37.8618,
+		"longitude": -90.5892
+	},
+	{
+		"county": "St. Helena",
+		"deaths": 48,
+		"cases": 1822,
+		"latitude": 30.6823,
+		"longitude": -90.6545
+	},
+	{
+		"county": "St. James",
+		"deaths": 1138,
+		"cases": 15459,
+		"latitude": 30.0917,
+		"longitude": -90.8844
+	},
+	{
+		"county": "St. John the Baptist",
+		"deaths": 3911,
+		"cases": 44467,
+		"latitude": 29.9205,
+		"longitude": -90.6458
+	},
+	{
+		"county": "St. Johns",
+		"deaths": 261,
+		"cases": 13325,
+		"latitude": 30.19,
+		"longitude": -81.3704
+	},
+	{
+		"county": "St. Joseph",
+		"deaths": 1501,
+		"cases": 45561,
+		"latitude": 41.6736,
+		"longitude": -86.1669
+	},
+	{
+		"county": "St. Landry",
+		"deaths": 2207,
+		"cases": 11145,
+		"latitude": 30.528,
+		"longitude": -92.0851
+	},
+	{
+		"county": "St. Lawrence",
+		"deaths": 92,
+		"cases": 9449,
+		"latitude": 44.7481,
+		"longitude": -74.997
+	},
+	{
+		"county": "St. Louis",
+		"deaths": 13188,
+		"cases": 200590,
+		"latitude": 38.5242,
+		"longitude": -90.3365
+	},
+	{
+		"county": "St. Lucie",
+		"deaths": 1235,
+		"cases": 16453,
+		"latitude": 27.4096,
+		"longitude": -80.3538
+	},
+	{
+		"county": "St. Martin",
+		"deaths": 1000,
+		"cases": 13906,
+		"latitude": 30.3368,
+		"longitude": -91.8476
+	},
+	{
+		"county": "St. Mary",
+		"deaths": 1154,
+		"cases": 12627,
+		"latitude": 29.8113,
+		"longitude": -91.6705
+	},
+	{
+		"county": "St. Mary's",
+		"deaths": 472,
+		"cases": 13133,
+		"latitude": 38.1155,
+		"longitude": -76.4771
+	},
+	{
+		"county": "St. Tammany",
+		"deaths": 6362,
+		"cases": 78709,
+		"latitude": 30.3687,
+		"longitude": -89.7495
+	},
+	{
+		"county": "Stafford",
+		"deaths": 141,
+		"cases": 19704,
+		"latitude": 38.4597,
+		"longitude": -77.3806
+	},
+	{
+		"county": "Stanislaus",
+		"deaths": 872,
+		"cases": 24589,
+		"latitude": 37.6374,
+		"longitude": -121.0028
+	},
+	{
+		"county": "Stanley",
+		"deaths": 0,
+		"cases": 316,
+		"latitude": 44.3679,
+		"longitude": -100.3831
+	},
+	{
+		"county": "Stanly",
+		"deaths": 189,
+		"cases": 1889,
+		"latitude": 35.2336,
+		"longitude": -80.4303
+	},
+	{
+		"county": "Stanton",
+		"deaths": 0,
+		"cases": 830,
+		"latitude": 41.9471,
+		"longitude": -97.2172
+	},
+	{
+		"county": "Stark",
+		"deaths": 3184,
+		"cases": 28222,
+		"latitude": 46.8841,
+		"longitude": -102.3332
+	},
+	{
+		"county": "Starke",
+		"deaths": 97,
+		"cases": 1202,
+		"latitude": 41.1989,
+		"longitude": -86.8922
+	},
+	{
+		"county": "Starr",
+		"deaths": 0,
+		"cases": 847,
+		"latitude": 26.3859,
+		"longitude": -98.899
+	},
+	{
+		"county": "Ste. Genevieve",
+		"deaths": 58,
+		"cases": 480,
+		"latitude": 38.0147,
+		"longitude": -90.2214
+	},
+	{
+		"county": "Stearns",
+		"deaths": 272,
+		"cases": 52285,
+		"latitude": 45.465,
+		"longitude": -94.3222
+	},
+	{
+		"county": "Steele",
+		"deaths": 0,
+		"cases": 3535,
+		"latitude": 47.5974,
+		"longitude": -97.8994
+	},
+	{
+		"county": "Stephens",
+		"deaths": 127,
+		"cases": 6104,
+		"latitude": 32.7566,
+		"longitude": -98.9125
+	},
+	{
+		"county": "Stephenson",
+		"deaths": 30,
+		"cases": 4921,
+		"latitude": 42.4929,
+		"longitude": -89.7949
+	},
+	{
+		"county": "Steuben",
+		"deaths": 796,
+		"cases": 14482,
+		"latitude": 42.1634,
+		"longitude": -77.0925
+	},
+	{
+		"county": "Stevens",
+		"deaths": 51,
+		"cases": 1397,
+		"latitude": 48.2929,
+		"longitude": -117.7336
+	},
+	{
+		"county": "Stewart",
+		"deaths": 6,
+		"cases": 1979,
+		"latitude": 36.4818,
+		"longitude": -87.8437
+	},
+	{
+		"county": "Stillwater",
+		"deaths": 0,
+		"cases": 55,
+		"latitude": 45.7071,
+		"longitude": -109.5471
+	},
+	{
+		"county": "Stoddard",
+		"deaths": 58,
+		"cases": 2042,
+		"latitude": 37.0237,
+		"longitude": -89.8196
+	},
+	{
+		"county": "Stokes",
+		"deaths": 0,
+		"cases": 1378,
+		"latitude": 36.4113,
+		"longitude": -80.2122
+	},
+	{
+		"county": "Stone",
+		"deaths": 0,
+		"cases": 1931,
+		"latitude": 35.962,
+		"longitude": -92.2301
+	},
+	{
+		"county": "Storey",
+		"deaths": 0,
+		"cases": 16,
+		"latitude": 39.3075,
+		"longitude": -119.6483
+	},
+	{
+		"county": "Story",
+		"deaths": 36,
+		"cases": 2903,
+		"latitude": 42.1073,
+		"longitude": -93.6462
+	},
+	{
+		"county": "Strafford",
+		"deaths": 436,
+		"cases": 9856,
+		"latitude": 43.2534,
+		"longitude": -70.8856
+	},
+	{
+		"county": "Stutsman",
+		"deaths": 0,
+		"cases": 588,
+		"latitude": 47.3,
+		"longitude": -98.7321
+	},
+	{
+		"county": "Sublette",
+		"deaths": 0,
+		"cases": 176,
+		"latitude": 42.8676,
+		"longitude": -109.8707
+	},
+	{
+		"county": "Suffolk",
+		"deaths": 108411,
+		"cases": 2710362,
+		"latitude": 40.933,
+		"longitude": -72.4047
+	},
+	{
+		"county": "Sullivan",
+		"deaths": 1143,
+		"cases": 59502,
+		"latitude": 43.379,
+		"longitude": -72.3368
+	},
+	{
+		"county": "Sully",
+		"deaths": 0,
+		"cases": 52,
+		"latitude": 44.5538,
+		"longitude": -100.4753
+	},
+	{
+		"county": "Summers",
+		"deaths": 0,
+		"cases": 56,
+		"latitude": 37.6652,
+		"longitude": -80.8828
+	},
+	{
+		"county": "Summit",
+		"deaths": 4579,
+		"cases": 77184,
+		"latitude": 39.5817,
+		"longitude": -105.8681
+	},
+	{
+		"county": "Sumner",
+		"deaths": 2156,
+		"cases": 39838,
+		"latitude": 36.3782,
+		"longitude": -86.4696
+	},
+	{
+		"county": "Sumter",
+		"deaths": 3248,
+		"cases": 54855,
+		"latitude": 28.6335,
+		"longitude": -81.9986
+	},
+	{
+		"county": "Sunflower",
+		"deaths": 147,
+		"cases": 3487,
+		"latitude": 33.8101,
+		"longitude": -90.5304
+	},
+	{
+		"county": "Surry",
+		"deaths": 80,
+		"cases": 3864,
+		"latitude": 36.5233,
+		"longitude": -80.8671
+	},
+	{
+		"county": "Susquehanna",
+		"deaths": 509,
+		"cases": 4308,
+		"latitude": 41.9506,
+		"longitude": -75.6095
+	},
+	{
+		"county": "Sussex",
+		"deaths": 10143,
+		"cases": 197981,
+		"latitude": 38.4603,
+		"longitude": -75.0542
+	},
+	{
+		"county": "Sutter",
+		"deaths": 121,
+		"cases": 1978,
+		"latitude": 39.2788,
+		"longitude": -121.6624
+	},
+	{
+		"county": "Suwannee",
+		"deaths": 730,
+		"cases": 7372,
+		"latitude": 30.2956,
+		"longitude": -82.9847
+	},
+	{
+		"county": "Swain",
+		"deaths": 0,
+		"cases": 246,
+		"latitude": 35.4262,
+		"longitude": -83.4474
+	},
+	{
+		"county": "Sweetwater",
+		"deaths": 0,
+		"cases": 1111,
+		"latitude": 41.6698,
+		"longitude": -109.2714
+	},
+	{
+		"county": "Swift",
+		"deaths": 0,
+		"cases": 380,
+		"latitude": 45.2814,
+		"longitude": -95.7559
+	},
+	{
+		"county": "Swisher",
+		"deaths": 0,
+		"cases": 591,
+		"latitude": 34.5374,
+		"longitude": -101.7743
+	},
+	{
+		"county": "Switzerland",
+		"deaths": 0,
+		"cases": 961,
+		"latitude": 38.7427,
+		"longitude": -85.0783
+	},
+	{
+		"county": "Talbot",
+		"deaths": 124,
+		"cases": 4231,
+		"latitude": 32.5789,
+		"longitude": -84.5516
+	},
+	{
+		"county": "Taliaferro",
+		"deaths": 0,
+		"cases": 31,
+		"latitude": 33.5601,
+		"longitude": -82.795
+	},
+	{
+		"county": "Talladega",
+		"deaths": 108,
+		"cases": 3942,
+		"latitude": 33.3891,
+		"longitude": -86.0361
+	},
+	{
+		"county": "Tallahatchie",
+		"deaths": 47,
+		"cases": 824,
+		"latitude": 34.0075,
+		"longitude": -90.0552
+	},
+	{
+		"county": "Tallapoosa",
+		"deaths": 1909,
+		"cases": 16338,
+		"latitude": 33.0567,
+		"longitude": -85.9312
+	},
+	{
+		"county": "Tama",
+		"deaths": 699,
+		"cases": 15846,
+		"latitude": 41.9648,
+		"longitude": -92.5746
+	},
+	{
+		"county": "Taney",
+		"deaths": 88,
+		"cases": 653,
+		"latitude": 36.6058,
+		"longitude": -93.2338
+	},
+	{
+		"county": "Tangipahoa",
+		"deaths": 1353,
+		"cases": 34982,
+		"latitude": 30.7646,
+		"longitude": -90.5114
+	},
+	{
+		"county": "Taos",
+		"deaths": 0,
+		"cases": 1262,
+		"latitude": 36.7041,
+		"longitude": -105.4064
+	},
+	{
+		"county": "Tarrant",
+		"deaths": 5013,
+		"cases": 173295,
+		"latitude": 32.8605,
+		"longitude": -97.218
+	},
+	{
+		"county": "Tate",
+		"deaths": 15,
+		"cases": 2820,
+		"latitude": 34.6902,
+		"longitude": -89.9757
+	},
+	{
+		"county": "Tattnall",
+		"deaths": 0,
+		"cases": 619,
+		"latitude": 32.2806,
+		"longitude": -82.1387
+	},
+	{
+		"county": "Taylor",
+		"deaths": 357,
+		"cases": 18058,
+		"latitude": 45.0772,
+		"longitude": -90.3143
+	},
+	{
+		"county": "Tazewell",
+		"deaths": 194,
+		"cases": 3080,
+		"latitude": 37.0879,
+		"longitude": -81.808
+	},
+	{
+		"county": "Tehama",
+		"deaths": 38,
+		"cases": 103,
+		"latitude": 40.027,
+		"longitude": -122.0981
+	},
+	{
+		"county": "Telfair",
+		"deaths": 21,
+		"cases": 1404,
+		"latitude": 32.0635,
+		"longitude": -82.8968
+	},
+	{
+		"county": "Teller",
+		"deaths": 126,
+		"cases": 1624,
+		"latitude": 38.945,
+		"longitude": -105.1619
+	},
+	{
+		"county": "Tensas",
+		"deaths": 0,
+		"cases": 240,
+		"latitude": 32.0723,
+		"longitude": -91.239
+	},
+	{
+		"county": "Terrebonne",
+		"deaths": 1929,
+		"cases": 27362,
+		"latitude": 29.3864,
+		"longitude": -90.7081
+	},
+	{
+		"county": "Terrell",
+		"deaths": 1154,
+		"cases": 10474,
+		"latitude": 30.1508,
+		"longitude": -102.408
+	},
+	{
+		"county": "Terry",
+		"deaths": 0,
+		"cases": 660,
+		"latitude": 33.3377,
+		"longitude": -102.2059
+	},
+	{
+		"county": "Teton",
+		"deaths": 41,
+		"cases": 6154,
+		"latitude": 43.7737,
+		"longitude": -111.0312
+	},
+	{
+		"county": "Texas",
+		"deaths": 146,
+		"cases": 21274,
+		"latitude": 36.861,
+		"longitude": -101.2161
+	},
+	{
+		"county": "Thayer",
+		"deaths": 0,
+		"cases": 5,
+		"latitude": 40.2475,
+		"longitude": -97.3877
+	},
+	{
+		"county": "Thomas",
+		"deaths": 1173,
+		"cases": 12161,
+		"latitude": 41.9033,
+		"longitude": -100.2699
+	},
+	{
+		"county": "Thurston",
+		"deaths": 64,
+		"cases": 7792,
+		"latitude": 46.8537,
+		"longitude": -122.8607
+	},
+	{
+		"county": "Tift",
+		"deaths": 428,
+		"cases": 8489,
+		"latitude": 31.3389,
+		"longitude": -83.5949
+	},
+	{
+		"county": "Tillamook",
+		"deaths": 0,
+		"cases": 352,
+		"latitude": 45.1208,
+		"longitude": -123.9766
+	},
+	{
+		"county": "Tillman",
+		"deaths": 22,
+		"cases": 671,
+		"latitude": 34.3413,
+		"longitude": -98.8706
+	},
+	{
+		"county": "Tioga",
+		"deaths": 611,
+		"cases": 5586,
+		"latitude": 42.2149,
+		"longitude": -76.496
+	},
+	{
+		"county": "Tippah",
+		"deaths": 532,
+		"cases": 3672,
+		"latitude": 34.638,
+		"longitude": -88.8431
+	},
+	{
+		"county": "Tippecanoe",
+		"deaths": 132,
+		"cases": 11338,
+		"latitude": 40.5076,
+		"longitude": -86.8527
+	},
+	{
+		"county": "Tipton",
+		"deaths": 123,
+		"cases": 14015,
+		"latitude": 35.4128,
+		"longitude": -89.5412
+	},
+	{
+		"county": "Tishomingo",
+		"deaths": 0,
+		"cases": 680,
+		"latitude": 34.4866,
+		"longitude": -88.1863
+	},
+	{
+		"county": "Titus",
+		"deaths": 36,
+		"cases": 6146,
+		"latitude": 33.1658,
+		"longitude": -95.1105
+	},
+	{
+		"county": "Todd",
+		"deaths": 7,
+		"cases": 5316,
+		"latitude": 46.324,
+		"longitude": -95.0903
+	},
+	{
+		"county": "Tolland",
+		"deaths": 2377,
+		"cases": 29628,
+		"latitude": 41.7736,
+		"longitude": -72.3287
+	},
+	{
+		"county": "Tom Green",
+		"deaths": 54,
+		"cases": 3039,
+		"latitude": 31.4426,
+		"longitude": -100.4501
+	},
+	{
+		"county": "Tompkins",
+		"deaths": 104,
+		"cases": 8376,
+		"latitude": 42.4113,
+		"longitude": -76.4883
+	},
+	{
+		"county": "Tooele",
+		"deaths": 0,
+		"cases": 4309,
+		"latitude": 40.4496,
+		"longitude": -112.3672
+	},
+	{
+		"county": "Toole",
+		"deaths": 325,
+		"cases": 1678,
+		"latitude": 48.8777,
+		"longitude": -111.9062
+	},
+	{
+		"county": "Toombs",
+		"deaths": 177,
+		"cases": 1987,
+		"latitude": 32.1713,
+		"longitude": -82.3298
+	},
+	{
+		"county": "Torrance",
+		"deaths": 27,
+		"cases": 1177,
+		"latitude": 34.7669,
+		"longitude": -106.0313
+	},
+	{
+		"county": "Towns",
+		"deaths": 36,
+		"cases": 1002,
+		"latitude": 34.9789,
+		"longitude": -83.554
+	},
+	{
+		"county": "Traill",
+		"deaths": 0,
+		"cases": 233,
+		"latitude": 47.3482,
+		"longitude": -97.4101
+	},
+	{
+		"county": "Transylvania",
+		"deaths": 0,
+		"cases": 503,
+		"latitude": 35.1458,
+		"longitude": -82.8201
+	},
+	{
+		"county": "Traverse",
+		"deaths": 0,
+		"cases": 155,
+		"latitude": 45.5947,
+		"longitude": -96.8327
+	},
+	{
+		"county": "Travis",
+		"deaths": 3068,
+		"cases": 112798,
+		"latitude": 30.4088,
+		"longitude": -98.0451
+	},
+	{
+		"county": "Trego",
+		"deaths": 0,
+		"cases": 12,
+		"latitude": 39.0373,
+		"longitude": -100.1186
+	},
+	{
+		"county": "Trempealeau",
+		"deaths": 0,
+		"cases": 429,
+		"latitude": 44.3705,
+		"longitude": -91.3476
+	},
+	{
+		"county": "Treutlen",
+		"deaths": 0,
+		"cases": 263,
+		"latitude": 32.3782,
+		"longitude": -82.5945
+	},
+	{
+		"county": "Trigg",
+		"deaths": 0,
+		"cases": 397,
+		"latitude": 36.8696,
+		"longitude": -87.8048
+	},
+	{
+		"county": "Trimble",
+		"deaths": 0,
+		"cases": 169,
+		"latitude": 38.5953,
+		"longitude": -85.3175
+	},
+	{
+		"county": "Trinity",
+		"deaths": 0,
+		"cases": 567,
+		"latitude": 30.9376,
+		"longitude": -95.3254
+	},
+	{
+		"county": "Tripp",
+		"deaths": 0,
+		"cases": 83,
+		"latitude": 43.3776,
+		"longitude": -99.855
+	},
+	{
+		"county": "Troup",
+		"deaths": 332,
+		"cases": 9766,
+		"latitude": 33.1674,
+		"longitude": -84.9027
+	},
+	{
+		"county": "Trousdale",
+		"deaths": 133,
+		"cases": 45918,
+		"latitude": 36.3921,
+		"longitude": -86.1568
+	},
+	{
+		"county": "Trumbull",
+		"deaths": 1761,
+		"cases": 21194,
+		"latitude": 41.3421,
+		"longitude": -80.5277
+	},
+	{
+		"county": "Tucker",
+		"deaths": 0,
+		"cases": 267,
+		"latitude": 39.0814,
+		"longitude": -79.6455
+	},
+	{
+		"county": "Tulare",
+		"deaths": 2600,
+		"cases": 55827,
+		"latitude": 36.379,
+		"longitude": -119.0312
+	},
+	{
+		"county": "Tulsa",
+		"deaths": 1957,
+		"cases": 37897,
+		"latitude": 35.8602,
+		"longitude": -95.9753
+	},
+	{
+		"county": "Tunica",
+		"deaths": 113,
+		"cases": 2273,
+		"latitude": 34.7032,
+		"longitude": -90.3796
+	},
+	{
+		"county": "Tuolumne",
+		"deaths": 0,
+		"cases": 154,
+		"latitude": 37.8703,
+		"longitude": -120.4443
+	},
+	{
+		"county": "Turner",
+		"deaths": 460,
+		"cases": 5116,
+		"latitude": 31.671,
+		"longitude": -83.6354
+	},
+	{
+		"county": "Tuscaloosa",
+		"deaths": 277,
+		"cases": 18125,
+		"latitude": 33.2302,
+		"longitude": -87.4827
+	},
+	{
+		"county": "Tuscarawas",
+		"deaths": 51,
+		"cases": 9239,
+		"latitude": 40.2761,
+		"longitude": -81.5949
+	},
+	{
+		"county": "Tuscola",
+		"deaths": 884,
+		"cases": 6867,
+		"latitude": 43.4527,
+		"longitude": -83.6894
+	},
+	{
+		"county": "Twiggs",
+		"deaths": 3,
+		"cases": 495,
+		"latitude": 32.606,
+		"longitude": -83.246
+	},
+	{
+		"county": "Twin Falls",
+		"deaths": 710,
+		"cases": 13561,
+		"latitude": 42.5313,
+		"longitude": -114.3012
+	},
+	{
+		"county": "Tyler",
+		"deaths": 0,
+		"cases": 595,
+		"latitude": 39.4947,
+		"longitude": -80.907
+	},
+	{
+		"county": "Tyrrell",
+		"deaths": 0,
+		"cases": 197,
+		"latitude": 35.9201,
+		"longitude": -76.242
+	},
+	{
+		"county": "Uinta",
+		"deaths": 0,
+		"cases": 481,
+		"latitude": 41.0273,
+		"longitude": -110.1536
+	},
+	{
+		"county": "Uintah",
+		"deaths": 0,
+		"cases": 413,
+		"latitude": 40.3695,
+		"longitude": -109.3556
+	},
+	{
+		"county": "Ulster",
+		"deaths": 1273,
+		"cases": 73544,
+		"latitude": 41.6655,
+		"longitude": -74.3912
+	},
+	{
+		"county": "Umatilla",
+		"deaths": 70,
+		"cases": 3811,
+		"latitude": 45.976,
+		"longitude": -118.501
+	},
+	{
+		"county": "Unicoi",
+		"deaths": 0,
+		"cases": 169,
+		"latitude": 36.1222,
+		"longitude": -82.4202
+	},
+	{
+		"county": "Union",
+		"deaths": 41973,
+		"cases": 765542,
+		"latitude": 30.0638,
+		"longitude": -82.239
+	},
+	{
+		"county": "Upshur",
+		"deaths": 0,
+		"cases": 1160,
+		"latitude": 38.9927,
+		"longitude": -80.2282
+	},
+	{
+		"county": "Upson",
+		"deaths": 1138,
+		"cases": 12147,
+		"latitude": 32.9369,
+		"longitude": -84.3405
+	},
+	{
+		"county": "Utah",
+		"deaths": 499,
+		"cases": 63126,
+		"latitude": 40.0054,
+		"longitude": -111.7474
+	},
+	{
+		"county": "Uvalde",
+		"deaths": 0,
+		"cases": 427,
+		"latitude": 29.3214,
+		"longitude": -99.4696
+	},
+	{
+		"county": "Val Verde",
+		"deaths": 0,
+		"cases": 803,
+		"latitude": 29.3708,
+		"longitude": -100.88
+	},
+	{
+		"county": "Valencia",
+		"deaths": 36,
+		"cases": 2837,
+		"latitude": 34.7687,
+		"longitude": -106.6447
+	},
+	{
+		"county": "Valley",
+		"deaths": 0,
+		"cases": 223,
+		"latitude": 41.4248,
+		"longitude": -99.1259
+	},
+	{
+		"county": "Van Buren",
+		"deaths": 317,
+		"cases": 6694,
+		"latitude": 35.7393,
+		"longitude": -85.456
+	},
+	{
+		"county": "Van Wert",
+		"deaths": 0,
+		"cases": 217,
+		"latitude": 40.7852,
+		"longitude": -84.4559
+	},
+	{
+		"county": "Van Zandt",
+		"deaths": 66,
+		"cases": 1064,
+		"latitude": 32.554,
+		"longitude": -95.8639
+	},
+	{
+		"county": "Vance",
+		"deaths": 548,
+		"cases": 7608,
+		"latitude": 36.3259,
+		"longitude": -78.4155
+	},
+	{
+		"county": "Vanderburgh",
+		"deaths": 88,
+		"cases": 9312,
+		"latitude": 38.024,
+		"longitude": -87.512
+	},
+	{
+		"county": "Venango",
+		"deaths": 0,
+		"cases": 425,
+		"latitude": 41.4716,
+		"longitude": -79.9311
+	},
+	{
+		"county": "Ventura",
+		"deaths": 1215,
+		"cases": 38976,
+		"latitude": 34.2819,
+		"longitude": -119.1452
+	},
+	{
+		"county": "Vermilion",
+		"deaths": 149,
+		"cases": 3577,
+		"latitude": 29.975,
+		"longitude": -92.1266
+	},
+	{
+		"county": "Vermillion",
+		"deaths": 0,
+		"cases": 433,
+		"latitude": 39.667,
+		"longitude": -87.5203
+	},
+	{
+		"county": "Vernon",
+		"deaths": 101,
+		"cases": 1709,
+		"latitude": 43.6559,
+		"longitude": -90.3365
+	},
+	{
+		"county": "Victoria",
+		"deaths": 229,
+		"cases": 7478,
+		"latitude": 28.8285,
+		"longitude": -96.985
+	},
+	{
+		"county": "Vigo",
+		"deaths": 380,
+		"cases": 5129,
+		"latitude": 39.4936,
+		"longitude": -87.2667
+	},
+	{
+		"county": "Vilas",
+		"deaths": 0,
+		"cases": 292,
+		"latitude": 45.991,
+		"longitude": -89.5332
+	},
+	{
+		"county": "Vinton",
+		"deaths": 15,
+		"cases": 500,
+		"latitude": 39.1591,
+		"longitude": -82.5243
+	},
+	{
+		"county": "Volusia",
+		"deaths": 1326,
+		"cases": 28872,
+		"latitude": 28.8815,
+		"longitude": -81.324
+	},
+	{
+		"county": "Wabash",
+		"deaths": 73,
+		"cases": 2666,
+		"latitude": 38.5276,
+		"longitude": -87.7103
+	},
+	{
+		"county": "Wabasha",
+		"deaths": 0,
+		"cases": 727,
+		"latitude": 44.3707,
+		"longitude": -92.042
+	},
+	{
+		"county": "Wabaunsee",
+		"deaths": 0,
+		"cases": 1049,
+		"latitude": 39.0689,
+		"longitude": -96.167
+	},
+	{
+		"county": "Wadena",
+		"deaths": 0,
+		"cases": 177,
+		"latitude": 46.629,
+		"longitude": -95.0878
+	},
+	{
+		"county": "Wagoner",
+		"deaths": 776,
+		"cases": 7081,
+		"latitude": 35.9641,
+		"longitude": -95.3791
+	},
+	{
+		"county": "Wahkiakum",
+		"deaths": 0,
+		"cases": 168,
+		"latitude": 46.3076,
+		"longitude": -123.6344
+	},
+	{
+		"county": "Wake",
+		"deaths": 1084,
+		"cases": 57865,
+		"latitude": 35.8366,
+		"longitude": -78.8348
+	},
+	{
+		"county": "Wakulla",
+		"deaths": 52,
+		"cases": 1382,
+		"latitude": 30.0282,
+		"longitude": -84.3936
+	},
+	{
+		"county": "Waldo",
+		"deaths": 602,
+		"cases": 2546,
+		"latitude": 44.428,
+		"longitude": -69.0325
+	},
+	{
+		"county": "Walker",
+		"deaths": 575,
+		"cases": 31994,
+		"latitude": 30.705,
+		"longitude": -95.5545
+	},
+	{
+		"county": "Walla Walla",
+		"deaths": 50,
+		"cases": 4409,
+		"latitude": 46.1991,
+		"longitude": -118.9728
+	},
+	{
+		"county": "Waller",
+		"deaths": 0,
+		"cases": 2020,
+		"latitude": 30.0996,
+		"longitude": -96.0781
+	},
+	{
+		"county": "Wallowa",
+		"deaths": 0,
+		"cases": 77,
+		"latitude": 45.5704,
+		"longitude": -117.5286
+	},
+	{
+		"county": "Walsh",
+		"deaths": 0,
+		"cases": 440,
+		"latitude": 48.2924,
+		"longitude": -97.373
+	},
+	{
+		"county": "Walthall",
+		"deaths": 0,
+		"cases": 2129,
+		"latitude": 31.1173,
+		"longitude": -90.1444
+	},
+	{
+		"county": "Walton",
+		"deaths": 488,
+		"cases": 11415,
+		"latitude": 30.9746,
+		"longitude": -86.3099
+	},
+	{
+		"county": "Walworth",
+		"deaths": 491,
+		"cases": 11890,
+		"latitude": 42.8372,
+		"longitude": -88.734
+	},
+	{
+		"county": "Wapello",
+		"deaths": 101,
+		"cases": 11820,
+		"latitude": 40.9176,
+		"longitude": -92.2177
+	},
+	{
+		"county": "Ward",
+		"deaths": 52,
+		"cases": 1740,
+		"latitude": 31.4616,
+		"longitude": -103.3955
+	},
+	{
+		"county": "Ware",
+		"deaths": 581,
+		"cases": 8062,
+		"latitude": 31.2406,
+		"longitude": -82.3411
+	},
+	{
+		"county": "Warren",
+		"deaths": 6816,
+		"cases": 120203,
+		"latitude": 40.6774,
+		"longitude": -75.1558
+	},
+	{
+		"county": "Warrick",
+		"deaths": 935,
+		"cases": 6170,
+		"latitude": 38.0469,
+		"longitude": -87.2847
+	},
+	{
+		"county": "Wasatch",
+		"deaths": 56,
+		"cases": 10445,
+		"latitude": 40.4733,
+		"longitude": -111.2533
+	},
+	{
+		"county": "Wasco",
+		"deaths": 38,
+		"cases": 885,
+		"latitude": 45.685,
+		"longitude": -121.3952
+	},
+	{
+		"county": "Waseca",
+		"deaths": 0,
+		"cases": 728,
+		"latitude": 43.8938,
+		"longitude": -93.4939
+	},
+	{
+		"county": "Washakie",
+		"deaths": 28,
+		"cases": 739,
+		"latitude": 44.0347,
+		"longitude": -107.448
+	},
+	{
+		"county": "Washburn",
+		"deaths": 0,
+		"cases": 63,
+		"latitude": 45.8445,
+		"longitude": -91.5502
+	},
+	{
+		"county": "Washington",
+		"deaths": 9221,
+		"cases": 201903,
+		"latitude": 43.4204,
+		"longitude": -88.3443
+	},
+	{
+		"county": "Washita",
+		"deaths": 0,
+		"cases": 30,
+		"latitude": 35.156,
+		"longitude": -99.0594
+	},
+	{
+		"county": "Washoe",
+		"deaths": 1995,
+		"cases": 58216,
+		"latitude": 40.6451,
+		"longitude": -119.3614
+	},
+	{
+		"county": "Washtenaw",
+		"deaths": 3769,
+		"cases": 65978,
+		"latitude": 42.2755,
+		"longitude": -83.7312
+	},
+	{
+		"county": "Watauga",
+		"deaths": 0,
+		"cases": 674,
+		"latitude": 36.2074,
+		"longitude": -81.786
+	},
+	{
+		"county": "Watonwan",
+		"deaths": 0,
+		"cases": 1441,
+		"latitude": 44.0535,
+		"longitude": -94.8378
+	},
+	{
+		"county": "Waukesha",
+		"deaths": 1077,
+		"cases": 23979,
+		"latitude": 43.1229,
+		"longitude": -88.3838
+	},
+	{
+		"county": "Waupaca",
+		"deaths": 67,
+		"cases": 780,
+		"latitude": 44.395,
+		"longitude": -88.7394
+	},
+	{
+		"county": "Waushara",
+		"deaths": 0,
+		"cases": 232,
+		"latitude": 44.1788,
+		"longitude": -89.2442
+	},
+	{
+		"county": "Wayne",
+		"deaths": 104477,
+		"cases": 1075291,
+		"latitude": 38.4026,
+		"longitude": -82.5821
+	},
+	{
+		"county": "Weakley",
+		"deaths": 0,
+		"cases": 1075,
+		"latitude": 36.2174,
+		"longitude": -88.6107
+	},
+	{
+		"county": "Webb",
+		"deaths": 869,
+		"cases": 22437,
+		"latitude": 27.6555,
+		"longitude": -99.6178
+	},
+	{
+		"county": "Weber",
+		"deaths": 150,
+		"cases": 10478,
+		"latitude": 41.1717,
+		"longitude": -112.048
+	},
+	{
+		"county": "Webster",
+		"deaths": 417,
+		"cases": 10970,
+		"latitude": 38.411,
+		"longitude": -80.5542
+	},
+	{
+		"county": "Weld",
+		"deaths": 5637,
+		"cases": 103906,
+		"latitude": 40.8691,
+		"longitude": -104.2259
+	},
+	{
+		"county": "Wells",
+		"deaths": 0,
+		"cases": 796,
+		"latitude": 47.7926,
+		"longitude": -99.6528
+	},
+	{
+		"county": "West Baton Rouge",
+		"deaths": 1222,
+		"cases": 6863,
+		"latitude": 30.4456,
+		"longitude": -91.2098
+	},
+	{
+		"county": "West Carroll",
+		"deaths": 0,
+		"cases": 849,
+		"latitude": 32.6038,
+		"longitude": -91.4814
+	},
+	{
+		"county": "West Feliciana",
+		"deaths": 287,
+		"cases": 7905,
+		"latitude": 30.7851,
+		"longitude": -91.3787
+	},
+	{
+		"county": "Westchester",
+		"deaths": 65298,
+		"cases": 1749676,
+		"latitude": 40.9469,
+		"longitude": -73.7316
+	},
+	{
+		"county": "Westmoreland",
+		"deaths": 1606,
+		"cases": 23538,
+		"latitude": 40.4145,
+		"longitude": -79.5729
+	},
+	{
+		"county": "Weston",
+		"deaths": 0,
+		"cases": 7,
+		"latitude": 43.9847,
+		"longitude": -104.4268
+	},
+	{
+		"county": "Wetzel",
+		"deaths": 0,
+		"cases": 295,
+		"latitude": 39.5011,
+		"longitude": -80.5554
+	},
+	{
+		"county": "Wexford",
+		"deaths": 96,
+		"cases": 577,
+		"latitude": 44.5033,
+		"longitude": -85.672
+	},
+	{
+		"county": "Wharton",
+		"deaths": 0,
+		"cases": 2354,
+		"latitude": 29.1119,
+		"longitude": -96.4123
+	},
+	{
+		"county": "Whatcom",
+		"deaths": 1842,
+		"cases": 20196,
+		"latitude": 48.923,
+		"longitude": -122.7543
+	},
+	{
+		"county": "Wheatland",
+		"deaths": 0,
+		"cases": 40,
+		"latitude": 46.3447,
+		"longitude": -109.5123
+	},
+	{
+		"county": "Wheeler",
+		"deaths": 0,
+		"cases": 821,
+		"latitude": 35.5291,
+		"longitude": -100.4394
+	},
+	{
+		"county": "White",
+		"deaths": 252,
+		"cases": 12716,
+		"latitude": 35.9347,
+		"longitude": -85.4726
+	},
+	{
+		"county": "White Pine",
+		"deaths": 0,
+		"cases": 161,
+		"latitude": 38.9157,
+		"longitude": -115.0643
+	},
+	{
+		"county": "Whiteside",
+		"deaths": 376,
+		"cases": 5039,
+		"latitude": 41.7173,
+		"longitude": -89.9238
+	},
+	{
+		"county": "Whitfield",
+		"deaths": 301,
+		"cases": 8456,
+		"latitude": 34.8497,
+		"longitude": -85.0395
+	},
+	{
+		"county": "Whitley",
+		"deaths": 84,
+		"cases": 1915,
+		"latitude": 41.2308,
+		"longitude": -85.3201
+	},
+	{
+		"county": "Whitman",
+		"deaths": 0,
+		"cases": 1041,
+		"latitude": 47.0887,
+		"longitude": -117.0464
+	},
+	{
+		"county": "Wichita",
+		"deaths": 95,
+		"cases": 4389,
+		"latitude": 33.9072,
+		"longitude": -98.529
+	},
+	{
+		"county": "Wicomico",
+		"deaths": 710,
+		"cases": 28487,
+		"latitude": 38.2672,
+		"longitude": -75.8938
+	},
+	{
+		"county": "Wilbarger",
+		"deaths": 0,
+		"cases": 155,
+		"latitude": 34.148,
+		"longitude": -99.3
+	},
+	{
+		"county": "Wilcox",
+		"deaths": 662,
+		"cases": 8708,
+		"latitude": 32.0701,
+		"longitude": -87.2914
+	},
+	{
+		"county": "Wilkes",
+		"deaths": 120,
+		"cases": 12734,
+		"latitude": 36.2469,
+		"longitude": -81.1142
+	},
+	{
+		"county": "Wilkin",
+		"deaths": 145,
+		"cases": 589,
+		"latitude": 46.2769,
+		"longitude": -96.3122
+	},
+	{
+		"county": "Wilkinson",
+		"deaths": 565,
+		"cases": 6316,
+		"latitude": 32.8866,
+		"longitude": -83.3349
+	},
+	{
+		"county": "Will",
+		"deaths": 9966,
+		"cases": 186908,
+		"latitude": 41.4399,
+		"longitude": -87.6231
+	},
+	{
+		"county": "Willacy",
+		"deaths": 61,
+		"cases": 711,
+		"latitude": 26.4634,
+		"longitude": -97.9088
+	},
+	{
+		"county": "Williams",
+		"deaths": 49,
+		"cases": 2763,
+		"latitude": 48.2521,
+		"longitude": -103.4618
+	},
+	{
+		"county": "Williamsburg",
+		"deaths": 285,
+		"cases": 6373,
+		"latitude": 37.2692,
+		"longitude": -76.7076
+	},
+	{
+		"county": "Williamson",
+		"deaths": 1225,
+		"cases": 48952,
+		"latitude": 30.513,
+		"longitude": -97.7382
+	},
+	{
+		"county": "Wilson",
+		"deaths": 834,
+		"cases": 28591,
+		"latitude": 29.2358,
+		"longitude": -97.9636
+	},
+	{
+		"county": "Windham",
+		"deaths": 532,
+		"cases": 17138,
+		"latitude": 43.1219,
+		"longitude": -72.4555
+	},
+	{
+		"county": "Windsor",
+		"deaths": 132,
+		"cases": 2660,
+		"latitude": 43.33,
+		"longitude": -72.5262
+	},
+	{
+		"county": "Winkler",
+		"deaths": 0,
+		"cases": 150,
+		"latitude": 31.7545,
+		"longitude": -103.1541
+	},
+	{
+		"county": "Winn",
+		"deaths": 115,
+		"cases": 3454,
+		"latitude": 31.924,
+		"longitude": -92.6425
+	},
+	{
+		"county": "Winnebago",
+		"deaths": 1645,
+		"cases": 58171,
+		"latitude": 44.0391,
+		"longitude": -88.7378
+	},
+	{
+		"county": "Winneshiek",
+		"deaths": 0,
+		"cases": 917,
+		"latitude": 43.1014,
+		"longitude": -92.0463
+	},
+	{
+		"county": "Winona",
+		"deaths": 718,
+		"cases": 3718,
+		"latitude": 43.9837,
+		"longitude": -91.868
+	},
+	{
+		"county": "Winston",
+		"deaths": 17,
+		"cases": 5164,
+		"latitude": 34.1496,
+		"longitude": -87.4027
+	},
+	{
+		"county": "Wirt",
+		"deaths": 0,
+		"cases": 175,
+		"latitude": 39.0617,
+		"longitude": -81.3976
+	},
+	{
+		"county": "Wise",
+		"deaths": 180,
+		"cases": 2575,
+		"latitude": 33.2099,
+		"longitude": -97.7709
+	},
+	{
+		"county": "Wolfe",
+		"deaths": 0,
+		"cases": 15,
+		"latitude": 37.7999,
+		"longitude": -83.4172
+	},
+	{
+		"county": "Wood",
+		"deaths": 1606,
+		"cases": 13744,
+		"latitude": 44.6057,
+		"longitude": -89.8549
+	},
+	{
+		"county": "Woodbury",
+		"deaths": 583,
+		"cases": 72959,
+		"latitude": 42.3975,
+		"longitude": -96.3516
+	},
+	{
+		"county": "Woodford",
+		"deaths": 57,
+		"cases": 2019,
+		"latitude": 40.7406,
+		"longitude": -89.0181
+	},
+	{
+		"county": "Woodruff",
+		"deaths": 0,
+		"cases": 73,
+		"latitude": 35.0058,
+		"longitude": -91.2521
+	},
+	{
+		"county": "Woods",
+		"deaths": 0,
+		"cases": 135,
+		"latitude": 36.5849,
+		"longitude": -98.8784
+	},
+	{
+		"county": "Woodson",
+		"deaths": 0,
+		"cases": 339,
+		"latitude": 37.8682,
+		"longitude": -95.7533
+	},
+	{
+		"county": "Woodward",
+		"deaths": 0,
+		"cases": 103,
+		"latitude": 36.4379,
+		"longitude": -99.2045
+	},
+	{
+		"county": "Worcester",
+		"deaths": 21483,
+		"cases": 383443,
+		"latitude": 42.5438,
+		"longitude": -71.6147
+	},
+	{
+		"county": "Worth",
+		"deaths": 719,
+		"cases": 9672,
+		"latitude": 31.5103,
+		"longitude": -83.7368
+	},
+	{
+		"county": "Wright",
+		"deaths": 56,
+		"cases": 8958,
+		"latitude": 42.6593,
+		"longitude": -93.5012
+	},
+	{
+		"county": "Wyandot",
+		"deaths": 108,
+		"cases": 1457,
+		"latitude": 40.9517,
+		"longitude": -83.1709
+	},
+	{
+		"county": "Wyandotte",
+		"deaths": 3186,
+		"cases": 50359,
+		"latitude": 39.1234,
+		"longitude": -94.7443
+	},
+	{
+		"county": "Wyoming",
+		"deaths": 334,
+		"cases": 5146,
+		"latitude": 37.6927,
+		"longitude": -81.6324
+	},
+	{
+		"county": "Wythe",
+		"deaths": 43,
+		"cases": 756,
+		"latitude": 36.953,
+		"longitude": -81.0881
+	},
+	{
+		"county": "Yadkin",
+		"deaths": 57,
+		"cases": 3504,
+		"latitude": 36.2336,
+		"longitude": -80.8351
+	},
+	{
+		"county": "Yakima",
+		"deaths": 3304,
+		"cases": 102811,
+		"latitude": 46.7026,
+		"longitude": -120.756
+	},
+	{
+		"county": "Yalobusha",
+		"deaths": 68,
+		"cases": 2404,
+		"latitude": 33.9765,
+		"longitude": -89.6845
+	},
+	{
+		"county": "Yamhill",
+		"deaths": 397,
+		"cases": 2894,
+		"latitude": 45.211,
+		"longitude": -123.1918
+	},
+	{
+		"county": "Yancey",
+		"deaths": 0,
+		"cases": 275,
+		"latitude": 35.9164,
+		"longitude": -82.2974
+	},
+	{
+		"county": "Yankton",
+		"deaths": 0,
+		"cases": 1938,
+		"latitude": 42.8901,
+		"longitude": -97.3926
+	},
+	{
+		"county": "Yates",
+		"deaths": 153,
+		"cases": 1145,
+		"latitude": 42.6123,
+		"longitude": -77.0916
+	},
+	{
+		"county": "Yavapai",
+		"deaths": 181,
+		"cases": 9514,
+		"latitude": 35.2171,
+		"longitude": -112.4913
+	},
+	{
+		"county": "Yazoo",
+		"deaths": 106,
+		"cases": 8674,
+		"latitude": 32.672,
+		"longitude": -90.5445
+	},
+	{
+		"county": "Yell",
+		"deaths": 30,
+		"cases": 1788,
+		"latitude": 35.053,
+		"longitude": -93.3902
+	},
+	{
+		"county": "Yellow Medicine",
+		"deaths": 0,
+		"cases": 209,
+		"latitude": 44.6918,
+		"longitude": -95.6194
+	},
+	{
+		"county": "Yellowstone",
+		"deaths": 89,
+		"cases": 4918,
+		"latitude": 46.0988,
+		"longitude": -108.8789
+	},
+	{
+		"county": "Yoakum",
+		"deaths": 0,
+		"cases": 89,
+		"latitude": 33.1896,
+		"longitude": -102.8271
+	},
+	{
+		"county": "Yolo",
+		"deaths": 933,
+		"cases": 9562,
+		"latitude": 38.8926,
+		"longitude": -121.9741
+	},
+	{
+		"county": "York",
+		"deaths": 1543,
+		"cases": 73070,
+		"latitude": 40.7795,
+		"longitude": -97.8114
+	},
+	{
+		"county": "Young",
+		"deaths": 49,
+		"cases": 243,
+		"latitude": 33.195,
+		"longitude": -98.7436
+	},
+	{
+		"county": "Yuba",
+		"deaths": 59,
+		"cases": 1290,
+		"latitude": 39.3204,
+		"longitude": -121.4038
+	},
+	{
+		"county": "Yuma",
+		"deaths": 212,
+		"cases": 16631,
+		"latitude": 39.7029,
+		"longitude": -102.2938
+	},
+	{
+		"county": "Zapata",
+		"deaths": 0,
+		"cases": 370,
+		"latitude": 26.9027,
+		"longitude": -99.2612
+	},
+	{
+		"county": "Zavala",
+		"deaths": 0,
+		"cases": 252,
+		"latitude": 28.7221,
+		"longitude": -99.8327
+	},
+	{
+		"county": "Ziebach",
+		"deaths": 0,
+		"cases": 28,
+		"latitude": 45.0495,
+		"longitude": -101.6013
+	}
+]

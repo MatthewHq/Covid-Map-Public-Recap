@@ -1,0 +1,14 @@
+node_modules
+__pycache__/
+.vscode/
+CSV/.vscode/
+CSV/__pycache__/
+CSV/myfile.json
+CSV/test0.csv
+CSV/us_counties_covid19_daily.csv
+CSV/uscities.csv
+data/myfile.json
+public/gundata.json
+public/vancouver-blocks.json
+
+
