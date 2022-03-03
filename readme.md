@@ -17,7 +17,7 @@ daily script
 * Aggregate cases and deaths based on fips, county, state
     * READS mapData.json and drop cols - as jsonMapData
         processed google geocoding API data with lat/lng/fips..
-    * MERGES mainData and jsonMapData - as
+    * MERGES mainData and jsonMapData
     * WRITES combined - as covid_dailyCLEANED.csv
     * WRITES formatted fips, county, state, latitude, longitude, cases, and deaths for novel county entries to combinedData.json
 
